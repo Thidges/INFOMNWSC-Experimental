@@ -1,1 +1,1 @@
-print("Hallo")
+import os
