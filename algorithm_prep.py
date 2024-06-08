@@ -1,5 +1,5 @@
 """
-This file is meant for making a .cmd file that let's the algorithm several times.
+This file is meant for making a .cmd file that runs the algorithm several times.
 """
 import os
 
