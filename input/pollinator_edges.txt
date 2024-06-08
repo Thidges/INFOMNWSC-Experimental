@@ -1,0 +1,4198 @@
+Wind,Castanea
+Colletes scopiventer,Callirhoe involucrata
+Bombus,Lonicera
+Bembix rugosa,Pholisma sonorae
+Melyridae,Dudleya multicaulis
+Emmenotarsus,Calochortus
+Trochilidae,Ipomoea hederifolia
+Insecta,Tilia americana
+Sphingidae,Lonicera caprifolium
+Coleoptera,Sambucus racemosa
+Chiastochaeta,Trollius
+Bees,Ceanothus crassifolius
+Diptera,Rudbeckia hirta
+Bombus flavifrons,Hedysarum boreale
+Bees,Iliamna rivulari
+Bees,Cornus canadensis
+Bees,Helenium puberulum
+Bombus lucorum,Lonicera japonica
+Halictidae,Rudbeckia triloba
+Diptera,Scaevola coriacea
+Bees,Aptenia cordifolia
+Bees,Callirhoe involucrata
+Bees,Mentha X piperita
+Insecta,Polemonium foliosissimum
+Dufourea,Calochortus
+Insecta,Scaevola
+Amazilia yucatanensis,Tillandsia
+Hymenoptera,Cuscuta epithymum
+Bees,Delphinium carolinianum
+Bombus vagans,Aconitum
+Lepidoptera,Tiarella cordifolia
+Psaenythia,Desmodium
+Perdita boltoniae,Boltonia asteroides
+Diptera,Osteomeles anthyllidifolia
+Trochilidae,Philadelphus pubescens
+Birds,Lobelia cardinalis
+Diptera,Sorbus americana
+Insecta,Iliamna rivulari
+Diptera,Maianthemum stellatum
+Wasps,Metrosideros polymorpha
+Osmia,Cypripedium parviflorum
+Wind,Adiantum
+Lepidoptera,Scaevola gaudichaudiana
+Dufourea novaeangliae,Pontederia cordata
+Diptera,Achillea millefolium
+Bees,Symplocos tinctoria
+Hymenoptera,Polygonum cascadense
+Bees,Lilium superbum
+Self pollinated,Limonium vulgare
+Chrysotus costalis,Geum radiatum
+Anthophora,Hydrophyllum canadense
+Lepidoptera,Arnica fulgens
+Bombus vagans,Cypripedium acaule
+Diptera,Gypsophila paniculata
+Andrena geranii,Hydrophyllum
+Selasphorus rufus,Delphinium nuttallianum
+Colletes robertsonii,Dalea
+Halictidae,Cymopterus beckii
+Bombus appositus,Delphinium barbeyi
+Trochilidae,Sphaeralcea coccinea
+Diptera,Eutrochium fistulosum
+Bees,Fendlera rupicola
+Xylocopa appendiculata circumvolans,Erythronium albidum
+Trochilidae,Lonicera hispidula
+Bees,Rhododendron occidentale
+Xylocopa suspecta,Echinodorus longipetalus
+Vespula schrenckii,Achyranthes bidentata
+Bees,Monarda
+Diptera,Broussaisia arguta
+Apis,Raphanus sativus
+Bees,Chamaedaphne calyculata
+Coleoptera,Helenium puberulum
+Megachilidae,Brodiaea filifolia
+Syrphus torvus,Cypripedium parviflorum var. parviflorum
+Apis,Dalea
+Coleoptera,Actaea pachypoda
+Sphingidae,Brunfelsia lactea
+Euphyes vestris,Platanthera blephariglottis
+Colletes,Physalis philadelphica var. immaculata
+Lepidoptera,Stanleya pinnata
+Bees,Acer saccharinum
+Apis,Sonchus arvensis
+Bombus,Scutellaria
+Wasps,Clematis virginiana
+Self pollinated,Polygonatum biflorum
+Andrena,Vaccinium macrocarpon
+Nomia nortoni,Marrubium vulgare
+Bees,Silene stellata
+Wasps,Symphyotrichum cordifolium
+Bees,Penstemon pallidus
+Lepidoptera,Rosa carolina
+Coleoptera,Symphyotrichum laeve var. concinnum
+Megachile frontalis,Desmodium setigerum
+Diptera,Rumex skottsbergii
+Bees,Mertensia franciscana
+Conophorus cristatus,Lasthenia burkei
+Megachilidae,Astragalus brauntonii
+Diptera,Asclepias incarnata
+Coleoptera,Acmispon dendroideus var. traskiae
+Xenoglossa strenua,Cucurbita pepo
+Bees,Penstemon cyananthus
+Bombus,Dicentra
+Bees,Collinsia heterophylla
+Lepidoptera,Penstemon speciosus
+Hymenoptera,Raphanus raphanistrum
+Diptera,Sidalcea neomexicana
+Bees,Psydrax odorata
+Bees,Diospyros hillebrandii
+Bees,Leptosiphon parviflorus
+Bombus,Polemonium viscosum
+Bombus,Valeriana sitchensis
+Xylocopa,Delphinium nuttallianum
+Diptera,Polygala lewtonii
+Andrena pensilis,Limnanthes vinculans
+Bees,Euphorbia celastroides var. kaenana
+Coleoptera,Drymocallis glandulosa var. glandulosa
+Phyllobaenus subfasciatus,Amorpha canescens
+Bombus,Pedicularis canadensis
+Xylocopa virginica,Catalpa speciosa
+Coleoptera,Cornus drummondii
+Trochilidae,Brodiaea ida-maia
+Vespula germanica,Scrophularia nodosa
+Lepidoptera,Chaenactis glabriuscula
+Bees,Vitis rotundifolia
+Diptera,Ilex mucronata
+Calliphoridae,Ailanthus altissima
+Bees,Viola adunca
+Thrips,Capsicum frutescens
+Diptera,Gentianella quinquefolia ssp. quinquefolia
+Hesperiidae,Dudleya
+Bees,Aruncus dioicus var. dioicus
+Melissodes,Amaranthus palmeri
+Bombus,Pyrus malus
+Thrips,Cynoglossum officinale
+Brachysomida,Calochortus
+Diptera,Erigeron speciosus
+Osmia cornifrons,Capsicum frutescens
+Bombus,Argemone hispida
+Bombus fervidus,Mimulus ringens
+Diptera,Magnolia tripetala
+Perdita boltoniae,Boltonia decurrens
+Bees,Halesia carolina
+Coleoptera,Trillium
+Sarcophaga,Croton texensis
+Trochilidae,Eriastrum densifolium
+Bees,Rhus aromatica
+Bombyliidae,Bidens cosmoides
+Lasioglossum olympiae,Potentilla gracilis
+Apis,Plantago lanceolata
+Self pollinated,Cuscuta epithymum
+Hesperia viridis,Opuntia phaeacantha
+Diptera,Prunus serotina
+Coleoptera,Ceanothus thyrsiflorus
+Eristalis rupium,Galearis rotundifolia
+Megachile cincta,Desmodium setigerum
+Bees,Claoxylon sandwicense
+Halictus ligatus,Cypripedium candidum
+Lepidoptera,Symphyotrichum laeve var. concinnum
+Bees,Mimulus lewisii
+Phaenicia,Pyxidanthera barbulata
+Lepidoptera,Asclepias eriocarpa
+Bees,Clarkia purpurea
+Trochilidae,Lycium andersonii
+Diptera,Rubus parviflorus
+Panurginus atriceps,Downingia
+Lepidoptera,Anaphalis margaritacea
+Coleoptera,Aronia melanocarpa
+Lepidoptera,Erigeron speciosus
+Bees,Packera aurea
+Lepidoptera,Balsamorhiza sagittata
+Lasioglossum,Ferocactus wislizeni
+Apis,Monarda fistulosa
+Chloropidae,Eriogonum ovalifolium var. vineum
+Halictidae,Lobelia siphilitica
+Sphingidae,Platanthera
+Syrphidae,Erysimum
+Noctuidae,Platanthera
+Bees,Cornus florida
+Sphingidae,Brighamia rockii
+Insecta,Sphaeralcea grossulariifolia
+Coleoptera,Lupinus perennis
+Self pollinated,Ribes
+Bees,Cephalanthus occidentalis
+Sphingidae,Aliciella haydenii
+Coleoptera,Rudbeckia laciniata
+Bombus impatiens,Mimulus ringens
+Lepidoptera,Eurybia divaricata
+Hymenoptera,Salvia farinacea
+Vespidae,Lobularia maritima
+Apis mellifera,Alectryon ramiflorus
+Lepidoptera,Centranthus ruber
+Samea,Ageratina aromatica
+Apis,Crepis atribarba
+Coleoptera,Castanea
+Self pollinated,Cirsium vulgare
+Hymenoptera,Lavandula latifolia
+Halictus,Capsicum frutescens
+Self pollinated,Hybanthus
+Coleoptera,Echinacea angustifolia
+Halictus,Pyxidanthera barbulata
+Lepidoptera,Callicarpa americana
+Bombus pensylvanicus,Manfreda virginica
+Bombus vosnesenskii,Chloropyron palmatum
+Apis cerana,Foeniculum vulgare
+Bombus,Ajuga reptans
+Xylocopa,Styrax
+Bees,Pseudognaphalium ssp. canescens
+Melissodes tristis,Opuntia macrocentra
+Bombus,Scrophularia
+Self pollinated,Crepis
+Bees,Trichostema dichotomum
+Bees,Anemone acutiloba
+Syrphidae,Limonium otolepis
+Bees,Liatris punctata
+Lepidoptera,Rhus integrifolia
+Wind,Forestiera
+Bees,Lupinus
+Lasioglossum pruinosiforme,Opuntia macrocentra
+Hadena,Silene flos-cuculi
+Lepidoptera,Solidago
+Diadasia rinconis,Ferocactus wislizeni
+Coleoptera,Viburnum rufidulum
+Self pollinated,Spiranthes parksii
+Megachile,Aliciella pinnatifida
+Diptera,Sanguinaria canadensis
+Diptera,Cornus amomum
+Melitoma taurea,Ipomoea
+Diptera,Comandra umbellata
+Trochilidae,Ipomoea sagittata
+Hoplitis,Brodiaea pallida
+Nitidulidae,Trillium ovatum
+Euphoria kernii,Callirhoe involucrata
+Diptera,Cornus florida
+Wasps,Eupatorium resinosum
+Lepidoptera,Malva assurgentiflora
+Apis mellifera,Lasthenia burkei
+Trochilidae,Penstemon smalli
+Birds,Santalum freycinetianum
+Apidae,Wyethia amplexicaulis
+Wasps,Monarda punctata var. punctata
+Bees,Wikstroemia sandwicensis
+Trochilidae,Castilleja miniata
+Wind,Celtis
+Agapostemon texanus,Dudleya
+Lepidoptera,Robinia pseudoacacia
+Halictidae,Thalictrum
+Augochlora pura,Sabal palmetto
+Apis,Ribes
+Eumenidae,Lobularia maritima
+Agapostemon,Cypripedium parviflorum
+Halictidae,Physaria obcordata
+Syrphidae,Lycium barbarum
+Melipona interrupta,Hybanthus prunifolius
+Copidosoma bakeri,Arceuthobium vaginatum ssp. cryptopodum
+Rhingia,Ajuga reptans
+Bees,Cryptantha intermedia
+Andrena salictaria,Salix
+Hymenoptera,Linum lewisii
+Trochilidae,Silene laciniata
+Lasioglossum,Hypericum perforatum
+Diptera,Fallugia paradoxa
+Apis,Securigera varia
+Bombus impatiens,Solanum melongena
+Coleoptera,Magnolia acuminata
+Epuraea horni,Magnolia ashei
+Trochilidae,Liatris
+Bees,Iris virginica
+Hymenoptera,Delphinium nuttallianum
+Bombus lapidarius,Limonium vulgare
+Apidae,Trifolium pratense
+Bombus,Viola
+Bees,Parnassia fimbriata
+Coleoptera,Ceanothus crassifolius
+Diptera,Nesoluma polynesicum
+Bees,Liatris pycnostachya
+Trochilidae,Ribes quercetorum
+Eupeodes,Narthecium asiaticum
+Self pollinated,Stephanomeria
+Sphex pennsylvanicus,Asclepias verticillata
+Wind,Schoenoplectus acutus
+Bees,Lespedeza virginica
+Andrena pensilis,Blennosperma bakeri
+Bombus,Lygodesmia juncea
+Andrena crudeni,Nemophila menziesii
+Bombus griseocollis,Asclepias verticillata
+Syrphidae,Cirsium arvense
+Lepidoptera,Baccharis pilularis
+Diadasia Rinconis,Opuntia phaeacantha
+Apis mellifera,Fremontodendron mexicanum
+Bombus,Mertensia franciscana
+Bombus pensylvanicus,Asclepias syriaca
+Apis,Arctostaphylos pringlei
+Halictus,Pyrus malus
+Trochilidae,Heuchera villosa
+Coleoptera,Helianthus schweinitzii
+Diptera,Solanum
+Lasioglossum,Pyrus malus
+Trochilidae,Rhododendron calendulaceum
+Bombus,Bignonia capreolata
+Agrius,Dianthus sylvestris
+Insecta,Erysimum
+Tetralonia,Fremontodendron decumbens
+Bees,Artemisia mauiensis
+Lepidoptera,Penstemon rydbergii
+Papilio glaucus glaucus,Ribes cereum
+Bees,Ceanothus fendleri
+Bees,Syringa
+Coleoptera,Mimulus lewisii
+Coleoptera,Sphaeralcea coccinea
+Megachile pascoensis,Clarkia xantiana
+Lasioglossum anomalum,Cypripedium candidum
+Coleoptera,Mentzelia nuda
+Melanargia galathea,Dianthus carthusianorum
+Bees,Geum rivale
+Trochilidae,Stachys
+Trochilidae,Actaea racemosa
+Apis,Arctostaphylos glandulosa ssp. mollis
+Halictidae,Jepsonia parryi
+Lepidoptera,Fothergilla major
+Apis,Clethra acuminata
+Hymenoptera,Acacia
+Birds,Hibiscus clayi
+Self pollinated,Cistanthe umbellata
+Xylocopa,Sesbania sesban
+Sphingidae,Catalpa speciosa
+Wind,Artemisia frigida
+Lepidoptera,Penstemon pallidus
+Bombus griseocollis,Asclepias incarnata
+Trochilidae,Illicium floridanum
+Bees,Astragalus osterhoutii
+Polites peckius,Platanthera blephariglottis
+Hymenoptera,Carduus nutans
+Bombus griseocollis,Napaea dioica
+Coleoptera,Asimina parviflora
+Bees,Sambucus nigra ssp. canadensis
+Bees,Peritoma serrulata
+Lepidoptera,Berberis fremontii
+Trochilidae,Delphinium recurvatum
+Hadena,Dianthus sylvestris
+Anthophila,Sonchus arvensis
+Bees,Haplopappus
+Apis,Convallaria majalis
+Bombus terrestris,Lupinus pilosus
+Apis,Asclepias syriaca
+Bees,Cheirodendron trigynum
+Self pollinated,Epilobium danielsii
+Wind,Scirpus atrovirens
+Vespula maculifrons,Impatiens capensis
+Coleoptera,Rubus parviflorus
+Insecta,Ericameria nauseosa
+Bees,Rubus hawaiensis
+Syrphidae,Ailanthus altissima
+Bees,Phacelia imbricata
+Lepidoptera,Eupatorium perfoliatum
+Diptera,Artemisia mauiensis
+Diptera,Barbarea vulgaris
+Megachile semierma,Desmodium setigerum
+Bombus rufocinctus,Potentilla recta
+Trochilidae,Salvia carduacea
+Diptera,Trillium
+Lasioglossum cressonii,Cypripedium candidum
+Lepidoptera,Monardella macrantha
+Osmia calaminthae,Clinopodium ashei
+Bombus vosnesenskii,Goodyera oblongifolia
+Bees,Echeandia texensis
+Lepidoptera,Lobelia cardinalis
+Lepidoptera,Verbena hastata
+Insecta,Philadelphus lewisii
+Chelostoma philadelphi,Philadelphus
+Bombus,Iris virginica
+Bees,Ceanothus thyrsiflorus
+Diptera,Zizia aurea
+Diptera,Viburnum dentatum
+Trochilidae,Castilleja rhexiifolia
+Bombus flavifrons,Rudbeckia occidentalis
+Bees,Lithospermum caroliniense
+Wind,Ambrosia cheiranthifolia
+Bees,Dalea foliosa
+Diptera,Malaxis monophyllos
+Diptera,Tagetes erecta
+Halictidae,Iliamna remota
+Ceratina,Physaria filiformis
+Apis mellifera,Ferocactus cylindraceus
+Bees,Petunia integrifolia
+Diptera,Jacquemontia ovalifolia
+Andrena,Paeonia brownii
+Bombus griseocollis,Asclepias syriaca
+Bombylius fraudulentus,Stylisma pickeringii var. pattersonii
+Lasioglossum,Sabal mauritiiformis
+Bees,Erythronium
+Lepidoptera,Eutrochium purpureum
+Diptera,Ilex anomala
+Bombus,Diervilla sessilifolia
+Bees,Tradescantia virginiana
+Bombus,Astragalus brauntonii
+Lepidoptera,Prunus serotina
+Hymenoptera,Gayophytum
+Hyles lineata,Oenothera
+Augochloropsis anonyma,Jacquemontia reclinata
+Rediviva neliana,Lysimachia punctata
+Sphingidae,Manfreda virginica
+Wasps,Scutellaria
+Apis mellifera,Apios americana
+Lepidoptera,Rhus copallinum
+Apis,Vernonia noveboracensis
+Bombus,Nepeta cataria
+Bees,Erythrina sandwicensis
+Apis cerana cerana,Sagittaria trifolia
+Bombus,Delphinium bakeri
+Insecta,Eriogonum umbellatum
+Trochilidae,Clethra alnifolia
+Coleoptera,Frasera speciosa
+Bees,Dudleya abramsii
+Bees,Erysimum
+Andrena ceanothi,Isotria verticillata
+Self pollinated,Warea carteri
+Bees,Portulaca sclerocarpa
+Bees,Layia glandulosa
+Halictus,Pycnanthemum tenuifolium
+Euphydryas,Hymenoxys grandiflora
+Bees,Rumex skottsbergii
+Diadasia rinconis,Ferocactus cylindraceus
+Diptera,Rubus odoratus
+Bees,Pisonia umbellifera
+Wind,Acer saccharinum
+Bees,Ericameria linearifolia
+Anthophoridae,Calochortus macrocarpus var. maculosus
+Stellula calliope,Delphinium nuttallianum
+Bees,Romneya coulteri
+Andrena,Achillea
+Lepidoptera,Lilium
+Trochilidae,Penstemon eatonii
+Syrphidae,Coreopsis
+Bees,Ilex mucronata
+Wind,Atriplex canescens var. gigantea
+Tetragonula carbonaria,Alectryon ramiflorus
+Bees,Penstemon procerus
+Bombus sonorus,Trichostema lanceolatum
+Diptera,Matelea alabamensis
+Trochilidae,Castilleja affinis
+Bees,Arctostaphylos pringlei
+Wasps,Rubus odoratus
+Bombus,Cornus sericea ssp. sericea
+Perdita,Calochortus
+Trochilidae,Liatris spicata
+Bees,Hydrolea ovata
+Bees,Primula clevelandii var. clevelandii
+Chiroptera,Agave parryi
+Wind,Tilia americana
+Apis,Agastache pallidiflora
+Apis,Lantana camara
+Eutrichopleurus,Calochortus
+Bees,Liatris spicata var. spicata
+Lepidoptera,Rhamnus californica ssp. californica
+Lepidoptera,Dichelostemma ida-maia
+Bees,Sanicula bipinnatifida
+Vespidae,Jacquemontia reclinata
+Bombus,Agave X arizonica
+Coleoptera,Freycinetia arborea
+Bees,Penstemon canescens
+Lasioglossum cressonii,Triphora trianthophoros
+Apis mellifera,Stylisma pickeringii var. pattersonii
+Bees,Ilex opaca
+Bees,Verbena lasiostachys
+Bees,Asclepias eriocarpa
+Bees,Philadelphus lewisii
+Trochilidae,Coreopsis pubescens
+Coleoptera,Fragaria chiloensis
+Hylaeus,Capsicum frutescens
+Zosterops japonicus,Hibiscadelphus giffardianus
+Ceratina,Liatris aspera
+Bees,Calochortus albus
+Lepidoptera,Scaevola chamissoniana
+Bees,Phacelia ciliata
+Bombus,Primula pauciflora var. pauciflora
+Bees,Symphyotrichum oblongifolium
+Bees,Trillium recurvatum
+Bombus flavifrons,Oxytropis campestris var. chartacea
+Bees,Scaevola chamissoniana
+Trochilidae,Lonicera sempervirens
+Megachile amica,Callirhoe involucrata
+Wasps,Scrophularia umbrosa
+Lepidoptera,Hibiscus waimeae
+Lepidoptera,Lindera benzoin
+Anthophora,Solidago altissima
+Andrena,Dipsacus
+Passeriformes,Erythrina
+Bombus,Erigeron
+Lepidoptera,Dasylirion wheeleri
+Hoplitis,Phacelia
+Bombus bifarius,Rudbeckia occidentalis
+Bees,Rhodiola integrifolia
+Osmia lignaria,Prunus americana
+Coleoptera,Asimina tetramera
+Halictidae,Cypripedium montanum
+Ategumia ebulealis,Ageratina aromatica
+Empididae,Shepherdia canadensis
+Bombus,Solanum dulcamara
+Diptera,Arisaema triphyllum
+Diadasia Rinconis,Cylindropuntia whipplei
+Gonia,Pyxidanthera barbulata
+Trochilidae,Hibiscus
+Bees,Amorpha californica
+Lepidoptera,Viola nuttallii
+Bees,Rosa nutkana
+Coleoptera,Rudbeckia
+Trochilidae,Lobelia siphilitica
+Bombus,Rubus
+Chlorodrepanis virens virens,Hibiscadelphus giffardianus
+Pseudopanurgus rugosus,Helianthus
+Bombus huntii,Actaea arizonica
+Ptilothrix bombiformis,Hibiscus dasycalyx
+Bombus pascuorum,Stachys sylvatica
+Lepidoptera,Waltheria indica
+Bees,Senna
+Trochilidae,Castilleja foliolosa
+Apis,Swertia przewalskii
+Bombus,Dudleya greenei
+Trochilidae,Malva assurgentiflora
+Bees,Polygonatum biflorum
+Lepidoptera,Iliamna rivulari
+Bombus,Ipomopsis globularis
+Eumenidae,Polygonella basiramia
+Anthophoridae,Rhynchospora
+Bees,Ceanothus oliganthus
+Pieris rapae,Asclepias incarnata
+Insecta,Eriodictyon californicum
+Amegilla fallax,Desmodium setigerum
+Hymenoptera,Ephedra aphylla
+Lepidoptera,Parnassia palustris
+Bombus impatiens,Galearis spectabilis
+Syrphidae,Ipomopsis aggregata
+Bombus lucorum,Phacelia campanularia
+Bees,Prunus ilicifolia
+Osmia lignaria,Pyrus communis
+Andrena,Liatris aspera
+Chiroptera,Mezonevron kavaiense
+Bees,Triteleia laxa
+Self pollinated,Tribulus terrestris
+Bees,Geranium maculatum
+Osmia rufa,Pyrus malus
+Bees,Tellima grandiflora
+Bombyliidae,Jacquemontia reclinata
+Lepidoptera,Coreopsis grandiflora
+Bees,Helenium campestre
+Lepidoptera,Solidago speciosa
+Insecta,Frasera speciosa
+Wind,Amaranthus pumilus
+Bombus mixtus,Astragalus agnicidus
+Lepidoptera,Liatris pycnostachya
+Diptera,Viburnum prunifolium
+Muscidae,Apocynum androsaemifolium
+Diptera,Amelanchier alnifolia
+Bees,Cornus drummondii
+Bombus,Tradescantia occidentalis
+Apis,Rubus arcticus
+Halictidae,Solanum lycopersicum
+Diptera,Dasylirion wheeleri
+Judolia,Calochortus
+Megachile diligens,Medicago
+Apis mellifera,Asclepias syriaca
+Bees,Oenothera filiformis
+Lepidoptera,Cyrilla racemiflora
+Diptera,Maianthemum racemosum
+Bees,Echinocactus horizonthalonius
+Lepidoptera,Actaea podocarpa
+Hymenoptera,Ranunculus acriformis var. aestivalis
+Bombus,Brassica
+Ctenucha,Catalpa speciosa
+Insecta,Agoseris glauca
+Bombus pensylvanicus,Galearis spectabilis
+Polites mystic,Platanthera blephariglottis
+Coleoptera,Rudbeckia hirta
+Diptera,Anethum graveolens
+Eupeodes lapponicus,Galearis rotundifolia
+Bees,Ipomoea pes-caprae
+Trochilidae,Lilium superbum
+Apis,Calochortus
+Wasps,Phacelia imbricata
+Lepidoptera,Lobelia siphilitica
+Caupolicana electa,Dicerandra frutescens
+Bombus flavifrons,Astragalus americanus
+Copestylum florida,Clinopodium ashei
+Hemiptera,Eutrochium maculatum
+Lasioglossum,Chloropyron palmatum
+Wind,Coprosma ernodeoides
+Lepidoptera,Ruellia humilis
+Apis mellifera,Purshia X subintegra
+Apis,Minuartia glabra
+Scotoleon minusculus,Oenothera cinerea
+Diptera,Amelanchier arborea
+Anthrax irroratus,Astrophytum asterias
+Megachile xylocopoides,Sabal etonia
+Scathophagidae,Ribes
+Bombus,Trifolium pratense
+Bees,Ribes quercetorum
+Coleoptera,Solidago curtisii
+Halictus,Salvia mellifera
+Bombus,Primula fassettii
+Bombyliidae,Linnaea borealis
+Hymenoptera,Coreopsis grandiflora
+Urbanus proteus,Apios priceana
+Ceratina acantha,Dudleya
+Bees,Silene virginica
+Palpada,Cordia multispicata
+Bees,Rorippa nasturtium-aquatium
+Noctuidae,Abronia umbellata var. breviflora
+Bees,Lupinus albifrons
+Apis,Coreopsis
+Bees,Drymocallis glandulosa var. glandulosa
+Insecta,Tribulus terrestris
+Xylocopa,Lythrum alatum
+Wind,Betula
+Asilidae,Parnassia palustris
+Apis dorsata,Foeniculum vulgare
+Bees,Bignonia capreolata
+Prionyx atratus,Asclepias verticillata
+Bees,Rudbeckia hirta
+Bombus vagans,Galearis spectabilis
+Coleoptera,Solidago
+Diptera,Fritillaria pudica
+Anthophila,Liatris gracilis
+Lepidoptera,Phlox longifolia
+Bees,Myosotis
+Vespula vulgaris,Scrophularia
+Syrphidae,Styrax
+Trochilidae,Dudleya greenei
+Trochilidae,Dicentra eximia
+Diptera,Ilex longipes
+Macropis steironematis,Lysimachia
+Lepidoptera,Penstemon palmeri
+Hymenoptera,Dudleya greenei
+Halictus tripartitus,Callirhoe involucrata
+Diptera,Malacothamnus fasciculatus
+Hermeuptychia sosybius,Melanthera nivea
+Augochloropsis,Sabal mauritiiformis
+Coleoptera,Eriogonum fasciculatum var. polifolium
+Lepidoptera,Polyscias hawaiensis
+Bees,Smilax melastomifolia
+Chiroptera,Sonneratia
+Anthophora,Corydalis cava
+Syrphidae,Erigeron kachinensis
+Bombus hortorum,Trifolium pratense
+Bees,Salvia glutinosa
+Andrena fragilis,Cornus sericea ssp. sericea
+Coleoptera,Trillium ovatum
+Bees,Geum triflorum
+Bombus impatiens,Dicerandra frutescens var. immaculata
+Birds,Sesbania tomentosa
+Insecta,Arnica mollis
+Lasioglossum hyalinum,Arctomecon humilis
+Diptera,Aquilegia coerulea
+Hymenoptera,Arctostaphylos pringlei
+Bees,Trillium pusillum var. ozarkanum
+Bees,Vaccinium macrocarpon
+Trochilidae,Mimulus eastwoodiae
+Syrphidae,Physaria filiformis
+Bombus griseocollis,Galearis spectabilis
+Buprestidae,Thymophylla tephroleuca
+Bombus,Aesculus pavia
+Diptera,Rorippa palustris
+Megachile petulans,Desmodium paniculatum
+Bees,Lithophragma heterophyllum
+Bees,Astelia menziesiana
+Chiroptera,Agave palmeri
+Bees,Hibiscus brackenridgei
+Coleoptera,Solidago caesia
+Halictidae,Cichorium intybus
+Bees,Echinacea purpurea
+Megachile,Aliciella penstemonoides
+Bees,Encelia farinosa
+Bombus,Opuntia polyacantha
+Bees,Dichelostemma ida-maia
+Insecta,Kniphofia
+Lepidoptera,Helianthus angustifolius
+Self pollinated,Pogogyne floribunda
+Lepidoptera,Hamamelis virginiana
+Bees,Astragalus drummondii
+Eristalis hirta,Zigadenus paniculatus
+Diptera,Psychotria mariniana
+Bees,Monardella odoratissima
+Bees,Pittosporum hosmeri
+Theretra,Hemerocallis citrina
+Trochilidae,Fritillaria gentneri
+Lepidoptera,Eurybia spectabilis
+Lepidoptera,Gaillardia pulchella
+Xylocopa,Lathyrus latifolius
+Macropis nuda,Lysimachia
+Liriomyza,Nigella sativa
+Syrphidae,Eriophyllum latilobum
+Trochilidae,Robinia pseudoacacia
+Osmia,Hydrophyllum canadense
+Diptera,Pittosporum hawaiiense
+Bombyliidae,Cerastium arvense
+Bees,Physocarpus opulifolius
+Hymenoptera,Epipactis thunbergii
+Halictus,Iliamna remota
+Bees,Coprosma ernodeoides
+Birds,Acacia
+Lepidoptera,Crataegus crus-galli
+Diptera,Papaver orientale
+Bees,Eriogonum kennedyi
+Bombus vosnesenskii,Astragalus agnicidus
+Pieris,Echinacea angustifolia
+Apis dorsata,Impatiens trichocarpa
+Macroglossum,Impatiens cuspidata
+Megachile,Cichorium intybus
+Trochilidae,Lobelia
+Bees,Berberis pinnata ssp. pinnata
+Diptera,Sambucus nigra ssp. canadensis
+Lepidoptera,Vaccinium crassifolium
+Bees,Ilex ambigua
+Coleoptera,Fritillaria agrestis
+Insecta,Ephedra viridis
+Ceratina dupla,Marrubium vulgare
+Carpophilus lugubris,Magnolia tripetala
+Apioceridae,Portulaca villosa
+Xylocopa californica arizonensis,Argemone pleiacantha
+Self pollinated,Nepeta cataria
+Apioceridae,Portulaca molokiniensis
+Lepidoptera,Prunus ilicifolia
+Bombyliidae,Bidens hawaiensis
+Diptera,Lomatium dissectum
+Bombylius lancifer,Aliciella cliffordii
+Apis mellifera,Asclepias welshii
+Orthoptera,Helianthus schweinitzii
+Coleoptera,Vernonia gigantea
+Perdita calochorti,Calochortus macrocarpus var. maculosus
+Bombus bifarius,Helianthella quinquenervis
+Bombus affinis,Asclepias hirtella
+Lepidoptera,Apocynum cannabinum
+Colletes compactus,Asclepias verticillata
+Diptera,Dianthus sylvestris
+Trochilidae,Asclepias exaltata
+Coleoptera,Clermontia hawaiiensis
+Bombus,Prunus americana
+Animalia,Acer
+Self pollinated,Malva neglecta
+Self pollinated,Parnassia
+Anthomyiidae,Ailanthus altissima
+Pleuroprucha insulsaria,Ageratina aromatica
+Diptera,Malva moschata
+Bees,Monarda didyma
+Lepidoptera,Hesperoyucca whipplei
+Bees,Erythronium rostratum
+Coleoptera,Eschscholzia californica
+Wasps,Parthenocissus quinquefolia
+Nomia,Sesbania sesban
+Diadasia,Calochortus
+Trochilidae,Agave parryi
+Coleoptera,Acacia etbaica
+Darapsa versicolor,Platanthera blephariglottis
+Bombus pensylvanicus,Hydrophyllum canadense
+Lepidoptera,Prunus virginiana
+Bombus,Echinacea angustifolia
+Bees,Crataegus monogyna
+Bombus pensylvanicus,Desmodium paniculatum
+Lepidoptera,Aster
+Lepidoptera,Caesalpinia
+Bees,Eupatorium perfoliatum
+Bombus mixtus,Oxytropis campestris var. chartacea
+Coleoptera,Parnassia
+Bees,Ceanothus
+Lepidoptera,Origanum vulgare
+Diptera,Asclepias syriaca
+Hymenoptera,Allium
+Macropis fulvipes,Lysimachia punctata
+Staphylinidae,Trillium ovatum
+Ceratina calcarata,Cypripedium parviflorum var. makasin
+Self pollinated,Rudbeckia triloba
+Paratrytone snowi,Ipomopsis
+Leptotes cassius theonus,Galactia smallii
+Papilio multicaudata,Hemerocallis fulva
+Lepidoptera,Drymocallis glandulosa var. glandulosa
+Insecta,Purshia tridentata
+Carpophilus,Magnolia tripetala
+Diptera,Lavandula latifolia
+Coleoptera,Apocynum cannabinum
+Coleoptera,Acacia brevispica
+Melissodes tepaneca,Callirhoe scabriuscula
+Bees,Fritillaria pudica
+Bombus occidentalis,Corydalis caseana
+Lepidoptera,Rubus odoratus
+Bees,Ruellia humilis
+Insecta,Sisymbrium altissimum
+Bees,Anchusa azurea
+Bees,Amorpha canescens
+Diptera,Raphanus sativus
+Wasps,Ptilimnium capillaceum
+Sphingidae,Acacia
+Diptera,Arisaema trifoliatum
+Wind,Torreya taxifolia
+Osmia,Salvia mellifera
+Bees,Fothergilla major
+Hesperiidae,Linnaea borealis
+Bees,Galactia smallii
+Coleoptera,Asclepias speciosa
+Birds,Delissea rhytidosperma
+Bombus,Ailanthus altissima
+Sphex pennsylvanicus,Asclepias incarnata
+Ceratina cockerelli,Jacquemontia reclinata
+Bees,Echeandia bolivarensis
+Megachile,Vaccinium macrocarpon
+Myzinum,Asclepias verticillata
+Trochilidae,Symphoricarpos albus
+Megachile,Calochortus
+Osmia lignaria,Pyrus malus
+Andrena macrocephala,Nemophila menziesii
+Trochilidae,Pedicularis densiflora
+Acmaeodera pulchella,Magnolia ashei
+Syrphidae,Purshia X subintegra
+Lepidoptera,Packera plattensis
+Bombus,Argemone pleiacantha
+Lepidoptera,Anacardium
+Coleoptera,Geum rivale
+Coleoptera,Dianella sandwicensis
+Bombus,Papaver rhoeas
+Diptera,Linnaea borealis
+Bees,Castilleja
+Self pollinated,Gentianella amarella ssp. acuta
+Hymenoptera,Trifolium repens
+Bessa,Calochortus
+Lepidoptera,Diervilla rivularis
+Insecta,Geranium viscosissimum
+Bees,Ilex verticillata
+Colias philodice,Platanthera blephariglottis
+Bombus terricola,Arethusa bulbosa
+Bombus,Astragalus schmolliae
+Bombylius major,Claytonia virginica
+Lepidoptera,Lantana camara
+Colletes simulans armatus,Asclepias uncialis
+Lepidoptera,Coreopsis tinctoria
+Lepidoptera,Asclepias speciosa
+Bees,Phlox divaricata
+Trochilidae,Salvia
+Diptera,Ceanothus oliganthus
+Bees,Xanthorhiza simplicissima
+Bombyliidae,Erigeron kachinensis
+Apis,Capsicum frutescens
+Coleoptera,Eriogonum heracleoides
+Bombus lapidarius,Solanum lycopersicum
+Syrphidae,Stachys tenuifolia
+Bees,Rhus integrifolia
+Colletes susannae,Dalea purpurea
+Megachilidae,Sabal
+Bees,Dicentra formosa
+Colletes albescens,Dalea purpurea
+Bees,Tragopogon dubius
+Bees,Allium canadense
+Wind,Asplenium scolopendrium
+Lepidoptera,Platanthera
+Bees,Impatiens capensis
+Bees,Chionanthus virginicus
+Vespidae,Penstemon grahamii
+Bees,Echeandia lehmannii
+Bombyliidae,Eriogonum ovalifolium var. vineum
+Colletes latitarsis,Physalis
+Lepidoptera,Helenium autumnale
+Wind,Carex
+Self pollinated,Platanthera clavellata
+Bees,Liatris scariosa var. scariosa
+Coleoptera,Solidago roanensis
+Calliphoridae,Heracleum sphondylium ssp. montanum
+Bees,Gordonia lasianthus
+Diptera,Trillium flexipes
+Andrena carlini,Erythronium albidum
+Bees,Pseudophoenix sargentii
+Bees,Sidalcea neomexicana
+Trochilidae,Aesculus pavia
+Bombus,Iris cristata
+Lepidoptera,Rhododendron austrinum
+Birds,Clermontia
+Diptera,Opuntia phaeacantha
+Trochilidae,Ribes
+Bombus,Oxytropis sericea
+Bees,Solidago velutina ssp. califonica
+Wasps,Galactia smallii
+Bees,Coreopsis grandiflora
+Bees,Pedicularis densiflora
+Apis,Scrophularia nodosa
+Insecta,Comandra umbellata
+Papilionidae,Lilium
+Bombus ephippiatus,Echeandia macrocarpa
+Lepidoptera,Verbena stricta
+Perdita mohavensis,Arctomecon humilis
+Bees,Mertensia lanceolata
+Trochilidae,Epilobium canum
+Bees,Lonicera involucrata
+Bees,Polygala myrtifolia
+Habropoda laboriosa,Pyxidanthera barbulata
+Hylaeus nelumbonis,Nelumbo
+Bees,Borago officinalis
+Bees,Fallugia paradoxa
+Lepidoptera,Eupatorium cannabinum
+Self pollinated,Carduus nutans
+Megachile mendica,Conradina verticillata
+Thick-headed flies,Verbena hastata
+Tenthredinidae,Lobularia maritima
+Apis,Rhus glabra
+Bees,Helianthus schweinitzii
+Coleoptera,Helianthus hirsutus
+Bombus griseocollis,Asclepias meadii
+Megachilidae,Trifolium pratense
+Bombus terrestris,Corydalis cava
+Bees,Brickellia californica
+Bees,Solidago missouriensis
+Syrphidae,Taraxacum officinale
+Trochilidae,Rhododendron minus var. minus
+Bees,Helianthus atrorubens
+Nitidulidae,Parnassia palustris
+Lepidoptera,Coprosma ernodeoides
+Bees,Sassafras albidum
+Coleoptera,Geranium maculatum
+Bees,Cladrastis kentukea
+Coleoptera,Symphyotrichum novae-angliae
+Lygaeus kalmii,Asclepias uncialis
+Archilochus colubris,Lilium grayi
+Squamata,Erythrina velutina
+Bees,Polygonatum multiflorum
+Trochilidae,Buddleja
+Lepidoptera,Rhodiola integrifolia
+Insecta,Ivesia gordonii
+Wind,Amaranthus
+Lepidoptera,Berberis repens
+Bees,Nemophila menziesii
+Diptera,Linum lewisii
+Bees,Symphyotrichum novae-angliae
+Bees,Acanthomintha obovata ssp. cordata
+Apis mellifera,Asclepias sullivantii
+Bees,Pittosporum hawaiiense
+Lepidoptera,Cardamine concatenata
+Lepidoptera,Coreopsis pubescens
+Self pollinated,Capsicum frutescens
+Diptera,Lycium barbarum
+Diptera,Tilia americana
+Wind,Alnus
+Psaenythia,Kallstroemia grandiflora
+Self pollinated,Purshia tridentata
+Bombus ashtoni,Cypripedium acaule
+Andrena nigrocaerulea,Hackelia venusta
+Bees,Symphoricarpos albus
+Bees,Pittosporum confertiflorum
+Wasps,Eriogonum fasciculatum var. polifolium
+Self pollinated,Phemeranthus
+Apis,Sambucus nigra ssp. canadensis
+Colletes,Pyxidanthera barbulata
+Bees,Anticlea elegans var. elegans
+Bees,Rudbeckia triloba
+Diptera,Mirabilis rotundifolia
+Bees,Ipomopsis aggregata
+Lepidoptera,Clematis virginiana
+Diptera,Berteroa incana
+Copidosoma bakeri,Arceuthobium campylopodum
+Hymenoptera,Dudleya
+Bees,Alnus serrulata
+Lasioglossum,Lygodesmia juncea
+Ceratina,Rudbeckia triloba
+Syrphidae,Blennosperma bakeri
+Bees,Lobelia hypoleuca
+Bees,Myoporum sandwicense
+Lepidoptera,Purshia tridentata
+Epuraea,Magnolia tripetala
+Diptera,Acacia etbaica
+Bees,Amelanchier spicata
+Diptera,Linum berlandieri
+Stratiomys barbata,Zigadenus paniculatus
+Syrphidae,Ceanothus fendleri
+Halictidae,Oenothera
+Bombus,Sidalcea neomexicana
+Eriozona laxus,Galearis rotundifolia
+Augochlora,Capsicum frutescens
+Osmia,Viola
+Bees,Wikstroemia phillyreifolia
+Diptera,Dudleya abramsii
+Hyles lineata,Eriastrum densifolium
+Bees,Actaea rubra
+Self pollinated,Lippia
+Lepidoptera,Asclepias hirtella
+Calypte anna,Mimulus cardinalis
+Bees,Aquilegia formosa
+Bees,Alyxia stellata
+Coleoptera,Lygodesmia juncea
+Trachusa,Calochortus
+Bees,Amsinckia intermedia
+Bees,Mirabilis rotundifolia
+Bees,Heuchera americana
+Selasphorus platycercus,Delphinium nuttallianum
+Bees,Solidago speciosa
+Manduca quincemaculata,Cnidoscolus texanus
+Bees,Asclepias tuberosa
+Bees,Gentianella amarella ssp. acuta
+Apis,Rhododendron
+Lepidoptera,Styrax grandifolius
+Syrphidae,Raphanus sativus
+Wind,Plantago major
+Self pollinated,Artemisia frigida
+Bees,Rudbeckia occidentalis
+Wind,Quercus hinckleyi
+Bombus pensylvanicus,Asclepias purpurascens
+Chelostoma californicum,Phacelia
+Self pollinated,Vicia faba
+Megachilidae,Brassica napus
+Andrena,Calochortus
+Birds,Clermontia hawaiiensis
+Bees,Antidesma pulvinatum
+Lepidoptera,Polanisia dodecandra
+Bombus borealis,Cypripedium acaule
+Coleoptera,Rhus integrifolia
+Hymenoptera,Cirsium vulgare
+Melissodes intorta,Callirhoe scabriuscula
+Diptera,Helenium puberulum
+Lepidoptera,Brighamia insignis
+Bees,Rhus sandwicensis
+Coleoptera,Malacothamnus fasciculatus
+Apis,Trifolium repens
+Bees,Swertia perennis
+Diptera,Crataegus
+Bees,Calochortus striatus
+Lepidoptera,Liatris spicata var. spicata
+Bembix,Abutilon indicum
+Sphex ichneumoneus,Asclepias incarnata
+Wasps,Sabal maritima
+Halictidae,Harperocallis flava
+Hymenoptera,Sagittaria
+Hyles lineata,Oenothera cespitosa
+Lepidoptera,Clethra acuminata
+Bees,Papaver orientale
+Bombus,Vaccinium corymbosum
+Diptera,Chrysogonum virginianum var. australe
+Bombus flavifrons,Corydalis caseana
+Aphoebantus marcidus,Pholisma sonorae
+Lithurgus littoralis,Opuntia macrocentra
+Bombus terrestris,Solanum lycopersicum
+Syrphidae,Brassica napus
+Apis,Peniocereus greggii
+Diptera,Ilex opaca
+Bombus,Spiranthes delitescens
+Bombus terrestris,Narcissus pseudonarcissus
+Euphydryas editha,Layia platyglossa
+Coleoptera,Cornus glabrata
+Insecta,Castilleja applegatei
+Apis mellifera,Asclepias meadii
+Bees,Linnaea borealis
+Bombus flavifrons,Aconitum columbianum
+Trochilidae,Erythrina pallida
+Diptera,Stewartia ovata
+Lasioglossum sisymbrii,Potentilla recta
+Lepidoptera,Oenothera suffrutescens
+Bombus vagans,Cypripedium
+Phyciodes pulchella pulchella,Erigeron decumbens
+Bees,Delphinium cardinale
+Apioceridae,Portulaca sclerocarpa
+Diptera,Rorippa nasturtium-aquatium
+Bombus perplexus,Goodyera repens
+Epeolus,Argemone hispida
+Diptera,Crataegus monogyna
+Coleoptera,Asclepias californica
+Anthophoridae,Hibiscus moscheutos
+Apis,Amaranthus
+Lepidoptera,Silene virginica
+Self pollinated,Physalis grisea
+Andrena angustitarsata,Limnanthes vinculans
+Bees,Opuntia humifusa
+Coleoptera,Eurybia macrophylla
+Bombus,Tetraneuris acaulis
+Apis,Stokesia laevis
+Bembix nubilipennis,Asclepias verticillata
+Andrena barbilabris,Cypripedium candidum
+Bees,Bidens hawaiensis
+Hyles lineata,Platanthera ciliaris
+Anthophora plumipes,Narcissus pseudonarcissus
+Bees,Peritoma lutea
+Diptera,Perrottetia sandwicensis
+Bees,Vaccinium angustifolium
+Bees,Arctostaphylos patula
+Trochilidae,Monarda fistulosa
+Diptera,Myoporum sandwicense
+Bees,Abutilon
+Lepidoptera,Lathyrus vestitus var. ochropetalus
+Lepidoptera,Rhus typhina
+Bees,Wyethia helianthoides
+Chelostoma florisomne,Ranunculus
+Trochilidae,Penstemon centranthifolius
+Bees,Oxalis cornuta
+Bombus,Penstemon degeneri
+Diabrotica undecimpunctata,Magnolia ashei
+Trochilidae,Erythrina
+Bees,Sabal maritima
+Lepidoptera,Silene acaulis
+Bees,Rhododendron canadense
+Diptera,Euphorbia celastroides var. kaenana
+Trochilidae,Monarda didyma
+Bombus nevadensis,Silene spaldingii
+Apidae,Dicerandra
+Bombus pensylvanicus,Asclepias exaltata
+Bees,Uvularia grandiflora
+Self pollinated,Alyssum alyssoides
+Hymenoptera,Erigeron
+Birds,Cyanea
+Diptera,Coreopsis tinctoria
+Bombus,Vernonia baldwinii
+Bombus nevadensis,Cypripedium acaule
+Diptera,Conyza canadensis
+Bees,Eschscholzia californica
+Bombus lapidarius,Silene acaulis
+Bombus,Calypso bulbosa
+Bees,Crataegus mollis
+Bees,Lobelia boykinii
+Bombus flavifrons,Helianthella quinquenervis
+Diptera,Antennaria
+Bombus,Napaea dioica
+Bombyliidae,Tiarella cordifolia
+Bees,Ribes menziesii
+Megachilidae,Lythrum salicaria
+Euphydryas editha,Lomatium macrocarpum
+Bombus,Townsendia spathulata
+Bees,Helianthus
+Apis mellifera,Trichostema lanceolatum
+Lepidoptera,Viola sempervirens
+Bees,Berberis nervosa
+Bombus,Silene acaulis
+Bombus,Frasera speciosa
+Lepidoptera,Calochortus striatus
+Bees,Nuphar
+Lepidoptera,Gazania krebsiana
+Apidae,Echinacea purpurea
+Bees,Tiarella cordifolia
+Chauliognathus pennsylvanicus,Euphorbia esula
+Hymenoptera,Crataegus
+Lasioglossum sisymbrii,Arctomecon humilis
+Apis,Symphoricarpos albus
+Microgaster,Neottia cordata
+Bees,Mentha pulegium
+Lepidoptera,Solidago missouriensis
+Apis mellifera,Ipomopsis globularis
+Pieris rapae,Lythrum salicaria
+Megachile concinna,Medicago sativa
+Bees,Mertensia
+Megachile,Liatris aspera
+Thricops,Heracleum sphondylium ssp. montanum
+Bees,Clematis hirsutissima
+Hyles lineata,Mirabilis multiflora
+Trochilidae,Scrophularia californica
+Coleoptera,Trillium luteum
+Papilio eurymedon,Lilium pardalinum
+Bees,Zizia aurea
+Apidae,Verbena hastata
+Bees,Prunus mexicana
+Bombus terrestris,Phacelia campanularia
+Pieris rapae,Cirsium arvense
+Augochlorella aurata,Synthyris bullii
+Lepidoptera,Arctostaphylos edmundsii
+Bombyliidae,Polygonella basiramia
+Macroglossum stellatarum,Dianthus sylvestris
+Lasioglossum,Echeandia
+Trochilidae,Mertensia virginica
+Melissodes,Opuntia polyacantha
+Bees,Waltheria indica
+Lepidoptera,Vitex rotundifolia
+Apis,Phacelia campanularia
+Trochilidae,Dicentra chrysantha
+Megachile rotundata,Cuphea
+Bees,Rhus typhina
+Insecta,Lobelia hypoleuca
+Apis,Robinia pseudoacacia
+Trochilidae,Eutrochium maculatum
+Diptera,Limonium vulgare
+Hesperia,Heterotheca subaxillaris
+Coleoptera,Solidago speciosa
+Bees,Hamamelis vernalis
+Apis,Flueggea leucopyrus
+Hoplitis simplex,Physaria filiformis
+Bees,Brodiaea filifolia
+Megachile,Opuntia polyacantha
+Drepanis coccinea,Clermontia pyrularia
+Nomia nortoni,Desmodium paniculatum
+Syrphidae,Sagittaria
+Coleoptera,Trillium grandiflorum
+Lepidoptera,Cirsium ownbeyi
+Bees,Vitis aestivalis
+Diadasia rinconis,Opuntia macrocentra
+Self pollinated,Platycodon grandiflorus
+Bombus californicus,Dudleya
+Syrphidae,Phacelia campanularia
+Bees,Orthocarpus
+Diptera,Verbena lasiostachys
+Trochilidae,Castilleja lanata
+Selasphorus rufus,Delphinium barbeyi
+Bees,Mentzelia pectinata
+Coleoptera,Ceanothus americanus
+Augochlorella,Ipomopsis globularis
+Callophrys gryneus,Physaria filiformis
+Lepidoptera,Helianthus gracilentus
+Anthophoridae,Asclepias meadii
+Andrena mariae,Salix
+Bees,Ratibida columnifera
+Bombus,Vaccinium myrtillus
+Insecta,Lobelia gloria-montis
+Wasps,Rudbeckia hirta
+Apis,Baccharis
+Self pollinated,Verbena
+Trochilidae,Astragalus coccineus
+Osmia,Mertensia brevistyla
+Chiroptera,Agave americana
+Wind,Thalictrum
+Bees,Eremalche parryi
+Bees,Primula jeffreyi
+Melissodes boltoniae,Boltonia decurrens
+Trochilidae,Diplacus aurantiacus
+Sphex ichneumoneus,Asclepias sullivantii
+Bees,Melanthera integrifolia
+Bees,Wisteria frutescens
+Bees,Geranium sylvaticum
+Bees,Campsis radicans
+Diptera,Gayophytum
+Autographa gamma,Saponaria officinalis
+Insecta,Frankenia salina
+Bees,Clermontia montis-loa
+Bees,Vaccinium reticulatum
+Halictus,Arctostaphylos pungens
+Self pollinated,Turritis glabra
+Bees,Ivesia gordonii
+Trochilidae,Mimulus cardinalis
+Diptera,Asclepias hirtella
+Lepidoptera,Oenothera californica
+Melissodes,Calochortus
+Bees,Mimulus tricolor
+Bees,Corydalis aurea
+Insecta,Penstemon cyananthus
+Bees,Castilleja kaibabensis
+Coleoptera,Helianthus mollis
+Apis,Medicago
+Megachilidae,Acacia
+Lepidoptera,Pittosporum hawaiiense
+Bees,Morella cerifera
+Coleoptera,Solidago velutina ssp. califonica
+Megachilidae,Astragalus schmolliae
+Diptera,Echinacea angustifolia
+Megachile latimanus,Asclepias incarnata
+Bradysia,Malaxis unifolia
+Vanessa,Lantana
+Bees,Wyethia amplexicaulis
+Self pollinated,Cynoglossum officinale
+Bees,Amelanchier arborea
+Ceratina,Acanthomintha ilicifolia
+Bombyliidae,Pogogyne nudiuscula
+Bombus,Amoreuxia
+Insecta,Vitis rotundifolia
+Bees,Rosa carolina
+Bees,Lythrum
+Pachlioptera aristolochiae,Impatiens trichocarpa
+Bees,Astragalus purshii
+Bees,Aesculus californica
+Bees,Agrimonia pubescens
+Anthophora,Solanum lycopersicum
+Bombus fervidus,Calopogon tuberosus
+Bees,Penstemon hirsutus
+Lasioglossum,Dicerandra frutescens
+Insecta,Gnaphalium uliginosum
+Apis mellifera,Pogogyne abramsii
+Trochilidae,Stachys chamissonis
+Lepidoptera,Taraxacum officinale
+Lithurgus littoralis,Callirhoe involucrata
+Birds,Manfreda brachystacha
+Wasps,Symphyotrichum ericoides
+Lasioglossum nelumbonis,Nuphar
+Self pollinated,Symphyotrichum novae-angliae
+Bombus,Gentiana affinis
+Bees,Cypripedium kentuckiense
+Lepidoptera,Hypericum prolificum
+Bees,Stachys pycnantha
+Trochilidae,Ipomoea coccinea
+Bombus,Aconitum henryi
+Bombus vagans,Goodyera oblongifolia
+Formica neorufibarbis,Paronychia pulvinata
+Bees,Rhododendron prinophyllum
+Syrphidae,Achillea millefolium
+Nymphalidae,Lantana camara
+Anthophoridae,Astragalus schmolliae
+Diptera,Heterotheca grandiflora
+Osmia brevis,Penstemon griffinii
+Hymenoptera,Rubus
+Eristalis,Narthecium asiaticum
+Sphingidae,Brighamia insignis
+Bees,Dalea purpurea
+Lepidoptera,Scaevola taccada
+Self pollinated,Arctostaphylos uva-ursi
+Insecta,Helenium autumnale
+Bees,Astragalus crassicarpus
+Bombus,Maianthemum canadense
+Andrenidae,Berberis pinnata ssp. pinnata
+Melissodes montana,Kallstroemia grandiflora
+Andrena ziziae,Cypripedium candidum
+Calliopsis andreniformis,Desmodium paniculatum
+Self pollinated,Galium
+Apis,Chrysanthemum
+Bees,Diospyros sandwicensis
+Lepidoptera,Ericameria linearifolia
+Bombyliidae,Dieteria canescens
+Anthophila,Liatris tenuifolia
+Hymenoptera,Symphoricarpos albus
+Bees,Nestegis sandwicensis
+Hoplitis,Calochortus
+Andrena submoesta,Lasthenia burkei
+Bees,Mertensia ciliata
+Wasps,Eriogonum kennedyi
+Bees,Sidalcea malviflora
+Lepidoptera,Fragaria chiloensis
+Bombus,Robinia neomexicana
+Wasps,Argemone glauca
+Bombus,Aliciella penstemonoides
+Diptera,Matelea
+Bees,Cornus rugosa
+Bees,Dianella sandwicensis
+Thrips,Lantana
+Bees,Gaultheria procumbens
+Bombus pascuorum,Trifolium pratense
+Coleoptera,Magnolia tripetala
+Wind,Malva neglecta
+Bees,Lepidium draba
+Diptera,Androsace septentrionalis
+Lepidoptera,Hesperis matronalis
+Bombus,Onopordum acanthium
+Diptera,Scaevola gaudichaudiana
+Lepidoptera,Ivesia gordonii
+Bombyliidae,Minuartia glabra
+Anthophila,Lygodesmia juncea
+Bees,Tamarix chinensis
+Lasioglossum nymphaearum,Nuphar
+Tetralonia,Townsendia aprica
+Bees,Cardamine concatenata
+Diptera,Nestegis sandwicensis
+Coleoptera,Lobularia maritima
+Bombyliidae,Minuartia uniflora
+Lasioglossum tegulare,Jacquemontia reclinata
+Diptera,Ilex verticillata
+Rhaphiomidas trochilus,Eriastrum densifolium
+Lasioglossum comulum,Sclerocactus brevihamatus ssp. tobuschii
+Wind,Helianthemum
+Lepidoptera,Asclepias californica
+Diadasia rinconis,Astrophytum asterias
+Bees,Asclepias speciosa
+Bombus,Macbridea alba
+Lepidoptera,Leucothoe fontanesiana
+Bees,Podophyllum peltatum
+Diptera,Vaccinium reticulatum
+Chiroptera,Anacardium
+Bombus vagans,Impatiens capensis
+Insecta,Acer pseudoplatanus
+Bees,Apios americana
+Theretra,Lonicera japonica
+Bees,Lupinus texensis
+Wasps,Styrax
+Lepidoptera,Helianthus maximiliani
+Halictus,Ferocactus wislizeni
+Bombus sitkensis,Astragalus agnicidus
+Bombus caliginosus,Dudleya
+Bees,Dichelostemma capitatum
+Bees,Bidens aristosa
+Lepidoptera,Phlox bifida
+Bombus californicus,Castilleja levisecta
+Bees,Rhus copallinum
+Formica fusca,Arceuthobium americanum
+Calypte anna,Dudleya
+Bombus lapidarius,Centaurea scabiosa
+Andrenidae,Rhynchospora
+Self pollinated,Convallaria majalis
+Bombus,Delphinium nuttallianum
+Lepidoptera,Aquilegia canadensis
+Lasioglossum,Ferocactus cylindraceus
+Wasps,Berberis fremontii
+Hymenoptera,Capsicum frutescens
+Anthidium palmarum,Callirhoe involucrata
+Diptera,Lythrum
+Diptera,Silphium laciniatum
+Colletes,Chloropyron maritimum ssp. maritimus
+Calliphora,Physaria filiformis
+Diptera,Gilia capitata
+Trochilidae,Tropaeolum majus
+Bombus,Spiranthes diluvialis
+Bees,Baptisia tinctoria
+Lepidoptera,Dasiphora fruticosa
+Bombus,Oxytropis campestris
+Andrenidae,Fritillaria gentneri
+Bees,Cynoglossum officinale
+Trochilidae,Pedicularis procera
+Diptera,Sagittaria
+Hymenoptera,Lindera melissifolia
+Bees,Flueggea flexuosa
+Lepidoptera,Symphyotrichum cordifolium
+Hymenoptera,Rudbeckia laciniata
+Bees,Lycium barbarum
+Halictidae,Verbena hastata
+Syrphidae,Linnaea borealis
+Bees,Canavalia pubescens
+Bees,Phoradendron serotinum
+Lepidoptera,Hibiscus coccineus
+Lasioglossum,Solanum carolinense
+Insecta,Thysanocarpus laciniatus
+Bees,Vachellia nilotica
+Wind,Triglochin
+Bees,Brassica napus
+Trochilidae,Spigelia marilandica
+Colletes,Dudleya
+Bombus,Delphinium viridescens
+Bees,Iris cristata
+Ochlodes,Dianthus deltoides
+Diptera,Sibbaldia procumbens
+Lepidoptera,Salvia mellifera
+Andrenidae,Physaria obcordata
+Diadasia rinconis,Callirhoe involucrata
+Bees,Acanthomintha duttonii
+Bees,Vaccinium crassifolium
+Bees,Sedum spathulifolium
+Hoplitis adunca,Lysimachia
+Bombus,Pedicularis procera
+Diptera,Rhus sandwicensis
+Anthophora,Dudleya
+Bees,Spiranthes parksii
+Coleoptera,Arisaema trifoliatum
+Apis mellifera,Goetzea elegans
+Bombus hortorum,Iris pseudacoris
+Bees,Brighamia insignis
+Andrena,Helianthus
+Coleoptera,Cordia
+Diptera,Fragaria chiloensis
+Bees,Malacothamnus fasciculatus
+Bees,Heterotheca grandiflora
+Trochilidae,Hibiscus moscheutos ssp. moscheutos
+Diptera,Solidago caesia
+Anthophila,Liatris laevigata
+Bees,Erythronium americanum
+Bombus,Pedicularis palustris
+Lepidoptera,Epilobium canum
+Halictidae,Packera
+Leptoconops californiensis,Pholisma sonorae
+Eucera,Conradina verticillata
+Diptera,Hymenoxys hoopesii
+Insecta,Arctostaphylos patula
+Wasps,Linnaea borealis
+Lepidoptera,Vernonia gigantea
+Bombus,Styrax grandifolius
+Bombus crotchii,Chloropyron maritimum ssp. maritimus
+Bombus,Epilobium danielsii
+Lepidoptera,Salvia
+Insecta,Monardella odoratissima
+Bees,Camassia scilloides
+Diptera,Pittosporum glabrum
+Bees,Santalum paniculatum
+Bees,Liatris elegans
+Satyrus ferula,Dianthus carthusianorum
+Bees,Rudbeckia
+Habropoda,Delphinium nuttallianum
+Diptera,Myosotis
+Birds,Hibiscus arnottianus
+Self pollinated,Sibara filifolia
+Bees,Cornus amomum
+Bees,Gentiana andrewsii
+Bees,Iris verna var. verna
+Lepidoptera,Symphyotrichum undulatum
+Bees,Arnica mollis
+Bombus honshuensis,Clematis stans
+Halictidae,Lobularia maritima
+Bees,Ilex decidua
+Bees,Hibiscus laevis
+Halictidae,Polygonella basiramia
+Bombus,Trillium ovatum
+Megachile brevis,Desmodium paniculatum
+Self pollinated,Buddleja lindleyana
+Trochilidae,Scrophularia macrantha
+Noctuidae,Catalpa speciosa
+Hymenoptera,Psoralea esculenta
+Perdita meconis,Arctomecon humilis
+Pieris rapae,Raphanus sativus
+Self pollinated,Noccaea fendleri ssp. glauca
+Lepidoptera,Asclepias tuberosa
+Lepidoptera,Eutrochium fistulosum
+Diptera,Rhus copallinum var. copallinum
+Lepidoptera,Peritoma serrulata
+Lepidoptera,Carphephorus corymbosus
+Bees,Hibiscus kokio
+Bees,Actaea pachypoda
+Bombus nevadensis,Hydrophyllum canadense
+Bees,Aconitum
+Diptera,Ericameria nauseosa
+Lepidoptera,Rudbeckia hirta
+Bees,Aliciella subnuda
+Self pollinated,Lepidium draba
+Bees,Lasthenia californica
+Coleoptera,Viburnum nudum
+Lepidoptera,Penstemon digitalis
+Bees,Hydrangea arborescens
+Bees,Agave parryi
+Diptera,Argemone pleiacantha
+Vanessa,Berberis repens
+Bees,Ilex glabra
+Ashmeadiella opuntiae,Ferocactus wislizeni
+Bees,Calystegia sepium
+Thymelicus,Dianthus carthusianorum
+Diptera,Phacelia imbricata
+Self pollinated,Eutrochium purpureum
+Bees,Chrysogonum virginianum var. australe
+Agapostemon tyleri,Kallstroemia grandiflora
+Bees,Maianthemum stellatum
+Apidae,Apios priceana
+Apis,Phaseolus coccineus
+Self pollinated,Persicaria pensylvanica
+Macrotera lobata,Astrophytum asterias
+Xylocopa,Asclepias syriaca
+Trochilidae,Kalmia latifolia
+Bombus griseocollis,Asclepias hirtella
+Megachile,Rudbeckia triloba
+Diptera,Corallorhiza maculata
+Bombus,Aconitum
+Bees,Helianthus hirsutus
+Osmia tristella,Astragalus agnicidus
+Bombus,Astragalus anserinus
+Bombus,Eutrochium maculatum
+Halictus,Viola
+Diptera,Antidesma platyphyllum
+Hymenoptera,Alyssum maritimum
+Bees,Asclepias syriaca
+Coleoptera,Lythrum
+Diptera,Spiranthes delitescens
+Glyptobaris rugicollis,Magnolia tripetala
+Lepidoptera,Rubus parviflorus
+Megachile,Ferocactus cylindraceus
+Diptera,Mimulus lewisii
+Wasps,Malaxis unifolia
+Bees,Caulanthus coulteri
+Andrena helianthi,Helianthus
+Bees,Abronia bigelovii
+Lepidoptera,Lavandula latifolia
+Bombus,Lobelia siphilitica
+Self pollinated,Synandra hispidula
+Lasioglossum occidens,Achyranthes bidentata
+Anthophora,Scutellaria
+Halictidae,Acmispon dendroideus var. traskiae
+Anthidium,Dalea ornata
+Bees,Physaria congesta
+Apis,Linaria vulgaris
+Bees,Ribes
+Bees,Lespedeza hirta
+Peritaxia hispida,Argemone hispida
+Lycaena,Lobularia maritima
+Osmia brevis,Penstemon caryi
+Insecta,Penstemon speciosus
+Dufourea calochorti,Calochortus
+Lepidoptera,Mentha X piperita
+Cetonia,Viburnum
+Lepidoptera,Caesalpinia pulcherrima
+Lepidoptera,Warea amplexifolia
+Lepidoptera,Viburnum nudum var. cassinoides
+Diptera,Polemonium viscosum
+Bees,Liatris
+Self pollinated,Mollugo verticillata
+Insecta,Phemeranthus
+Lepidoptera,Monarda didyma
+Bees,Helianthus heterophyllus
+Xylocopa,Heliotropium anomalum
+Bombus pensylvanicus,Heterotheca subaxillaris
+Bombus,Phaseolus coccineus
+Ptilothrix bombiformis,Hibiscus lasiocarpus
+Colletidae,Lepidium papilliferum
+Bees,Stewartia malacodendron
+Diptera,Vernonia gigantea
+Melissodes intorta,Callirhoe involucrata
+Andrena nasonii,Isotria verticillata
+Bees,Berberis fremontii
+Coleoptera,Clermontia montis-loa
+Bees,Eupatorium
+Coleoptera,Doellingeria umbellata
+Lepidoptera,Phlox
+Lasioglossum ornduffi,Jepsonia parryi
+Bombylius,Liatris aspera
+Hadena,Silene latifolia
+Bombus,Dudleya
+Wasps,Scrophularia nodosa
+Trochilidae,Aquilegia elegantula
+Papilio,Vernonia baldwinii
+Bees,Alyssum maritimum
+Augochlora pura,Goodyera pubescens
+Apis,Pediocactus knowltonii
+Bees,Eriogonum umbellatum
+Muscidae,Dryas octopetala
+Polistes,Nigella sativa
+Hymenoptera,Parnassia palustris
+Trochilidae,Aquilegia canadensis
+Lepidoptera,Tilia americana
+Lepidoptera,Aesculus californica
+Apis,Eschscholzia californica
+Eucalliphora,Adolphia infesta
+Bombus,Eschscholzia californica
+Apis,Corydalis ambigua
+Megachile melanophaea,Cypripedium parviflorum var. parviflorum
+Toxophora,Clinopodium ashei
+Bees,Prunella vulgaris
+Diptera,Sidalcea malviflora
+Trochilidae,Silene virginica
+Ashmeadiella,Ferocactus cylindraceus
+Ichneumonidae,Parnassia palustris
+Hoplitis,Cryptantha
+Melissodes tepaneca,Lygodesmia
+Lepidoptera,Eurybia macrophylla
+Insecta,Rhodiola integrifolia ssp. leedyi
+Diptera,Spiraea alba
+Self pollinated,Rubus
+Coleoptera,Symphyotrichum
+Euphydryas editha,Linanthus androsaceus
+Manduca quinquemaculata,Mirabilis longiflora
+Self pollinated,Ageratina adenophora
+Diptera,Sanicula bipinnatifida
+Bees,Sanguinaria canadensis
+Lepidoptera,Penstemon canescens
+Halictus,Calochortus
+Bees,Elaeagnus angustifolia
+Bombyliidae,Gazania krebsiana
+Trochilidae,Asclepias incarnata
+Bees,Sorbus americana
+Chiroptera,Pilosocereus
+Diptera,Ipomoea pes-caprae
+Coleoptera,Rosa carolina
+Bees,Viburnum rufidulum
+Culicidae,Euphorbia esula
+Halictidae,Heterotheca subaxillaris
+Diptera,Helianthus maximiliani
+Diptera,Cornus alternifolia
+Diptera,Viburnum nudum
+Papilio,Hemerocallis fulva
+Andrena carlini,Erythronium propullans
+Coleoptera,Maianthemum stellatum
+Bees,Maianthemum racemosum
+Bombus,Helianthus
+Bees,Mentzelia densa
+Bombus terrestris,Anagallis arvensis
+Bees,Pseudophoenix
+Insecta,Pseudognaphalium ssp. canescens
+Trochilidae,Aesculus flava
+Bees,Sesuvium portulacastrum
+Lepidoptera,Helenium campestre
+Bombus,Lupinus monticola
+Bees,Senecio serra
+Bees,Monolopia lanceolata
+Anthophora,Ipomopsis globularis
+Bees,Psychotria greenwelliae
+Bombus terrestris,Polygonatum odoratum
+Lepidoptera,Abutilon menziesii
+Ancyloscelis,Acanthomintha ilicifolia
+Bees,Penstemon degeneri
+Trochilidae,Oenothera suffrutescens
+Toxomerus geminatus,Erigeron decumbens
+Lepidoptera,Asimina parviflora
+Lepidoptera,Packera aurea
+Colletidae,Echinodorus grandiflorus
+Diptera,Magnolia
+Insecta,Geum triflorum
+Birds,Limonium gerberi
+Wind,Fraxinus pensylvanica
+Colletidae,Purshia X subintegra
+Diptera,Cornus drummondii
+Coleoptera,Corallorhiza maculata
+Apis,Campanula
+Trochilidae,Salvia mellifera
+Diptera,Sedum lanceolatum
+Bombus,Perovskia atriplicifolia
+Coleomegilla maculata,Magnolia tripetala
+Syrphidae,Hypericum
+Bees,Liriodendron tulipifera
+Bombus,Senna
+Acmaeodera,Calochortus
+Apis,Minuartia uniflora
+Osmia distincta,Penstemon
+Bees,Viburnum dentatum
+Trochilidae,Asclepias tuberosa
+Self pollinated,Rorippa nasturtium-aquatium
+Bombus lapidarius,Silene flos-cuculi
+Diptera,Actaea pachypoda
+Bees,Myosotis asiatica
+Palpada vinetorum,Jacquemontia reclinata
+Diptera,Solidago
+Ceratina,Calochortus
+Syrphidae,Dianthus deltoides
+Lepidoptera,Platanthera blephariglottis
+Lasius niger,Asclepias exaltata
+Lepidoptera,Wyethia amplexicaulis
+Bees,Limnanthes alba
+Apis,Abutilon indicum
+Lepidoptera,Packera
+Diptera,Sesuvium portulacastrum
+Colletes robertsonii,Amorpha
+Andrena,Oenothera
+Bees,Bistorta bistortoides
+Lepidoptera,Astragalus trichopodus
+Lepidoptera,Encelia farinosa
+Diptera,Helianthus gracilentus
+Erynnis telemachus,Ribes cereum
+Hoplitis,Amorpha canescens
+Diptera,Bidens aristosa
+Diptera,Arnica cordifolia
+Coleoptera,Papaver orientale
+Lepidoptera,Tagetes erecta
+Lepidoptera,Ceanothus americanus
+Bombus,Aliciella pinnatifida
+Empididae,Achillea
+Hymenoptera,Lupinus oreganus
+Bees,Rhexia alifanus
+Chauliognathus marginatus,Ailanthus altissima
+Trochilidae,Tellima grandiflora
+Diptera,Cephalanthus occidentalis
+Lepidoptera,Cirsium occidentale var. californicum
+Apis,Cypripedium parviflorum
+Trochilidae,Liatris spicata var. spicata
+Trochilidae,Primula parryi
+Wind,Ginkgo
+Lepidoptera,Coprosma pubens
+Bees,Trillium
+Lepidoptera,Solidago velutina ssp. califonica
+Anthidium palliventre,Chloropyron maritimum ssp. maritimus
+Coleoptera,Magnolia
+Bees,Lythrum salicaria
+Coleoptera,Heterotheca grandiflora
+Systoechus solitus,Clinopodium ashei
+Diptera,Heuchera pilosissima
+Bees,Salvia mellifera
+Vanessa atalanta,Cirsium arvense
+Bees,Peritoma arborea var. arborea
+Hymenoptera,Phoradendron serotinum
+Bees,Oenothera harringtonii
+Megachile centuncularis,Cypripedium parviflorum var. parviflorum
+Bees,Gentiana alba
+Apis mellifera,Adolphia infesta
+Lepidoptera,Hibiscus kokio
+Andrena aliciae,Helianthus
+Wasps,Eupatorium perfoliatum
+Xylocopa,Lantana
+Andrenidae,Sida
+Eucera fulvitarsis,Townsendia aprica
+Sphingidae,Abronia umbellata var. breviflora
+Vanessa cardui,Liatris aspera
+Bees,Philadelphus pubescens
+Lasioglossum rohweri,Cypripedium parviflorum var. makasin
+Anthidium,Dudleya
+Megachile lanata,Sesbania
+Birds,Clermontia montis-loa
+Apis,Cucumis sativus
+Diptera,Impatiens cuspidata
+Halictidae,Clematis ligusticifolia
+Hymenoptera,Baccharis
+Eristalis tenax,Capsicum frutescens
+Trochilidae,Arbutus menziesii
+Greya politella,Lithophragma parviflorum
+Bombus,Ipomopsis aggregata
+Bees,Metrosideros polymorpha
+Colletes petalostemonis,Dalea searlsiae
+Thrips,Lantana camara
+Euxoa aurulenta,Asclepias welshii
+Bees,Eriogonum fasciculatum var. polifolium
+Macroglossum variegatum,Impatiens trichocarpa
+Anthophora plumipes,Viola
+Apis,Pycnanthemum tenuifolium
+Birds,Metrosideros polymorpha
+Diptera,Artemisia tridentata
+Sphingidae,Brunfelsia portoricensis
+Insecta,Crataegus
+Lepidoptera,Liatris scariosa var. scariosa
+Bees,Monarda punctata
+Bees,Geranium viscosissimum
+Bombus,Erythronium elegans
+Diptera,Santalum paniculatum
+Cantharidae,Argemone pleiacantha
+Diadasia ochracea,Kallstroemia grandiflora
+Self pollinated,Liparis loeselii
+Bombus pensylvanicus,Asclepias uncialis
+Lepidoptera,Scaevola coriacea
+Bees,Epigaea repens
+Bees,Packera plattensis
+Hymenoptera,Amoreuxia
+Halictidae,Styrax
+Bees,Arctostaphylos glandulosa
+Bibio,Nemophila
+Insecta,Wyethia amplexicaulis
+Formicidae,Gazania krebsiana
+Chiroptera,Agave
+Sphingidae,Silene latifolia
+Apis,Centaurea scabiosa
+Eristalis,Heracleum sphondylium ssp. montanum
+Perdita texana texana,Callirhoe involucrata
+Trochilidae,Penstemon speciosus
+Sphingidae,Erythrostemon gilliesii
+Trochilidae,Rhododendron arborescens
+Lepidoptera,Asimina triloba
+Self pollinated,Mirabilis jalapa
+Lepidoptera,Penstemon griffinii
+Cupido comyntas comyntas,Packera
+Lepidoptera,Wikstroemia phillyreifolia
+Lepidoptera,Asclepias fascicularis
+Halictidae,Purshia X subintegra
+Lepidoptera,Monarda fistulosa
+Lepidoptera,Phlox divaricata
+Lepidoptera,Aruncus dioicus var. dioicus
+Bombus,Lupinus argenteus
+Coleoptera,Calochortus clavatus var. pallidus
+Apis mellifera,Sabal bermudana
+Bombus,Linnaea borealis
+Syrphidae,Raphanus raphanistrum
+Halictidae,Fritillaria gentneri
+Bees,Cercis occidentalis
+Perizoma,Silene latifolia
+Lepidoptera,Philadelphus pubescens
+Bees,Sesbania tomentosa
+Bees,Penstemon whippleanus
+Insecta,Balsamorhiza sagittata
+Bombus,Linaria vulgaris
+Thricops spiniger,Geum peckii
+Wind,Morus alba
+Ashmeadiella,Calochortus
+Bees,Castilleja applegatei
+Thricops villicrura,Saussurea weberi
+Lepidoptera,Rudbeckia laciniata
+Lepidoptera,Hydrangea arborescens
+Apis,Lupinus westianus var. aridorum
+Bombus,Erythronium grandiflorum ssp. grandiflorum
+Bombus,Caryopteris
+Papilio eurymedon,Lilium philadelphicum
+Insecta,Gentianopsis thermalis
+Hypsoropha monilis,Abronia macrocarpa
+Ceratina calcarata,Conradina verticillata
+Coleoptera,Argemone aurantiaca
+Hymenoptera,Stachys tenuifolia
+Augochloropsis metallica,Solanum melongena
+Diptera,Diphylleia cymosa
+Bees,Mitchella repens
+Bees,Prunus pensylvanica
+Andrena pulverea,Limnanthes vinculans
+Agapostemon texanus,Callirhoe involucrata
+Apis,Orthocarpus
+Lepidoptera,Erythrina sandwicensis
+Wind,Parthenium hysteroporus
+Diadasia,Acanthomintha ilicifolia
+Hymenoptera,Anacardium occidentale
+Trochilidae,Arctostaphylos
+Lepidoptera,Layia glandulosa
+Lepidoptera,Psydrax odorata
+Apidae,Goetzea elegans
+Bombus,Petunia exserta
+Self pollinated,Lepidium meyenii
+Megachile brevis,Marrubium vulgare
+Coleoptera,Ceanothus cuneatus
+Coleoptera,Trillium flexipes
+Lepidoptera,Clarkia purpurea
+Colletes petalostemonis,Dalea
+Bombus,Aesculus glabra
+Bees,Mentha arvensis
+Lasioglossum nymphaearum,Nelumbo
+Bombyliidae,Bidens torta
+Bees,Hydrophyllum
+Lepidoptera,Pisonia umbellifera
+Sphingidae,Peniocereus greggii
+Bees,Ceanothus americanus
+Bees,Physostegia leptophylla
+Bombus,Brodiaea filifolia
+Bees,Ipomoea cordatotriloba var. cordatotriloba
+Hemiargus hanno,Mitracarpus
+Lepidoptera,Rhus copallinum var. copallinum
+Cetoniinae,Magnolia obovata
+Lepidoptera,Brodiaea pulchella
+Bees,Cerastium arvense
+Self pollinated,Echinocystis lobata
+Birds,Abutilon eremitopetalum
+Lepidoptera,Silphium integrifolium
+Svastra duplocincta,Ferocactus wislizeni
+Halictidae,Ferocactus cylindraceus
+Halictidae,Echinocereus enneacanthus ssp. enneacanthus
+Anthophora dispar,Antirrhinum
+Apidae,Paysonia
+Hippodamia,Calochortus
+Anthophora californica,Dudleya
+Osmia,Penstemon harringtonii
+Lepidoptera,Salix exigua
+Bees,Gentiana clausa
+Wasps,Helenium autumnale
+Bees,Prosopis glandulosa var. torreyana
+Bees,Symphyotrichum puniceum var. scabricaule
+Bombus hortorum,Antirrhinum
+Lepidoptera,Cynoglossum officinale
+Megachilidae,Penstemon degeneri
+Bees,Helenium pinnatifidum
+Osmia lignaria,Taraxacum officinale
+Osmia brevis,Penstemon debilis
+Insecta,Sagittaria latifolia
+Wasps,Penstemon laetus
+Megachilidae,Spiranthes
+Bees,Lycium andersonii
+Coleoptera,Opuntia humifusa
+Lepidoptera,Helianthus mollis
+Sciara,Neottia cordata
+Bombus californicus,Eriastrum densifolium
+Diptera,Sonchus arvensis
+Bombus bimaculatus,Conradina verticillata
+Lepidoptera,Brickellia californica
+Sphingidae,Lonicera periclymenum
+Lepidoptera,Opuntia
+Coleoptera,Fritillaria pudica
+Lasioglossum,Daucus carota
+Bombus,Delphinium pavonaceum
+Megachile,Medicago
+Andrena astragali,Zigadenus paniculatus
+Anthophila,Onopordum acanthium
+Insecta,Oenothera pallida
+Bees,Canavalia hawaiiensis
+Melissodes tepida timberlakei,Chloropyron maritimum ssp. maritimus
+Bees,Myrsine sandwicensis
+Bees,Prunus serotina
+Andrena miranda,Isotria verticillata
+Bees,Chlorogalum pomeridianum
+Trochilidae,Monardella macrantha
+Coleoptera,Cornus canadensis
+Diptera,Amelanchier
+Bees,Solidago sempervirens ssp. mexicana
+Diadasia,Sphaeralcea coccinea
+Lepidoptera,Itea virginica
+Diptera,Arctostaphylos pringlei
+Lasioglossum,Cypripedium parviflorum
+Apis mellifera,Shortia galacifolia
+Self pollinated,Betula glandulosa
+Bees,Arctostaphylos edmundsii
+Lepidoptera,Rhododendron maximum
+Hymenoptera,Rudbeckia
+Lepidoptera,Pittosporum glabrum
+Lasioglossum,Blennosperma bakeri
+Bees,Ipomoea hederacea
+Bees,Iris
+Lepidoptera,Erysimum
+Trochilidae,Salvia leucophylla
+Trichodes ornatus,Potentilla gracilis
+Lepidoptera,Abutilon eremitopetalum
+Osmia ribifloris,Vaccinium corymbosum
+Diptera,Actaea rubra
+Bees,Silphium integrifolium
+Erynnis telemachus,Viola canadensis var. scopulorum
+Himatione sanguinea,Stenogyne kanehoana
+Campylopterus pampa,Tillandsia
+Wasps,Epipactis
+Hymenoptera,Ephedra campylopoda
+Trochilidae,Aquilegia formosa
+Lepidoptera,Penstemon procerus
+Ashmeadiella opuntiae,Opuntia macrocentra
+Diptera,Sphaeralcea grossulariifolia
+Bees,Illicium floridanum
+Coleoptera,Astilbe
+Diptera,Drymocallis glandulosa var. glandulosa
+Osmia,Penstemon griffinii
+Insecta,Agastache rupestris
+Bees,Rosa virginiana
+Sphecidae,Asclepias syriaca
+Bees,Chaenomeles japonica
+Bees,Rhamnus cathartica
+Lepidoptera,Malacothamnus fasciculatus
+Diptera,Rhus aromatica
+Bees,Cardamine bulbosa
+Insecta,Lewisia rediviva
+Bees,Oxytropis sericea
+Papilio glaucus,Platanthera ciliaris
+Colletes mandibularis,Heterotheca subaxillaris
+Hylemya aestiva,Geum radiatum
+Osmia cornuta,Pyrus malus
+Lepidoptera,Pittosporum confertiflorum
+Diptera,Psychotria mauiensis
+Bombus,Aesculus parviflora
+Birds,Hibiscus waimeae
+Bombus,Mimulus lewisii
+Bees,Echinacea angustifolia
+Wasps,Silene latifolia
+Diptera,Viburnum acerifolium
+Self pollinated,Myosotis
+Sesiidae,Oxytropis lambertii
+Bees,Psychotria mariniana
+Birds,Claoxylon sandwicense
+Bombus,Lathyrus eucosmus
+Sephanoides sephanoides,Tropaeolum tricolor
+Lepidoptera,Agastache pallidiflora
+Wasps,Drymocallis glandulosa var. glandulosa
+Coleoptera,Cornus rugosa
+Bees,Erythronium elegans
+Lepidoptera,Dianthus carthusianorum
+Coleoptera,Symphyotrichum cordifolium
+Bees,Crataegus crus-galli
+Colletes petalostemonis,Dalea ornata
+Lepidoptera,Trientalis borealis
+Lepidoptera,Viburnum dentatum
+Exomalopsis,Capsicum frutescens
+Bees,Pittosporum glabrum
+Bees,Eupatorium resinosum
+Diptera,Caltha palustris
+Insecta,Rudbeckia occidentalis
+Coleoptera,Arnica cordifolia
+Leptonycteris yerbabuenae,Crescentia alata
+Bombyliidae,Muscari botryoides
+Thrips,Arctostaphylos uva-ursi
+Papilio demoleus,Impatiens trichocarpa
+Trochilidae,Cirsium vulgare
+Melissodes,Arctostaphylos pungens
+Bees,Phacelia
+Coleoptera,Helianthus gracilentus
+Bees,Santalum freycinetianum
+Ceratina dupla,Trillium grandiflorum
+Coleoptera,Iris virginica
+Bombus,Aquilegia coerulea
+Thymelicus lineola,Malva moschata
+Bees,Euonymus americanus
+Trochilidae,Primula angustifolia
+Wind,Purshia tridentata
+Bombus,Vicia faba
+Diptera,Diospyros virginiana
+Bees,Allium
+Lepidoptera,Cornus alternifolia
+Bombus mixtus,Goodyera oblongifolia
+Bees,Ribes aureum
+Lepidoptera,Echinacea angustifolia
+Bombus fervidus,Napaea dioica
+Xylocopa sonorina,Sesbania
+Bombus vagans,Mimulus ringens
+Lasioglossum nelumbonis,Nymphaea
+Halictidae,Polygonatum commutatum
+Hymenoptera,Eriogonum ovalifolium var. vineum
+Bees,Dudleya nesiotica
+Bees,Cirsium occidentale var. californicum
+Bees,Gilia tricolor
+Bees,Delphinium nuttallianum
+Self pollinated,Phaseolus vulgaris
+Birds,Hibiscus kokio
+Bombus vosnesenskii,Eucephalus vialis
+Bombus frigidus,Saussurea weberi
+Lasioglossum,Solanum melongena
+Diptera,Wyethia helianthoides
+Bees,Eurybia macrophylla
+Diptera,Purshia mexicana
+Apis,Rhus typhina
+Lepidoptera,Valeriana officinalis
+Bees,Camissonia campestris
+Bees,Ephedra viridis
+Syrphidae,Napaea dioica
+Lithurgus gibbosus,Opuntia humifusa
+Lepidoptera,Solidago caesia
+Lepidoptera,Xerophyllum tenax
+Wind,Ambrosia
+Bees,Doellingeria umbellata
+Self pollinated,Capsella bursa-pastoris
+Diptera,Ceanothus crassifolius
+Coleoptera,Oxypolis rigidior
+Bees,Tagetes erecta
+Trochilidae,Penstemon whippleanus
+Megachile rubripes,Medicago
+Halictus confusus,Sclerocactus brevispinus
+Bombus,Hibiscus moscheutos ssp. moscheutos
+Lucilia,Allium
+Coleoptera,Sorbus aucuparia
+Lepidoptera,Sphaeralcea grossulariifolia
+Dufourea,Helianthus
+Hymenoptera,Oenothera
+Bees,Magnolia acuminata
+Lasioglossum,Ipomopsis globularis
+Stratiomys nevadae,Zigadenus paniculatus
+Lasioglossum,Calochortus
+Megachilidae,Nemophila menziesii
+Coleoptera,Sambucus
+Lepidoptera,Polyscias sandwicensis
+Self pollinated,Polygonatum multiflorum
+Eristalis hirta,Hymenoxys grandiflora
+Bembix americana,Dudleya
+Danaus plexippus,Lantana
+Bombus pensylvanicus,Conradina verticillata
+Bees,Salix nigra
+Culicidae,Clematis ligusticifolia
+Bombus hortorum,Aconitum
+Lepidoptera,Echinacea purpurea
+Chrysomya megacephala,Impatiens trichocarpa
+Lepidoptera,Eupatorium
+Bees,Pisonia sandwicensis
+Apis,Antirrhinum majus
+Insecta,Chaenomeles japonica
+Anthophoridae,Echinocereus enneacanthus ssp. enneacanthus
+Wind,Potamogeton
+Diptera,Mertensia franciscana
+Bees,Helenium autumnale
+Bees,Arctostaphylos pungens
+Bees,Pycnanthemum albescens
+Insecta,Mollugo verticillata
+Syrphidae,Hieracium
+Diptera,Crataegus mollis
+Insecta,Lobelia siphilitica
+Apis,Delphinium nuttallianum
+Lasioglossum,Viola
+Peponapis pruinosa,Cucurbita pepo
+Self pollinated,Gayophytum
+Megachile,Ferocactus wislizeni
+Bees,Gazania krebsiana
+Bees,Zigadenus venenosus
+Halictidae,Eschscholzia californica
+Lepidoptera,Amelanchier alnifolia
+Lepidoptera,Solidago curtisii
+Megachile melanophaea,Cypripedium reginae
+Bees,Portulaca villosa
+Nomia melanderi,Medicago
+Insecta,Aesculus californica
+Lasioglossum,Desmodium setigerum
+Bombus,Papaver orientale
+Anthophora plumipes,Vaccinium corymbosum
+Wind,Plantago lanceolata
+Bees,Amelanchier utahensis
+Syrphidae,Epipactis thunbergii
+Diptera,Oonopsis
+Lepidoptera,Crataegus mollis
+Lepidoptera,Lespedeza hirta
+Coleoptera,Coreopsis
+Apis mellifera,Trillium grandiflorum
+Diptera,Scaevola kilaueae
+Megachile perihirta,Medicago
+Bombus,Prunella vulgaris
+Coelioxys,Rudbeckia triloba
+Lepidoptera,Yucca glauca
+Wind,Betula glandulosa
+Bombus,Primula conjugens var. conjugens
+Bees,Bigelowia nudata
+Diptera,Clematis virginiana
+Apis,Nolina greenei
+Andrena argemonis,Argemone hispida
+Bombus,Rudbeckia triloba
+Hymenoptera,Ajuga reptans
+Bees,Viburnum nudum
+Diptera,Calochortus eurycarpus
+Wasps,Solidago
+Bees,Arbutus menziesii
+Lepidoptera,Desmanthus illinoensis
+Zosterops japonicus,Cyanea leptostegia
+Augochloropsis metallica,Sabal etonia
+Apis,Euryops
+Bombus sylvicola,Oxytropis campestris var. chartacea
+Diptera,Cornus glabrata
+Coleoptera,Ceanothus oliganthus
+Lepidoptera,Oenothera filiformis
+Diptera,Senecio bigelovii var. bigelovii
+Lepidoptera,Styrax redivivus
+Lepidoptera,Senecio
+Bees,Styrax redivivus
+Lepidoptera,Kalmia latifolia
+Andrena quintilis,Amorpha
+Trochilidae,Monarda punctata var. punctata
+Halictidae,Sagittaria trifolia
+Bees,Calypso bulbosa
+Diptera,Polyscias racemosa
+Wasps,Dasylirion wheeleri
+Dolba hyloeus,Abronia macrocarpa
+Bees,Hackelia cronquistii
+Ichneumonidae,Neottia cordata
+Bees,Salix scouleriana
+Bees,Camassia quamash
+Apis mellifera,Spiranthes diluvialis
+Megachile albitarsis,Sabal etonia
+Bees,Ranunculus alismifolius
+Coleoptera,Argemone polyanthemos
+Lepidoptera,Solidago roanensis
+Apis,Penstemon griffinii
+Hesperiidae,Heliotropium anomalum
+Papilio glaucus,Lilium pardalinum
+Lepidoptera,Eriogonum fasciculatum var. polifolium
+Bombus,Aconitum napellus
+Dioxys pomonae,Townsendia aprica
+Calliphora,Brassica napus
+Diptera,Myosotis asiatica
+Bees,Bacopa monnieri
+Lepidoptera,Lomatium dissectum
+Megachile pugnatus,Cirsium pumilum var. hillii
+Lepidoptera,Doellingeria umbellata
+Bees,Diervilla lonicera
+Bees,Symphyotrichum ericoides
+Manduca,Agave
+Coleoptera,Sidalcea malviflora
+Lasioglossum,Chloropyron maritimum ssp. maritimus
+Listrus,Calochortus
+Hymenoptera,Lonicera alpigena
+Cecidomyiidae,Malaxis unifolia
+Chironomidae,Crataegus monogyna
+Hymenoptera,Ludwigia elegans
+Apis cerana,Impatiens trichocarpa
+Bees,Impatiens glandulifera
+Lepidoptera,Phlox paniculata
+Bees,Delphinium
+Bombus,Pisum sativum
+Insecta,Stanleya pinnata
+Bees,Lewisia rediviva
+Halictidae,Minuartia glabra
+Diptera,Pisonia sandwicensis
+Trochilidae,Tillandsia
+Lepidoptera,Scaevola kilaueae
+Bees,Trillium flexipes
+Ceratina nanula,Townsendia aprica
+Trochilidae,Penstemon rydbergii
+Apis,Tribulus terrestris
+Bees,Oxytropis lambertii
+Anthophora edwardsii,Amsinckia grandiflora
+Bees,Rumex giganteus
+Villa,Calochortus
+Bees,Trifolium variegatum
+Bees,Solidago curtisii
+Osmia ribifloris,Vaccinium
+Hymenoptera,Arctostaphylos glandulosa ssp. mollis
+Lasioglossum quebecense,Triphora trianthophoros
+Agapostemon,Lygodesmia juncea
+Anthophorula nitens,Deinandra fasticulata
+Apis,Lippia
+Bombus,Oxytropis lambertii
+Self pollinated,Corydalis flavula
+Syrphidae,Arctostaphylos glandulosa ssp. mollis
+Megachile gravita,Clarkia xantiana
+Prodoxidae,Yucca angustissima
+Bees,Phacelia hastata
+Wind,Ambrosia chamissonis
+Bees,Echinacea pallida
+Diptera,Ptilimnium capillaceum
+Lepidoptera,Monarda
+Diptera,Iris pseudacoris
+Trochilidae,Ribes aureum
+Eucera quadricincta,Arctomecon humilis
+Staphylinidae,Magnolia virginiana
+Diptera,Solidago speciosa
+Apis mellifera,Argemone pleiacantha
+Andrena nivalis,Ribes
+Bees,Iris fulva
+Ceratina calcarata,Cypripedium candidum
+Apis,Trifolium pratense
+Bees,Calochortus eurycarpus
+Andrena lamelliterga,Phacelia
+Bees,Allium haematochiton
+Andrena angustitarsata,Blennosperma bakeri
+Bees,Baccharis pilularis
+Bombus,Acmispon dendroideus var. traskiae
+Anthophoridae,Aliciella penstemonoides
+Apis,Rubus
+Sphex ichneumoneus,Asclepias syriaca
+Apis,Potentilla
+Trochilidae,Ribes speciosum
+Coccinellidae,Nototrichium sandwicense
+Self pollinated,Barbarea vulgaris
+Lasioglossum,Napaea dioica
+Diptera,Psydrax odorata
+Diptera,Silphium integrifolium
+Wind,Rhynchospora
+Trochilidae,Penstemon virgatus
+Bees,Stewartia ovata
+Diapriidae,Cypripedium fasciculatum
+Trochilidae,Dudleya pulverulenta
+Apis,Nepeta cataria
+Bombus flavifrons,Hymenoxys grandiflora
+Perizoma,Silene vulgaris
+Wind,Ephedra
+Apis,Pyrus communis
+Erebia epipsodea,Leucocrinum montanum
+Diptera,Physaria
+Apis mellifera,Conradina verticillata
+Diptera,Apocynum cannabinum
+Bombus,Digitalis purpurea
+Wind,Hippuris
+Self pollinated,Sonchus arvensis
+Lepidoptera,Amorpha fruticosa
+Bees,Delphinium nudicaule
+Hesperiidae,Platanthera hookeri
+Lepidoptera,Catalpa speciosa
+Bombus variabilis,Cirsium pumilum var. hillii
+Wasps,Prunus serotina
+Bees,Passiflora incarnata
+Coleoptera,Sedum spathulifolium
+Sphex ichneumoneus,Asclepias verticillata
+Andrenidae,Eschscholzia californica
+Bees,Solidago altissima
+Lasioglossum,Lonicera japonica
+Bees,Argemone polyanthemos
+Lepidoptera,Myosotis asiatica
+Halictus tripartitus,Chloropyron palmatum
+Apis,Potentilla recta
+Lepidoptera,Fendlera rupicola
+Ptilothrix bombiformis,Hibiscus
+Insecta,Agave parviflora
+Wasps,Cylindropuntia whipplei
+Bombus,Trifolium repens
+Lasioglossum coeruleum,Cypripedium arietinum
+Coleoptera,Calochortus splendens
+Bees,Downingia cuspidata
+Plenoculus davisii,Dodecahema leptoceras
+Bombus huntii,Hymenoxys grandiflora
+Lepidoptera,Passiflora incarnata
+Self pollinated,Ageratum houstonianum
+Trochilidae,Rhododendron atlanticum
+Bees,Allium fimbriatum
+Diptera,Scaevola taccada
+Insecta,Astilbe
+Lasioglossum sisymbrii,Potentilla gracilis
+Trochilidae,Mimulus dentatus
+Insecta,Viola
+Bombus flavifrons,Delphinium barbeyi
+Diptera,Diospyros hillebrandii
+Bombus pensylvanicus,Cypripedium acaule
+Bombus,Goodyera tesselata
+Apis,Brassica
+Bombus,Nolina
+Lepidoptera,Nolina brittoniana
+Self pollinated,Lycium barbarum
+Bees,Mertensia brevistyla
+Muscidae,Linnaea borealis
+Insecta,Mentzelia laevicaulis
+Bees,Diphylleia cymosa
+Trichiotinus piger,Magnolia grandiflora
+Bees,Pyxidanthera barbulata
+Lepidoptera,Penstemon payettensis
+Bees,Dicentra uniflora
+Coleoptera,Calycanthus floridus
+Apis mellifera,Echinacea angustifolia
+Lepidoptera,Ochrosia compta
+Bees,Asclepias incarnata
+Birds,Bidens cosmoides
+Lepidoptera,Datura wrightii
+Osmia cornifrons,Pyrus malus
+Diptera,Euonymus americanus
+Insecta,Agave schottii
+Archilochus colubris,Silene regia
+Lepidoptera,Hibiscus arnottianus
+Bees,Sisyrinchium vaginatum
+Apis,Cleome lutea
+Volucella,Arctostaphylos pungens
+Bombus,Catalpa speciosa
+Apis mellifera,Clinopodium ashei
+Bees,Echinocereus triglochidiatus
+Bees,Eriogonum corymbosum var. velutinum
+Bombus,Solanum melongena
+Coleoptera,Asimina triloba
+Diptera,Dudleya nesiotica
+Lepidoptera,Manfreda sileri
+Lepidoptera,Petunia hybrida
+Lepidoptera,Wikstroemia uva-ursi
+Osmia titusi,Astragalus humillimus
+Bees,Salvia
+Bees,Gaillardia pulchella
+Megachilidae,Coreopsis
+Diptera,Arisaema dracontium
+Danaus plexippus,Platanthera blephariglottis
+Andrena carolina,Vaccinium
+Bees,Phlox divaricata ssp. divaricata
+Bees,Crataegus douglasii
+Insecta,Phaseolus vulgaris
+Bees,Prunus virginiana
+Bees,Amelanchier alnifolia
+Trochilidae,Cephalanthus occidentalis
+Bees,Eriogonum heracleoides
+Self pollinated,Eupatorium cannabinum
+Bombus,Taraxacum officinale
+Bees,Rhus copallinum var. copallinum
+Syrphidae,Apocynum androsaemifolium
+Coleoptera,Asclepias tuberosa
+Birds,Chrysodracon hawaiiensis
+Wind,Koanophyllon palmeri
+Bees,Arctostaphylos tomentosa
+Lepidoptera,Chelone lyonii
+Lepidoptera,Heterotheca grandiflora
+Bombus,Spiranthes
+Syrphidae,Sagittaria trifolia
+Lepidoptera,Helianthus hirsutus
+Trochilidae,Ipomoea quamoclit
+Lepidoptera,Euphorbia celastroides var. kaenana
+Bees,Lathyrus vestitus var. ochropetalus
+Self pollinated,Pisum sativum
+Megachile,Hedysarum boreale
+Bees,Leptecophylla tameiameiae
+Melissodes bimaculata,Desmodium paniculatum
+Bees,Solidago roanensis
+Bees,Mirabilis macfarlanei
+Anthophora abrupta,Asclepias meadii
+Diptera,Amelanchier utahensis
+Bees,Ilex coriacea
+Lepidoptera,Amelanchier utahensis
+Trochilidae,Actaea podocarpa
+Neuroptera,Achillea
+Donacia,Nuphar
+Augochloropsis,Physaria filiformis
+Bombus,Castilleja pulchella
+Bees,Ribes curvatum
+Apidae,Pogogyne nudiuscula
+Coleoptera,Ruellia humilis
+Poanes hobomok,Lithospermum caroliniense
+Halictus ligatus,Callirhoe involucrata
+Bees,Hibiscus waimeae
+Wasps,Phoradendron serotinum
+Lepidoptera,Hydrolea ovata
+Lepidoptera,Sedum glaucophyllum
+Bees,Vitex rotundifolia
+Papilio polyxenes,Platanthera ciliaris
+Bees,Portulaca molokiniensis
+Lepidoptera,Callirhoe involucrata
+Bees,Apocynum cannabinum
+Wasps,Cirsium ownbeyi
+Cantharidae,Toxicodendron rydbergii
+Chelostoma,Campanula
+Lepidoptera,Pontederia cordata
+Lepidoptera,Lobelia hypoleuca
+Self pollinated,Physalis angulata
+Wasps,Acacia brevispica
+Self pollinated,Lepidium chalepensis
+Diptera,Asimina triloba
+Strymon melinus,Nolina
+Self pollinated,Medicago lupulina
+Hesperiidae,Liatris aspera
+Lepidoptera,Salvia leucophylla
+Coleoptera,Magnolia virginiana
+Lithurgus,Opuntia polyacantha
+Augochloropsis,Capsicum frutescens
+Halictidae,Campanula americana
+Bees,Heterotheca subaxillaris
+Wind,Vitis vinifera
+Trochilidae,Nasturtium
+Bombus,Psoralea tenuiflora
+Diptera,Galium
+Bombus,Aesculus turbinata
+Bees,Brodiaea pulchella
+Anthidium edwardsii,Chloropyron maritimum ssp. maritimus
+Bees,Purshia mexicana
+Bees,Fragaria chiloensis
+Bees,Baptisia australis
+Diptera,Antidesma pulvinatum
+Andrena accepta,Helianthus
+Trochilidae,Echinocereus triglochidiatus
+Euphydryas editha,Lasthenia californica
+Lepidoptera,Chamaebatiaria millefolium
+Sphinx,Oenothera cespitosa
+Lepidoptera,Cryptantha intermedia
+Bees,Acer macrophyllum
+Bombylius,Ajuga reptans
+Bees,Dudleya brevifolia
+Bees,Cirsium ownbeyi
+Lepidoptera,Actaea racemosa
+Insecta,Gutierrezia sarothrae
+Insecta,Artemisia tridentata
+Diptera,Astelia menziesiana
+Bees,Corallorhiza maculata
+Self pollinated,Physalis pubescens
+Self pollinated,Lactuca serriola
+Andrena erythronii,Erythronium albidum
+Bombus,Penstemon confertus
+Birds,Erythrina sandwicensis
+Pegoplata juvenilis,Liparis liliifolia
+Bees,Actaea racemosa
+Diptera,Desmanthus illinoensis
+Osmia lignaria,Cercis occidentalis
+Coleoptera,Paeonia californica
+Rhingia,Convolvulus arvensis
+Heriades,Heterotheca subaxillaris
+Danaus plexippus,Platanthera ciliaris
+Osmia atriventris,Conradina verticillata
+Bombus nevadensis,Galearis spectabilis
+Hymenoptera,Achillea
+Insecta,Dendromecon rigida
+Diadasia rinconis,Coryphantha robustispina ssp. robustispina
+Insecta,Echinocereus triglochidiatus
+Hoplitis,Thermopsis lanceolata
+Diptera,Eriogonum kennedyi
+Andrenidae,Gilia achilleifolia
+Trochilidae,Chelone lyonii
+Bees,Antennaria
+Scarabaeidae,Viburnum opulus
+Bees,Eremogone congesta var. congesta
+Xylocopa,Alectryon ramiflorus
+Diptera,Hackelia cronquistii
+Pieridae,Polygala lewtonii
+Sphingidae,Oenothera cespitosa
+Lepidoptera,Psychotria mauiensis
+Pieris rapae,Raphanus raphanistrum
+Diptera,Rudbeckia laciniata
+Lepidoptera,Fallugia paradoxa
+Lepidoptera,Rhododendron alabamense
+Self pollinated,Silene virginica
+Hymenoptera,Euonymus americanus
+Coleoptera,Mentzelia pectinata
+Sphingidae,Zephyranthes atamasco
+Apis,Gilia achilleifolia
+Nemotelus,Callirhoe involucrata
+Gastropoda,Asarum canadense
+Bees,Phacelia tanacetifolia
+Lasioglossum,Conradina verticillata
+Halictidae,Linnaea borealis
+Bees,Rubus odoratus
+Lepidoptera,Ribes curvatum
+Wind,Alnus serrulata
+Bees,Diplacus aurantiacus
+Bees,Leucothoe fontanesiana
+Coleoptera,Callirhoe involucrata
+Insecta,Acer
+Papilio polyxenes,Liatris aspera
+Anthophora abrupta,Conradina verticillata
+Bembix,Medicago sativa
+Trochilidae,Castilleja angustifolia var. dubia
+Sphingidae,Aquilegia chrysantha
+Hymenoptera,Cornus sericea ssp. sericea
+Bees,Celastrus scandens
+Bees,Symphyotrichum
+Bombus,Robinia pseudoacacia
+Diptera,Veratrum californicum var. californicum
+Tachytes aurulentus,Asclepias verticillata
+Colias,Phlox pilosa
+Bees,Callicarpa americana
+Bees,Amsonia ciliata
+Calypte anna,Eriastrum densifolium
+Hymenoptera,Pyxidanthera barbulata
+Diptera,Ceanothus americanus
+Coleoptera,Trientalis borealis
+Bombus,Lathyrus latifolius
+Plebejus melissa,Astragalus applegatei
+Lasioglossum,Sabal palmetto
+Melissodes,Rudbeckia triloba
+Bees,Rosa
+Bees,Aronia arbutifolia
+Hadena,Silene vulgaris
+Hymenoptera,Sesbania
+Self pollinated,Sambucus nigra ssp. canadensis
+Lepidoptera,Oenothera speciosa
+Coleoptera,Crataegus
+Ochlodes sylvanoides,Eucephalus vialis
+Trochilidae,Agave X arizonica
+Insecta,Calochortus nuttallii
+Apis,Viola
+Apis,Linum lewisii
+Lepidoptera,Capparis sandwichiana
+Bees,Geum peckii
+Bombus,Lupinus westianus var. aridorum
+Megachile albitarsis,Heterotheca subaxillaris
+Lepidoptera,Stewartia malacodendron
+Coleoptera,Asclepias sullivantii
+Diptera,Potentilla fruticosa
+Lepidoptera,Mirabilis jalapa
+Lepidoptera,Pittosporum hosmeri
+Apis,Arctostaphylos pungens
+Bombyliidae,Thymophylla tephroleuca
+Megachile,Thermopsis lanceolata
+Diptera,Cylindropuntia whipplei
+Manduca quincemaculata,Peniocereus striatus
+Diptera,Parnassia fimbriata
+Bees,Phyllostegia macrophylla
+Megachile dentitarsus,Medicago
+Anthomyia,Stellaria media
+Bombus,Astragalus barrii
+Lepidoptera,Coreopsis gladiata
+Bees,Catalpa speciosa
+Insecta,Lomatium dissectum
+Diptera,Actaea racemosa
+Bombus fervidus,Galearis spectabilis
+Bees,Achillea millefolium
+Diptera,Prunus angustifolia
+Bombus fernaldae,Cypripedium acaule
+Bombus impatiens,Solanum carolinense
+Apis mellifera,Limnanthes vinculans
+Anthidium manicatum,Antirrhinum
+Bees,Pediocactus knowltonii
+Vespula germanica,Scrophularia
+Coleoptera,Asclepias fascicularis
+Bombus,Primula meadia
+Apidae,Rhynchospora
+Bees,Sericocarpus rigidus
+Diptera,Silene latifolia
+Lasioglossum oenotherae,Oenothera
+Syrphidae,Achillea
+Bombus,Antirrhinum majus
+Lepidoptera,Senecio serra
+Agapostemon,Calochortus
+Bees,Scaevola kilaueae
+Coleoptera,Coreopsis pubescens
+Bees,Abutilon eremitopetalum
+Bees,Mentzelia oligosperma
+Bees,Lupinus argenteus
+Megachile centuncularis,Cypripedium reginae
+Lasioglossum,Pycnanthemum tenuifolium
+Apis,Zinnia
+Bees,Erigeron
+Lepidoptera,Eriogonum kennedyi
+Self pollinated,Dalea purpurea var. purpurea
+Apis,Nasturtium officinale
+Tropicoseius ornatus,Tillandsia
+Hymenoptera,Warea amplexifolia
+Nomia,Desmodium setigerum
+Lasioglossum cinctipes,Cypripedium candidum
+Geron,Polygala lewtonii
+Apis cerana,Impatiens cuspidata
+Lasioglossum,Purshia X subintegra
+Apis,Foeniculum vulgare
+Bees,Dudleya virens
+Sphingidae,Styrax
+Sphingidae,Oenothera harringtonii
+Coleoptera,Asarum canadense
+Diptera,Alisma
+Coleoptera,Asclepias incarnata
+Bees,Ocimum basilicum
+Vanessa virginiensis,Crataegus
+Eucera,Arctostaphylos pungens
+Diptera,Coreopsis
+Bees,Cordia
+Lepidoptera,Silphium laciniatum
+Chiroptera,Manfreda brachystacha
+Diptera,Phyllostegia macrophylla
+Bees,Caltha leptosepala
+Hymenoptera,Conyza canadensis
+Hapropoda,Penstemon haydenii
+Bees,Asclepias californica
+Bees,Vaccinium stamineum
+Bees,Clinopodium carolinianum
+Wasps,Potentilla
+Hymenoptera,Argemone pleiacantha
+Bees,Spiranthes delitescens
+Lasioglossum pilosum,Cypripedium candidum
+Arthromacra aenea,Magnolia virginiana
+Apidae,Parnassia palustris
+Eristalis,Narcissus pseudonarcissus
+Hymenoptera,Toxicodendron rydbergii
+Lepidoptera,Phemeranthus teretifolius
+Bees,Paeonia brownii
+Diptera,Geranium
+Trochilidae,Ipomopsis aggregata
+Bees,Opuntia
+Diptera,Helenium autumnale
+Bees,Thermopsis montana
+Andrena asteris,Aster
+Bees,Astragalus kentrophyta
+Bees,Monarda fistulosa
+Trochilidae,Peritoma arborea var. arborea
+Diptera,Polyscias sandwicensis
+Bees,Liatris spicata
+Diptera,Spiraea japonica
+Diptera,Magnolia grandiflora
+Bees,Abutilon menziesii
+Bees,Heliotropium curassavicum
+Xylocopa,Oenothera cespitosa
+Papilio troilus,Platanthera ciliaris
+Trichodes,Calochortus
+Lepidoptera,Liatris aspera
+Megachilidae,Linnaea borealis
+Lepidoptera,Bidens aristosa
+Lepidoptera,Sedum lanceolatum
+Coleoptera,Actaea rubra
+Lepidoptera,Helenium pinnatifidum
+Insecta,Lobelia yuccoides
+Bombus,Thermopsis montana
+Bombus fervidus,Platanthera blephariglottis
+Wasps,Conyza canadensis
+Apis,Osteospermum
+Wind,Koanophyllon solidaginifolium
+Diptera,Lobelia boykinii
+Megachilidae,Thymophylla tephroleuca
+Lepidoptera,Clematis crispa
+Bees,Trillium luteum
+Coleoptera,Euonymus americanus
+Apis,Sphaeralcea coccinea
+Trochilidae,Bignonia capreolata
+Crambidae,Callirhoe involucrata
+Andrena,Corallorhiza maculata
+Diptera,Adenostoma fasciculatum
+Cleridae,Acanthomintha ilicifolia
+Andrena quintilis,Astragalus flexuosus
+Lasioglossum pruinosum,Callirhoe involucrata
+Bombus,Campsis radicans
+Bees,Fagopyrum esculentum
+Insecta,Silene
+Bombus lapidarius,Trifolium pratense
+Hymenoptera,Allium gooddingii
+Bombus,Arctostaphylos pungens
+Trochilidae,Aquilegia coerulea
+Lepidoptera,Achillea millefolium
+Bees,Psychotria mauiensis
+Andrena,Acer
+Self pollinated,Gayophytum diffusum
+Self pollinated,Taraxacum officinale
+Bees,Aquilegia canadensis
+Trochilidae,Castilleja kaibabensis
+Colletidae,Linnaea borealis
+Trochilidae,Cordia
+Bees,Polemonium viscosum
+Bees,Eutrochium fistulosum
+Bombus,Crataegus
+Osmia,Crepis atribarba
+Diptera,Allium haematochiton
+Bees,Vaccinium corymbosum
+Lepidoptera,Primula cusickiana
+Coleoptera,Silene acaulis
+Insecta,Sagittaria
+Apis mellifera,Apios priceana
+Apis mellifera,Callirhoe involucrata
+Hymenoptera,Jacquemontia reclinata
+Wasps,Solidago speciosa
+Andrena quintilis,Amorpha canescens
+Bombus,Verbascum thapus
+Lepidoptera,Delissea rhytidosperma
+Coleoptera,Crataegus mollis
+Diadasia,Opuntia polyacantha
+Bees,Nolina microcarpa
+Leptonycteris curasoae,Agave
+Andrena erigeniae,Claytonia virginica
+Lepidoptera,Mentzelia nuda
+Bees,Asclepias fascicularis
+Bees,Delissea rhytidosperma
+Lepidoptera,Rhus aromatica
+Trochilidae,Aliciella subnuda
+Lepidoptera,Diervilla lonicera
+Insecta,Argemone polyanthemos
+Culicidae,Malaxis unifolia
+Bees,Aster
+Bees,Eurybia spectabilis
+Diptera,Ilex glabra
+Bees,Eriophyllum latilobum
+Augochlorella pomoniella,Dudleya
+Bees,Ilex anomala
+Diptera,Aronia melanocarpa
+Bees,Desmanthus illinoensis
+Hymenoptera,Lactuca serriola
+Megacyllene robiniae,Solidago altissima
+Trochilidae,Sambucus racemosa
+Anoura geoffroyi,Tillandsia macropetala
+Diptera,Fendlera rupicola
+Bombus fervidus,Asclepias sullivantii
+Insecta,Phacelia hastata
+Chrysomelidae,Oenothera
+Glutophrissa drusilla,Melanthera nivea
+Lepidoptera,Helenium puberulum
+Andrena erythronii,Erythronium japonicum
+Papilio troilus,Platanthera blephariglottis
+Lepidoptera,Clarkia cylindrica
+Coleoptera,Viburnum dentatum
+Diptera,Solidago missouriensis
+Hymenoptera,Comandra umbellata
+Phytomyza atricornis,Nigella sativa
+Bombus,Calypso
+Lepidoptera,Saponaria officinalis
+Anthophora abrupta,Cypripedium reginae
+Diptera,Eutrochium maculatum
+Lepidoptera,Rhododendron occidentale
+Halictus,Physaria filiformis
+Megachile brevis,Asclepias uncialis
+Colletes,Solanum dulcamara
+Heliconius,Lantana
+Diptera,Bidens hawaiensis
+Syrphidae,Minuartia uniflora
+Plebejus melissa samuelis,Lithospermum caroliniense
+Insecta,Artemisia frigida
+Macroglossum variegatum,Impatiens cuspidata
+Apis florea,Foeniculum vulgare
+Syrphidae,Veronica
+Trochilidae,Rubus
+Lepidoptera,Calochortus splendens
+Bees,Desmodium setigerum
+Apis mellifera,Asclepias exaltata
+Diadasia diminuta,Kallstroemia grandiflora
+Lepidoptera,Eriogonum fasciculatum
+Lepidoptera,Diospyros virginiana
+Colias philodice,Lythrum salicaria
+Bombus griseocollis,Asclepias viridiflora
+Hymenoptera,Euphorbia esula
+Anthophorula torticornis,Pogogyne abramsii
+Bombus,Ludwigia suffruticosa
+Bees,Physaria
+Lepidoptera,Zinnia
+Coleoptera,Senecio bigelovii var. bigelovii
+Bees,Myrsine lessertiana
+Sphingidae,Silene vulgaris
+Wind,Prunus virginiana
+Bombus balteatus,Primula angustifolia
+Bees,Iris versicolor
+Lepidoptera,Echinacea pallida
+Melecta,Salvia mellifera
+Lepidoptera,Physocarpus amurensis
+Diptera,Diospyros sandwicensis
+Bees,Rosa woodsii
+Bees,Castilleja exserta
+Apis,Raphanus raphanistrum
+Lepidoptera,Phlox drummondii
+Apis,Ratibida columnifera
+Diptera,Eriogonum fasciculatum var. polifolium
+Lepidoptera,Erythrostemon gilliesii
+Thysanoptera,Nasturtium gambelii
+Sphingidae,Delphinium nuttallianum
+Lepidoptera,Argemone pleiacantha
+Agapostemon splendens,Jacquemontia reclinata
+Bombylius,Thalictrum
+Bees,Arnica cordifolia
+Agapostemon,Acanthomintha ilicifolia
+Anthophora,Eriastrum densifolium
+Bees,Epilobium canum
+Coleoptera,Ranunculus acriformis var. aestivalis
+Polistes fuscatus,Asclepias verticillata
+Bombylius,Clinopodium ashei
+Toxophora,Calochortus
+Andrena,Solidago altissima
+Lepidoptera,Solidago sempervirens ssp. mexicana
+Wasps,Freycinetia arborea
+Diptera,Arnica mollis
+Bees,Ericameria nauseosa
+Coleoptera,Cephalanthus occidentalis
+Apis,Ludwigia suffruticosa
+Bees,Coreopsis
+Bees,Penstemon cobaea
+Bombus,Penstemon palmeri
+Bombus terrestris,Trifolium pratense
+Andrena pensilis,Lasthenia burkei
+Bees,Caltha palustris
+Selasphorus platycercus,Delphinium barbeyi
+Lepidoptera,Ilex vomitoria
+Bombyliidae,Sabal etonia
+Wind,Thalictrum dasycarpum
+Trochilidae,Castilleja linariifolia
+Diadasia afflicta,Callirhoe involucrata
+Nannotrigona testaceicornis,Cucumis sativus
+Thricops septentrionalis,Geum peckii
+Wasps,Rhus copallinum var. copallinum
+Apis,Gaylussacia baccata
+Bees,Polemonium reptans
+Bees,Hibiscus clayi
+Coleoptera,Erysimum
+Andrena blennospermatis,Blennosperma bakeri
+Self pollinated,Pseudophoenix
+Epicauta puncticollis,Eucephalus vialis
+Bees,Potentilla fruticosa
+Insecta,Stephanomeria
+Bees,Acacia
+Bees,Rudbeckia laciniata
+Apis mellifera,Sabal etonia
+Lepidoptera,Lobelia elongata
+Diptera,Sedum spathulifolium
+Diptera,Silene acaulis
+Bombus impatiens,Cypripedium acaule
+Apis,Salvia farinacea
+Lepidoptera,Salix nigra
+Bombus griseocollis,Physaria filiformis
+Diptera,Symphyotrichum oblongifolium
+Self pollinated,Viola
+Coleoptera,Helianthus maximiliani
+Bees,Helianthus gracilentus
+Bees,Sphaeralcea grossulariifolia
+Melanagromyza,Nigella sativa
+Lepidoptera,Alyxia stellata
+Lepidoptera,Potentilla
+Apidae,Sida
+Bombyliidae,Cardamine concatenata
+Hemaris thysbe,Platanthera blephariglottis
+Hesperiidae,Carduus nutans
+Colletes aestivalis,Heuchera
+Bees,Penstemon smalli
+Trochilidae,Bouvardia ternifolia
+Bees,Catalpa bignonioides
+Diptera,Chamaedaphne calyculata
+Colletidae,Cypripedium montanum
+Bombus,Calochortus
+Trochilidae,Lilium
+Apis,Pyrus malus
+Bees,Fritillaria agrestis
+Lepidoptera,Monarda punctata var. punctata
+Self pollinated,Cichorium intybus
+Andrenidae,Cypripedium montanum
+Bombus,Rhododendron
+Jurinia,Pyxidanthera brevifolia
+Bombus occidentalis,Chloropyron palmatum
+Bombus,Trifolium dasyphyllum
+Bees,Acacia brevispica
+Lepidoptera,Asclepias exaltata
+Dufourea calochorti,Calochortus macrocarpus var. maculosus
+Wind,Coprosma pubens
+Bees,Hymenoxys hoopesii
+Cerambycidae,Toxicodendron rydbergii
+Insecta,Echinocystis lobata
+Bombus,Hypericum
+Nomada sayi,Isotria verticillata
+Litolinga,Jacquemontia reclinata
+Culicidae,Parnassia palustris
+Wasps,Asclepias syriaca
+Trochilidae,Lycium pallidum
+Diptera,Myrsine sandwicensis
+Wasps,Sericocarpus rigidus
+Tipulidae,Parnassia palustris
+Halictus,Daucus carota
+Andrena polemonii,Polemonium reptans
+Trichiotinus texanus,Callirhoe involucrata
+Bees,Salvia leucophylla
+Apis,Perovskia atriplicifolia
+Melissodes,Helianthus
+Megachile,Ipomopsis globularis
+Eristalis,Foeniculum vulgare
+Apidae,Physocarpus amurensis
+Euploea core,Impatiens trichocarpa
+Bees,Sagittaria latifolia
+Eschatocrepis,Calochortus
+Bees,Osteomeles anthyllidifolia
+Coleoptera,Wyethia helianthoides
+Wasps,Crataegus crus-galli
+Xylocopa flavorufa,Desmodium setigerum
+Bombyliidae,Thalictrum dasycarpum
+Diptera,Rumex giganteus
+Bees,Sapindus oahuensis
+Bombus terrestris,Erodium cicutarium
+Tachinidae,Myosotis colensoi
+Diptera,Aristolochia macrophylla
+Apis mellifera,Dicerandra frutescens var. immaculata
+Bombus,Liatris aspera
+Bees,Salvia azurea
+Coleoptera,Diphylleia cymosa
+Apis,Nigella sativa
+Triepeolus,Rudbeckia triloba
+Bombus,Wyethia amplexicaulis
+Bees,Magnolia
+Diptera,Asclepias californica
+Agapostemon splendens,Sabal palmetto
+Bees,Sedum
+Lepidoptera,Clarkia unguiculata
+Muscidae,Ailanthus altissima
+Bombus,Hesperis matronalis
+Halictidae,Sabal
+Apis,Styrax grandifolius
+Self pollinated,Asplenium scolopendrium
+Bombus griseocollis,Marrubium vulgare
+Diptera,Amelanchier spicata
+Wasps,Croton texensis
+Musca domestica,Daucus carota
+Apis mellifera,Asclepias incarnata
+Noctuidae,Manfreda virginica
+Bees,Delphinium parryi
+Lepidoptera,Rumex skottsbergii
+Lasioglossum,Arctomecon humilis
+Trochilidae,Malacothamnus fasciculatus
+Coleoptera,Coreopsis tinctoria
+Diptera,Castanea
+Apis,Phemeranthus calycinus
+Lepidoptera,Arnica cordifolia
+Lepidoptera,Crataegus aestivalis
+Bees,Sophora chrysophylla
+Bees,Aconitum columbianum
+Bees,Bidens cosmoides
+Lepidoptera,Allium gooddingii
+Diptera,Bidens cosmoides
+Wasps,Berteroa incana
+Lepidoptera,Echinocactus horizonthalonius
+Wasps,Penstemon degeneri
+Lepidoptera,Psychotria mariniana
+Bees,Thelesperma subnudum
+Lasioglossum,Dudleya
+Apis,Tagetes erecta
+Formicidae,Lobularia maritima
+Drepanis coccinea,Cyanea shipmanii
+Anthophila,Eupatorium cannabinum
+Diptera,Allium gooddingii
+Bombus pensylvanicus,Cirsium pumilum var. hillii
+Wasps,Rudbeckia triloba
+Bees,Aronia melanocarpa
+Bees,Salvia carduacea
+Lepidoptera,Symphoricarpos albus
+Tachinidae,Achillea millefolium
+Bombus,Vicia
+Halictidae,Thalictrum dasycarpum
+Agapostemon,Opuntia polyacantha
+Papilio glaucus,Platanthera blephariglottis
+Bees,Salvia pratensis
+Bees,Vaccinium
+Lepidoptera,Gossypium tomentosum
+Trochilidae,Penstemon canescens
+Lepidoptera,Rhododendron minus var. minus
+Coleoptera,Solidago missouriensis
+Bees,Sambucus
+Lepidoptera,Halesia carolina
+Bombus,Brassica oleracea
+Bees,Linum berlandieri
+Diptera,Ilex collina
+Bees,Scaevola coriacea
+Insecta,Lobelia dortmanna
+Diptera,Dryas octopetala
+Bees,Glandularia canadensis
+Insecta,Valeriana edulis
+Ceratina nanula,Potentilla gracilis
+Papilionidae,Hemerocallis
+Bees,Berberis
+Lepidoptera,Ilex coriacea
+Lepidoptera,Nolina microcarpa
+Lepidoptera,Myrsine sandwicensis
+Self pollinated,Verbena hastata
+Lepidoptera,Rosa nutkana
+Passeriformes,Erythrina fusca
+Diptera,Oxypolis rigidior
+Eucera,Rosa
+Wind,Sambucus nigra ssp. canadensis
+Insecta,Rosa nutkana
+Bees,Polanisia dodecandra
+Birds,Pritchardia
+Coleoptera,Crataegus crus-galli
+Lepidoptera,Thermopsis villosa
+Wind,Castanea ozarkensis
+Trochilidae,Monarda
+Osmia ribifloris,Arctostaphylos pungens
+Lepidoptera,Allium fimbriatum
+Apis mellifera,Malva moschata
+Andrenidae,Malvastrum
+Bees,Symphoricarpos
+Lepidoptera,Rudbeckia
+Apis,Echinacea angustifolia
+Bees,Halesia diptera
+Coereba flaveola,Goetzea elegans
+Syrphidae,Ribes
+Birds,Lobelia niihauensis
+Pseudomasaris vespoides,Penstemon
+Lepidoptera,Artemisia mauiensis
+Diptera,Sapindus oahuensis
+Birds,Abutilon menziesii
+Lepidoptera,Baptisia tinctoria
+Augochlorella,Ferocactus cylindraceus
+Bees,Lathyrus vestitus var. vestitus
+Bees,Clematis virginiana
+Bees,Magnolia obovata
+Coleoptera,Asclepias hirtella
+Wasps,Apocynum cannabinum
+Bombus pensylvanicus,Chloropyron maritimum ssp. maritimus
+Wasps,Scrophularia
+Exomalopsis solani,Kallstroemia grandiflora
+Apidae,Malvastrum
+Anthophora,Arctostaphylos pungens
+Lepidoptera,Cornus rugosa
+Bombus,Medicago
+Lepidoptera,Lantana
+Bombylius facialis,Pogogyne abramsii
+Insecta,Holodiscus discolor var. dumosus
+Bombus,Senecio amplectens var. amplectens
+Oxycopis thoracica,Magnolia virginiana
+Bees,Mimulus cardinalis
+Diptera,Dasiphora fruticosa
+Lepidoptera,Aronia arbutifolia
+Ceratina,Cypripedium parviflorum
+Coleoptera,Balsamorhiza sagittata
+Nomia melanderi,Helianthus
+Insecta,Lobelia kalmii
+Apis,Corydalis flavula
+Birds,Cuphea
+Chrysanthrax cypris,Jacquemontia reclinata
+Bees,Petunia
+Hoplitis,Amorpha
+Cerambycidae,Trillium ovatum
+Bees,Phlox bifida
+Wasps,Penstemon pallidus
+Bombus impatiens,Desmodium paniculatum
+Bees,Artemisia tridentata
+Halictus tripartitus,Lasthenia burkei
+Osmia pumila,Conradina verticillata
+Nomada,Arctostaphylos pungens
+Bombus,Dipsacus fullonum
+Bees,Penstemon
+Osmia,Rubus
+Halictidae,Helianthus
+Syrphidae,Lasthenia burkei
+Bombus,Trillium grandiflorum
+Lepidoptera,Polyscias racemosa
+Self pollinated,Potentilla
+Bees,Argemone glauca
+Diptera,Ceanothus thyrsiflorus
+Bombyliidae,Helianthus hirsutus
+Bombus,Aeschynomene virginica
+Stellula calliope,Delphinium barbeyi
+Self pollinated,Conyza canadensis
+Bombus flavifrons,Oxytropis sericea
+Lepidoptera,Monarda punctata
+Hyles lineata,Cnidoscolus texanus
+Diptera,Arctostaphylos glandulosa
+Colletes,Aster
+Bees,Asarum canadense
+Bees,Eriogonum brandegeei
+Diptera,Rhamnus cathartica
+Bees,Mezonevron kavaiense
+Lepidoptera,Asclepias incarnata
+Lepidoptera,Cornus nuttallii
+Bombus,Kalmia polifolia
+Diptera,Asclepias fascicularis
+Megachile,Desmodium setigerum
+Bees,Salvia columbariae
+Bees,Convallaria majalis
+Lepidoptera,Abronia fragans
+Trochilidae,Delphinium nuttallianum
+Bombus impatiens,Napaea dioica
+Bees,Styrax americanus
+Apis,Rhus sandwicensis
+Megachilidae,Prunus virginiana
+Bombus lapidarius,Teucrium scorodonia
+Bees,Valeriana edulis
+Lepidoptera,Cornus glabrata
+Drepanis coccinea,Clermontia lindseyana
+Wind,Plantago
+Bombus bifarius,Asclepias welshii
+Anthidium sticticum,Antirrhinum
+Colias,Vernonia baldwinii
+Wasps,Pyxidanthera barbulata
+Bombus,Coreopsis
+Xylocopa micans,Sabal etonia
+Trochilidae,Lathyrus vestitus var. ochropetalus
+Sphinx chersis,Mirabilis multiflora
+Bees,Eutrochium maculatum
+Insecta,Lantana camara
+Diptera,Myrsine lessertiana
+Bombus appositus,Delphinium nuttallianum
+Lasioglossum,Lasthenia burkei
+Strymon titus,Asclepias uncialis
+Coleoptera,Crataegus marshallii
+Bees,Lilium columbianum
+Bees,Vigna marina
+Halictidae,Gilia achilleifolia
+Bees,Primula meadia
+Bees,Diospyros virginiana
+Hylaeus nelumbonis,Nuphar
+Syrphidae,Paeonia brownii
+Coleoptera,Sambucus nigra ssp. canadensis
+Apis mellifera,Pityopsis ruthii
+Limenitis archippus,Asclepias incarnata
+Nymphalidae,Kniphofia
+Halictidae,Hypericum
+Apis,Prunus amygdalus
+Osmia ednae,Ipomopsis globularis
+Apis,Apocynum androsaemifolium
+Diptera,Galax urceolata
+Calliphoridae,Napaea dioica
+Megachile bicolor,Sesbania sesban
+Syrphidae,Foeniculum vulgare
+Bombus appositus,Aconitum columbianum
+Bees,Acer
+Lepidoptera,Tradescantia ohiensis
+Diptera,Rudbeckia triloba
+Diptera,Symphyotrichum novae-angliae
+Bees,Trichostema lanatum
+Scarabaeidae,Peniocereus striatus
+Self pollinated,Geranium molle
+Apis mellifera,Trillium texanum
+Wind,Artemisia ludoviciana
+Apis mellifera,Cuphea
+Hesperiidae,Abronia umbellata var. breviflora
+Colletes wilmattae,Dalea
+Bees,Coreopsis tinctoria
+Augochlora pura,Triphora trianthophoros
+Lepidoptera,Achillea
+Lepidoptera,Viola
+Sphingidae,Agave parryi
+Apis mellifera,Blennosperma bakeri
+Halictidae,Eriastrum densifolium
+Vespula vulgaris,Scrophularia nodosa
+Syrphidae,Calystegia sepium
+Diptera,Ilex decidua
+Bees,Solidago
+Megachilidae,Nemophila
+Ichneumonidae,Lobularia maritima
+Bombylius lancifer,Dudleya
+Apis mellifera,Asclepias uncialis
+Diptera,Hexastylis shuttleworthii var. shuttleworthii
+Andrena,Lomatium dissectum
+Wind,Rumex
+Bees,Vaccinium scoparium
+Alypia octomaculata,Physaria filiformis
+Bees,Phlox stolonifera
+Apis,Papaver orientale
+Lepidoptera,Frasera speciosa
+Diptera,Packera plattensis
+Bees,Vernonia gigantea
+Bees,Penstemon palmeri
+Diptera,Mentzelia nuda
+Lepidoptera,Cercis occidentalis
+Lepidoptera,Monardella odoratissima
+Insecta,Escobaria minima
+Lepidoptera,Erigeron
+Halictidae,Minuartia uniflora
+Bees,Broussaisia arguta
+Bees,Trichostema lanceolatum
+Andrena,Salix
+Trochilidae,Salvia splendens
+Diptera,Purshia tridentata
+Diptera,Ptelea trifoliata
+Apis,Oenothera
+Lepidoptera,Gardenia brighamii
+Perdita polygonellae,Polygonella basiramia
+Diptera,Geum rivale
+Macroglossum stellatum,Dianthus gratianopolitanus
+Colias philodice,Asclepias incarnata
+Bees,Erigeron maguirei
+Osmia,Townsendia aprica
+Bees,Sabal minor
+Halictidae,Chloropyron palmatum
+Protosmia rubifloris,Hackelia venusta
+Lepidoptera,Heuchera villosa
+Coleoptera,Calochortus eurycarpus
+Lepidoptera,Rudbeckia triloba
+Brachycera,Clematis ligusticifolia
+Augochloropsis metallica,Solanum violaceum
+Diptera,Euphorbia esula
+Wasps,Limonium gerberi
+Diptera,Crataegus crus-galli
+Muscidae,Eriogonum ovalifolium var. vineum
+Bees,Abronia umbellata
+Trochilidae,Penstemon procerus
+Diadasia megamorpha,Kallstroemia grandiflora
+Diadasia afflicta,Callirhoe scabriuscula
+Bees,Agastache pallidiflora
+Bees,Chamaecrista fasciculata
+Melissodes thelypodii thelypodii,Kallstroemia grandiflora
+Bees,Lupinus perennis
+Andrena,Pyrus malus
+Xenoglossa,Cucurbita
+Lasioglossum,Ludwigia peploides ssp. glabrescens
+Trochilidae,Rhododendron austrinum
+Trochilidae,Penstemon
+Bees,Gossypium tomentosum
+Hetrosarellus,Ludwigia elegans
+Bees,Helianthus maximiliani
+Hymenoptera,Symphyotrichum laeve var. concinnum
+Apis,Dieteria canescens
+Lepidoptera,Lobelia
+Deidamia inscriptum,Abronia macrocarpa
+Peponapis,Cucurbita
+Syrphidae,Rhodiola integrifolia ssp. leedyi
+Bees,Verbena urticifolia
+Satyrium liparops,Platanthera ciliaris
+Andrena,Parnassia glauca
+Hymenoptera,Salvia splendens
+Bees,Lycium pallidum
+Bees,Asclepias sullivantii
+Lepidoptera,Helianthus schweinitzii
+Lepidoptera,Illicium floridanum
+Trochilidae,Lilium michauxii
+Wasps,Erigeron maguirei
+Diadasia,Salvia mellifera
+Diptera,Penstemon degeneri
+Anthidium illustre,Fremontodendron decumbens
+Andrenidae,Rudbeckia triloba
+Halictidae,Lepidium papilliferum
+Anthophora urbana,Trichostema lanceolatum
+Nymphalidae,Gladiolus
+Lepidoptera,Lilium superbum
+Lepidoptera,Eriogonum umbellatum
+Bombus,Cercis occidentalis
+Bees,Limonium gerberi
+Bombus californicus,Chloropyron palmatum
+Diptera,Phacelia tanacetifolia
+Polistes fuscatus,Solidago altissima
+Bombus consobrinus,Aconitum
+Bombus,Mimulus guttatus
+Bombus,Physostegia virginiana
+Lepidoptera,Halesia diptera
+Carpophilus pallipennis,Argemone hispida
+Lepidoptera,Dendromecon rigida
+Thricops,Dryas octopetala
+Trochilidae,Delphinium nudicaule
+Lasioglossum nelumbonis,Nelumbo
+Lepidoptera,Sidalcea neomexicana
+Wasps,Cephalanthus occidentalis
+Lepidoptera,Oxydendrum arboreum
+Bees,Hibiscus arnottianus
+Self pollinated,Platanthera aquilonis
+Lepidoptera,Arctostaphylos pungens
+Diptera,Lactuca serriola
+Bees,Polemonium foliosissimum
+Diptera,Acacia koa
+Trochilidae,Rhododendron maximum
+Halictidae,Sclerocactus
+Lepidoptera,Spiranthes delitescens
+Lepidoptera,Ceanothus crassifolius
+Eulonchus,Hackelia venusta
+Tropicoseious peregrinator,Tillandsia
+Bees,Nesoluma polynesicum
+Diptera,Mentzelia densa
+Wasps,Oxypolis rigidior
+Bombyliidae,Gilia achilleifolia
+Hoplitis,Hydrophyllum canadense
+Apis,Lavandula angustifolia
+Diptera,Wyethia amplexicaulis
+Wasps,Corallorhiza striata
+Wind,Fraxinus
+Bees,Manfreda brachystacha
+Mycetophila,Neottia cordata
+Coleoptera,Adenostoma fasciculatum
+Bees,Agave
+Lepidoptera,Mertensia virginica
+Diptera,Packera aurea
+Papilio rutulus,Lilium pardalinum
+Bombus pensylvanicus,Asclepias sullivantii
+Osmia dolerosa,Astragalus agnicidus
+Bees,Nigella bucharica
+Bombus sonorus,Downingia cuspidata
+Hymenoptera,Townsendia aprica
+Apis,Lythrum salicaria
+Lepidoptera,Kadua affinis
+Bees,Jacquemontia ovalifolia
+Insecta,Mentzelia decapetala
+Agapostemon,Oxytropis lambertii
+Bees,Symphyotrichum undulatum
+Anthophila,Lonicera
+Diptera,Brickellia californica
+Insecta,Tamarix chinensis
+Diptera,Eriogonum brandegeei
+Diptera,Asclepias tuberosa
+Sphex ichneumoneus,Asclepias uncialis
+Bees,Oxydendrum arboreum
+Insecta,Peritoma lutea
+Asilidae,Thelesperma subnudum
+Eurema daira,Cnidoscolus urens
+Wasps,Ludwigia suffruticosa
+Coleoptera,Cornus alternifolia
+Lepidoptera,Phlox stolonifera
+Lepidoptera,Gilia capitata
+Strymon melinus,Platanthera blephariglottis
+Bombus californicus,Downingia cuspidata
+Bees,Gaultheria shallon
+Bees,Heteromeles arbutifolia
+Bombus,Oxalis montana
+Bees,Thysanocarpus laciniatus
+Bees,Iris missouriensis
+Lepidoptera,Hymenoxys hoopesii
+Zosterops japonicus,Cyanea pinnatifida
+Bees,Aconitum uncinatum
+Bees,Crescentia alata
+Lepidoptera,Bartonia texana
+Coleoptera,Cornus nuttallii
+Coleoptera,Spiraea alba
+Coleoptera,Lomatium dissectum
+Tegeticula,Yucca
+Pieris rapae,Platanthera blephariglottis
+Colletes mandibularis,Sabal etonia
+Osmia,Delphinium nuttallianum
+Calliphora vomitoria,Pyxidanthera barbulata
+Lepidoptera,Cordia
+Lepidoptera,Santalum freycinetianum
+Bombus appositus,Hymenoxys grandiflora
+Lepidoptera,Ribes quercetorum
+Bees,Verbena
+Lepidoptera,Penstemon smalli
+Lepidoptera,Symphyotrichum novae-angliae
+Bees,Helianthus microcephalus
+Trochilidae,Rhododendron canadense
+Bees,Stanleya pinnata
+Lepidoptera,Lilium michauxii
+Limenitis weidemeyerii,Lupinus argenteus
+Trochilidae,Physistegia digitalis
+Coleoptera,Iliamna rivulari
+Bees,Acacia koa
+Insecta,Encelia farinosa
+Lepidoptera,Carduus nutans
+Bees,Hypericum prolificum
+Bombus fervidus,Impatiens capensis
+Wasps,Monarda fistulosa
+Insecta,Ajuga reptans
+Bombus,Polygonatum bisorta
+Insecta,Flueggea virosa
+Bees,Penstemon laetus
+Birds,Freycinetia arborea
+Bees,Sedum lanceolatum
+Lepidoptera,Stachys pycnantha
+Lepidoptera,Lasthenia californica
+Bees,Castanea
+Bees,Sabal causiarum
+Staphylinidae,Magnolia tripetala
+Trochilidae,Polemonium brandegeei
+Bombus impatiens,Capsicum frutescens
+Bombus,Aconitum columbianum
+Bombus impatiens,Solanum violaceum
+Wind,Koanophyllon solidaginoides
+Syrphidae,Pogogyne nudiuscula
+Bees,Canavalia kauaiensis
+Lepidoptera,Symphyotrichum
+Bees,Dasiphora fruticosa
+Bombus,Ribes
+Bees,Nasturtium officinale
+Bees,Nolina brittoniana
+Bombus californicus,Chloropyron maritimum ssp. maritimus
+Syrphidae,Ludwigia peploides ssp. glabrescens
+Halictidae,Vaccinium macrocarpon
+Apis,Caryopteris
+Wind,Neohintonia monantha
+Megachile,Sesbania sesban
+Lepidoptera,Asclepias sullivantii
+Lasioglossum,Eucephalus vialis
+Hymenoptera,Helianthus schweinitzii
+Bees,Coprosma pubens
+Wasps,Argemone pleiacantha
+Lepidoptera,Lycium pallidum
+Self pollinated,Melilotus
+Leptonycteris yerbabuenae,Agave
+Thymelicus lineola,Dianthus deltoides
+Bees,Mirabilis nyctaginea
+Bees,Mertensia virginica
+Bees,Aesculus pavia
+Halictidae,Rhynchospora
+Trochilidae,Lonicera involucrata
+Bombus fervidus,Castilleja sessiliflora
+Trochilidae,Heteromeles arbutifolia
+Bombus,Cucurbita pepo
+Birds,Hibiscus brackenridgei
+Trochilidae,Ceanothus
+Bees,Clarkia cylindrica
+Bees,Chelone lyonii
+Apis mellifera,Ludwigia grandiflora
+Bees,Berteroa incana
+Anthidium cingulatum,Antirrhinum
+Bombus ternarius,Arethusa bulbosa
+Camponotus micans,Lobularia maritima
+Self pollinated,Oreoxis alpina
+Diptera,Convallaria majalis
+Self pollinated,Hypericum
+Andrena,Cypripedium parviflorum
+Apis mellifera,Lippia graveolens
+Halictus rubicundus,Ipomopsis globularis
+Apis florea,Sesbania sesban
+Lepidoptera,Liatris
+Bees,Kniphofia
+Melissodes coreopsis,Coreopsis
+Passeriformes,Erythrina poeppigiana
+Ancyloxypha numitor,Asclepias exaltata
+Trochilidae,Aquilegia
+Bombus melanopygus,Hymenoxys grandiflora
+Bees,Eurybia divaricata
+Hymenoptera,Erysimum
+Megachile,Jacquemontia reclinata
+Melissodes,Eriastrum densifolium
+Bees,Ilex vomitoria
+Bees,Portulaca lutea
+Cercyonis pegala,Lythrum salicaria
+Augochlorella aurata,Pyxidanthera barbulata
+Trochilidae,Lilium occidentale
+Trochilidae,Lobelia cardinalis
+Exomalopsis,Acanthomintha ilicifolia
+Protoxaea gloriosa,Kallstroemia grandiflora
+Diptera,Fagopyrum esculentum
+Osmia proxima,Galearis spectabilis
+Bombus,Arctostaphylos uva-ursi
+Diptera,Sambucus racemosa
+Bees,Helianthus annuus
+Bees,Sambucus racemosa
+Anthrenus verbasci,Magnolia tripetala
+Bees,Salix exigua
+Bombus,Pedicularis groenlandica
+Bombus,Physostegia correllii
+Wasps,Epipactis helleborine
+Bombus,Aquilegia
+Bombus,Bidens
+Bees,Baptisia leucophaea
+Diptera,Cornus rugosa
+Lepidoptera,Asclepias syriaca
+Bees,Oxalis violacea
+Anthophora,Calochortus
+Sphingidae,Peniocereus greggii var. transmontanus
+Bees,Trillium grandiflorum
+Trochilidae,Penstemon payettensis
+Bombyliidae,Primula
+Wasps,Paeonia brownii
+Coleoptera,Viburnum acerifolium
+Bees,Solanum
+Self pollinated,Minuartia uniflora
+Bees,Micranthes californica
+Insecta,Vaccinium vitis-idaea
+Mordella octopunctata,Magnolia ashei
+Xylocopa violacea,Antirrhinum
+Lepidoptera,Mezonevron kavaiense
+Insecta,Lupinus argenteus
+Lepidoptera,Astragalus drummondii
+Bees,Teucrium chamaedrys
+Bees,Bidens torta
+Diptera,Sambucus
+Culicidae,Polygala lewtonii
+Self pollinated,Verbascum thapus
+Herpetogramma phaeopteralis,Ageratina aromatica
+Coleoptera,Viburnum prunifolium
+Augochlorella,Ferocactus wislizeni
+Hymenoptera,Penstemon debilis
+Halictidae,Rudbeckia auriculata
+Muscidae,Ranunculus
+Lepidoptera,Tamarix chinensis
+Osmia,Packera paupercula
+Syrphidae,Jepsonia parryi
+Vanessa,Symphyotrichum puniceum var. scabricaule
+Problema bulenta,Pontederia cordata
+Apis,Hesperis matronalis
+Tachinidae,Ailanthus altissima
+Bees,Penstemon virgatus
+Coleoptera,Aquilegia coerulea
+Syrphidae,Abronia umbellata var. breviflora
+Lepidoptera,Symphyotrichum oblongifolium
+Diptera,Leptecophylla tameiameiae
+Scaptotrigona,Cucumis sativus
+Osmia,Brassica
+Chelostoma incisulum,Phacelia
+Danaus plexippus,Asclepias incarnata
+Mesogona olivata,Platanthera dilatata
+Melissodes tristis,Callirhoe involucrata
+Anthomyiidae,Eriogonum ovalifolium var. vineum
+Trochilidae,Arctostaphylos edmundsii
+Bees,Geranium
+Wasps,Crataegus
+Augochlorella aurata,Goodyera pubescens
+Diptera,Polyscias hawaiensis
+Bees,Teucrium canadense
+Trochilidae,Brodiaea venusta
+Apis,Cirsium arvense
+Bees,Primula cusickiana
+Diptera,Symplocarpus foetidus
+Coleoptera,Helianthus
+Lepidoptera,Cladrastis kentukea
+Syrphidae,Crataegus monogyna
+Lepidoptera,Rumex giganteus
+Anthophora,Achillea
+Bees,Gypsophila paniculata
+Apis,Malva
+Bees,Agastache rupestris
+Bees,Rhodiola integrifolia ssp. leedyi
+Prenolepis imparis,Pyxidanthera barbulata
+Bees,Barbarea vulgaris
+Wasps,Acacia
+Melissodes communis,Jacquemontia reclinata
+Trochilidae,Ipomopsis aggregata ssp. formosissima
+Coleoptera,Bidens aristosa
+Parnassius smintheus smintheus,Packera fendleri
+Augochlorella aurata,Cypripedium candidum
+Bees,Clermontia hawaiiensis
+Diptera,Gentianella amarella ssp. acuta
+Lepidoptera,Comandra umbellata
+Lepidoptera,Lycium barbarum
+Lepidoptera,Mentha
+Lepidoptera,Tumamoca macdougalii
+Bombus,Arctostaphylos pringlei
+Insecta,Amelanchier
+Wind,Artemisia tridentata
+Apis,Daucus carota
+Thyris maculata,Callirhoe involucrata
+Lepidoptera,Abronia umbellata
+Self pollinated,Lepidium campestre
+Coleoptera,Linum berlandieri
+Osmia,Physaria filiformis
+Apis dorsata,Sesbania sesban
+Ochlodes,Dianthus carthusianorum
+Bombus vagans,Conradina verticillata
+Lepidoptera,Sidalcea malviflora
+Lepidoptera,Artemisia tridentata
+Archilochus colubris,Spigelia marilandica
+Trochilidae,Diervilla sessilifolia
+Diptera,Frasera speciosa
+Lasioglossum,Callirhoe involucrata
+Hemaris,Lobelia hypoleuca
+Trochilidae,Keckiella antirrhinoides
+Bees,Viburnum acerifolium
+Amazilia cyanocephala,Tillandsia
+Anthophoridae,Brodiaea filifolia
+Wind,Schoenoplectus pungens
+Bees,Robinia neomexicana
+Diptera,Vaccinium calycinum
+Bees,Cornus alternifolia
+Insecta,Draba
+Halictus confusus,Cypripedium candidum
+Bees,Magnolia virginiana
+Lepidoptera,Malva moschata
+Bees,Amorpha fruticosa
+Lepidoptera,Asclepias lanceolata
+Bees,Dalea candida
+Anthophoridae,Vernonia baldwinii
+Bombus pensylvanicus,Marrubium vulgare
+Bombus affinis,Asclepias meadii
+Bees,Trifolium
+Hemaris diffinis,Manfreda virginica
+Diptera,Asimina parviflora
+Ascia monuste,Mitracarpus maxwelliae
+Apis mellifera,Asclepias verticillata
+Diptera,Nolina microcarpa
+Bombus nevadensis,Oxytropis campestris var. chartacea
+Halictidae,Agave X arizonica
+Bombyliidae,Verbena hastata
+Lepidoptera,Hibiscus brackenridgei
+Diptera,Cyrtandra platyphylla
+Lepidoptera,Linum berlandieri
+Wind,Acer
+Exoprosopa fasciata,Dicerandra frutescens
+Halictus tripartitus,Trichostema lanceolatum
+Bees,Viola
+Lasioglossum,Fritillaria gentneri
+Euphydryas anicia hermosa,Asclepias welshii
+Bombus vagans,Hydrophyllum canadense
+Lepidoptera,Myrsine lessertiana
+Hesperiidae,Rudbeckia laciniata
+Bombus pensylvanicus,Napaea dioica
+Catharosia nebulosa,Pyxidanthera barbulata
+Conotelus,Magnolia grandiflora
+Bees,Penstemon payettensis
+Rhingia,Silene flos-cuculi
+Papilio,Asclepias incarnata
+Coleoptera,Asclepias eriocarpa
+Coleoptera,Rosa nutkana
+Insecta,Haplopappus
+Diptera,Lepidium campestre
+Apis,Tradescantia occidentalis
+Bees,Rhododendron macrophyllum
+Bombus kashmirensis,Swertia przewalskii
+Apis mellifera,Pyxidanthera barbulata
+Cicadellidae,Malva moschata
+Diptera,Dudleya virens
+Syrphidae,Parnassia palustris
+Bombus impatiens,Pontederia cordata
+Wind,Eupatorium
+Bees,Eriogonum
+Lepidoptera,Helianthus atrorubens
+Megachile montivaga,Cirsium pumilum var. hillii
+Apis,Elaeagnus angustifolia
+Pseudopanurgus,Rudbeckia triloba
+Lepidoptera,Thelesperma subnudum
+Bees,Geranium pratense
+Bees,Amelanchier
+Bombus,Lythrum salicaria
+Apis,Nemophila menziesii
+Lepidoptera,Ericameria nauseosa
+Self pollinated,Hydrophyllum canadense
+Self pollinated,Lobularia maritima
+Lepidoptera,Liatris spicata
+Trochilidae,Dudleya anthonyi
+Bees,Chelone glabra
+Halictidae,Synthyris bullii
+Trochilidae,Agastache rupestris
+Svastra,Ludwigia peploides ssp. glabrescens
+Coleoptera,Silphium integrifolium
+Bombus,Desmodium
+Bees,Vaccinium ovatum
+Halictus ligatus,Potentilla gracilis
+Bombus morrisoni,Actaea arizonica
+Coleoptera,Sanguinaria canadensis
+Apis mellifera,Arctomecon humilis
+Bombus impatiens,Conradina verticillata
+Andrenidae,Physaria filiformis
+Halictus tripartitus,Limnanthes vinculans
+Bombus,Campanula americana
+Bees,Nyssa sylvatica
+Diptera,Geum peckii
+Bees,Argemone aurantiaca
+Tetralonia,Lonicera japonica
+Hymenoptera,Napaea dioica
+Lepidoptera,Dichelostemma capitatum
+Bees,Itea virginica
+Bees,Solidago caesia
+Coleoptera,Maianthemum racemosum
+Apis,Crataegus
+Bombus balteatus,Primula parryi
+Apis mellifera,Heterotheca subaxillaris
+Diptera,Trillium grandiflorum
+Self pollinated,Hackelia cronquistii
+Diptera,Sassafras albidum
+Staphylinidae,Linnaea borealis
+Self pollinated,Castilleja campestris
+Calliphora,Allium
+Bees,Scaevola taccada
+Megachile,Sabal bermudana
+Trochilidae,Hemerocallis
+Bombus impatiens,Agalinis decemloba
+Melissodes tepida,Chloropyron maritimum ssp. maritimus
+Lycaena arota,Hymenoxys richardsonii
+Diptera,Gaillardia pulchella
+Andrena gardineri,Senecio
+Wasps,Opuntia phaeacantha
+Wasps,Coreopsis
+Diptera,Rhus copallinum
+Syrphidae,Sisyrinchium vaginatum
+Megachile latimanus,Asclepias verticillata
+Lepidoptera,Rubus
+Ashmeadiella,Dudleya
+Bees,Aesculus flava
+Bees,Dicentra eximia
+Gibbobruchus mimus,Magnolia tripetala
+Osmia lignaria,Ribes
+Bees,Viola nuttallii
+Conanthalictus,Acanthomintha ilicifolia
+Self pollinated,Clarkia franciscana
+Bombus californicus,Castilleja hispida
+Halictus tripartitus,Potentilla recta
+Bombus pascuorum,Salvia splendens
+Diptera,Toxicodendron rydbergii
+Osmia brevis,Penstemon
+Wind,Cyclachaena xanthifolia
+Apis,Toxicodendron rydbergii
+Bombus huntii,Sphaeralcea coccinea
+Bees,Antidesma platyphyllum
+Apis mellifera,Salvia mellifera
+Trochilidae,Ribes menziesii
+Bees,Mentzelia multiflora
+Trochilidae,Agastache pallidiflora
+Eristalis,Daucus carota
+Diptera,Erysimum
+Calliphoridae,Parnassia palustris
+Coleoptera,Malva moschata
+Diptera,Cornus nuttallii
+Diptera,Pritchardia
+Manduca quinquemaculata,Mirabilis multiflora
+Hymenoptera,Maianthemum racemosum
+Anthophila,Euryops
+Bombus appositus,Corydalis caseana
+Coleoptera,Geranium
+Archilochus alexandri,Eriastrum densifolium
+Osmia,Brodiaea pallida
+Bees,Oonopsis
+Lepidoptera,Phlox divaricata ssp. divaricata
+Bees,Boltonia caroliniana
+Lepidoptera,Oenothera macrocarpa
+Trochilidae,Delphinium cardinale
+Diptera,Pittosporum hosmeri
+Lepidoptera,Triteleia laxa
+Diptera,Trillium erectum
+Lepidoptera,Nesoluma polynesicum
+Heterostylum croceum,Stylisma pickeringii var. pattersonii
+Lasioglossum nymphaearum,Nymphaea
+Wasps,Acacia etbaica
+Eristalis,Cypripedium parviflorum
+Self pollinated,Nasturtium officinale
+Apis,Asparagus officinalis
+Diptera,Erigeron
+Ceratina calcarata,Cypripedium parviflorum var. pubescens
+Self pollinated,Valerianella radiata
+Lepidoptera,Geranium maculatum
+Lepidoptera,Pityopsis graminifolia var. tenuifolia
+Anthophila,Osteospermum
+Bees,Cornus glabrata
+Bees,Eriodictyon californicum
+Lepidoptera,Mentzelia laevicaulis
+Halictidae,Coreopsis
+Augochlorella,Oxytropis lambertii
+Svastra duplocincta,Ferocactus cylindraceus
+Coleoptera,Magnolia grandiflora
+Megachile mendica,Desmodium paniculatum
+Bombus lucorum,Limonium vulgare
+Bees,Campanula rotundifolia
+Coleoptera,Hexastylis shuttleworthii var. shuttleworthii
+Bees,Purshia tridentata
+Lepidoptera,Chamaedaphne calyculata
+Bees,Styrax grandifolius
+Hylaeus nelumbonis,Nymphaea
+Lepidoptera,Senecio bigelovii var. bigelovii
+Self pollinated,Papaver orientale
+Osmia,Calochortus
+Trigona,Impatiens cuspidata
+Bombus affinis,Napaea dioica
+Osmia sculleni,Astragalus humillimus
+Coleoptera,Barbarea vulgaris
+Byturus unicolor,Magnolia tripetala
+Bombus,Apocynum androsaemifolium
+Wind,Artemisia dracunculus
+Coleoptera,Symphyotrichum oblongifolium
+Diptera,Psychotria greenwelliae
+Lepidoptera,Rhododendron calendulaceum
+Xylocopa tabaniformis,Trichostema lanceolatum
+Trochilidae,Dudleya palmeri
+Bees,Lobelia siphilitica
+Erynnis,Warea amplexifolia
+Sphingidae,Aquilegia coerulea
+Augoderia,Magnolia
+Lepidoptera,Glandularia canadensis
+Lepidoptera,Polemonium reptans
+Apis,Helianthus
+Coleoptera,Achillea millefolium
+Insecta,Opuntia
+Lepidoptera,Symphyotrichum ericoides
+Trochilidae,Iris cristata
+Halictus tripartitus,Blennosperma bakeri
+Bombus diversis,Clematis
+Anthophila,Taraxacum officinale
+Apis,Eutrochium maculatum
+Lepidoptera,Mertensia franciscana
+Trochilidae,Rhododendron catawbiense
+Apis,Acanthomintha ilicifolia
+Linepithema humile,Pyxidanthera barbulata
+Lepidoptera,Ipomopsis aggregata
+Osmia proxima,Galearis rotundifolia
+Xylocopa nigrita,Desmodium setigerum
+Lepidoptera,Liatris elegans
+Lepidoptera,Cornus amomum
+Apis mellifera,Desmodium setigerum
+Diptera,Bidens torta
+Bees,Verbena stricta
+Syrphidae,Shepherdia canadensis
+Apis florea,Impatiens trichocarpa
+Trochilidae,Pritchardia thurstonii
+Wind,Betula nigra
+Coleoptera,Calochortus albus
+Ceratina japonica,Achyranthes bidentata
+Apis mellifera,Asclepias purpurascens
+Apis,Salvia
+Lepidoptera,Frankenia salina
+Lepidoptera,Viburnum nudum
+Lepidoptera,Monolopia lanceolata
+Coleoptera,Prunus angustifolia
+Insecta,Gaillardia pulchella
+Bees,Echeandia pittieri
+Danaus plexippus,Asclepias uncialis
+Diptera,Rhus integrifolia
+Apis,Papaver rhoeas
+Wind,Amaranthus palmeri
+Tachinidae,Eriogonum ovalifolium var. vineum
+Habropoda laboriosa,Vaccinium corymbosum
+Xylocopa californica arizonensis,Asclepias welshii
+Bees,Asclepias lanceolata
+Apis,Origanum vulgare
+Diptera,Coreopsis grandiflora
+Diptera,Rosa carolina
+Diptera,Berberis fremontii
+Bees,Ranunculus californicus
+Bees,Berberis repens
+Bees,Rubus
+Conotelus obscurus,Amsonia grandiflora
+Trochilidae,Lilium canadense
+Wasps,Eurybia macrophylla
+Coleoptera,Symplocarpus foetidus
+Halictus tripartitus,Kallstroemia grandiflora
+Musca domestica,Adolphia infesta
+Diptera,Acacia brevispica
+Megachile rotundata,Medicago
+Apis,Peniocereus greggii var. transmontanus
+Diptera,Scaevola chamissoniana
+Bombus sonorus,Chloropyron maritimum ssp. maritimus
+Lepidoptera,Rhododendron catawbiense
+Geron,Clinopodium ashei
+Diptera,Eremogone congesta var. congesta
+Bees,Silene latifolia
+Xylocopa virginica,Conradina verticillata
+Lepidoptera,Physocarpus opulifolius
+Self pollinated,Teucrium chamaedrys
+Lasioglossum,Lysimachia ciliata
+Bombus,Capsicum frutescens
+Apis,Liatris aspera
+Bombus,Sarracenia oreophila
+Bombus pensylvanicus,Hibiscus dasycalyx
+Bees,Ilex longipes
+Osmia laeta,Astragalus agnicidus
+Lepidoptera,Lonicera involucrata
+Lepidoptera,Cornus florida
+Lasioglossum channelense,Dudleya
+Apis,Ilex collina
+Vespidae,Dudleya
+Sphingidae,Manfreda brachystacha
+Trochilidae,Castilleja exserta
+Bombus,Carduus nutans
+Lasioglossum,Acanthomintha ilicifolia
+Apidae,Lepidium papilliferum
+Bees,Symphoricarpos orbiculatus
+Birds,Cheirodendron trigynum
+Bombus,Zizania palustris
+Ceratina nanula,Potentilla recta
+Hymenoptera,Lithophragma parviflorum
+Coleoptera,Symphyotrichum ericoides
+Macropis nuda,Apocynum androsaemifolium
+Augochloropsis metallica,Solanum carolinense
+Bees,Amsonia tabernaemontana
+Self pollinated,Dodecahema leptoceras
+Coleoptera,Aruncus dioicus var. dioicus
+Heliomaster furcifer,Canna indica
+Bees,Gilia capitata
+Bees,Schwalbea americana
+Sphingidae,Trichostema lanatum
+Andrena distans,Geranium maculatum
+Bees,Rhamnus californica ssp. californica
+Lepidoptera,Arnica mollis
+Wind,Rhynchospora macrostachya
+Melissodes,Lygodesmia juncea
+Hylaeus,Dudleya
+Bees,Chamaebatiaria millefolium
+Ceratogastra ornata,Asclepias verticillata
+Apomixis,Draba
+Coleoptera,Leptosiphon parviflorus
+Insecta,Rhus aromatica
+Chauliognathus,Verbena hastata
+Lepidoptera,Pityopsis graminifolia
+Bees,Hibiscus moscheutos
+Anthophila,Echinacea angustifolia
+Birds,Sophora chrysophylla
+Bombus,Pontederia cordata
+Wasps,Rudbeckia laciniata
+Bombus,Gaylussacia baccata
+Bees,Bartonia texana
+Bees,Silphium laciniatum
+Bees,Symphyotrichum cordifolium
+Lepidoptera,Oenothera pallida
+Bees,Linum lewisii
+Bees,Galax urceolata
+Lepidoptera,Syringa
+Insecta,Lipochaeta lobata
+Megachilidae,Baccharis salicina
+Bombus,Gentiana
+Lepidoptera,Verbena lasiostachys
+Bombus fervidus,Mirabilis macfarlanei
+Bees,Rubus parviflorus
+Hymenoptera,Triphysaria pusilla
+Insecta,Ribes aureum
+Diptera,Nolina brittoniana
+Danaus plexippus,Liatris aspera
+Bees,Physalis hispida
+Lepidoptera,Eutrochium maculatum
+Anthidium edwardsii,Trichostema lanceolatum
+Colias,Echinacea angustifolia
+Bees,Sisyrinchium montanum
+Andrena,Erythronium grandiflorum ssp. grandiflorum
+Lepidoptera,Ribes aureum
+Selasphorus sasin,Dudleya
+Bees,Calochortus splendens
+Coleoptera,Magnolia annonifolia
+Syrphidae,Potentilla
+Insecta,Penstemon rydbergii
+Diptera,Gelsemium rankinii
+Wind,Humulus
+Hymenoptera,Flueggea virosa
+Chalcididae,Lobularia maritima
+Danaus plexippus,Berberis nevinii
+Epargyreus clarus,Asclepias exaltata
+Lepidoptera,Hibiscus clayi
+Apioceridae,Portulaca lutea
+Self pollinated,Synthyris bullii
+Coleoptera,Gaillardia pulchella
+Perdita calochorti,Calochortus
+Syrphidae,Hesperis matronalis
+Bees,Trifolium fucatum
+Bombus occidentalis,Actaea arizonica
+Apis,Spiraea japonica
+Trochilidae,Aliciella
+Halictidae,Linaria vulgaris
+Bees,Sagittaria
+Lepidoptera,Phemeranthus calycinus
+Lepidoptera,Crataegus monogyna
+Bombus,Delphinium recurvatum
+Thricops hirtulus,Geum peckii
+Vespidae,Parnassia palustris
+Birds,Kniphofia
+Ceratina dupla,Triphora trianthophoros
+Lepidoptera,Monardella villosa
+Campsomeris plumipes fossulana,Pyxidanthera barbulata
+Syrphidae,Minuartia glabra
+Megachile submucida,Nigella sativa
+Bombus,Impatiens capensis
+Colias,Phlox glaberrima
+Trochilidae,Castilleja integra
+Syrphidae,Arctostaphylos pringlei
+Coleoptera,Galium
+Trochilidae,Clethra acuminata
+Diptera,Symphyotrichum cordifolium
+Lepidoptera,Rosa woodsii
+Apis mellifera,Ferocactus wislizeni
+Bees,Sericocarpus
+Bees,Acacia etbaica
+Coleoptera,Solidago sempervirens ssp. mexicana
+Bees,Noccaea fendleri ssp. glauca
+Bees,Erigeron speciosus
+Lepidoptera,Lupinus albifrons
+Self pollinated,Argemone mexicana
+Wind,Arceuthobium
+Bees,Galium
+Bombus,Solanum
+Anthophoridae,Purshia X subintegra
+Insecta,Fallugia paradoxa
+Anthidiellum,Desmodium setigerum
+Andrena rudbeckiae,Rudbeckia triloba
+Hylaeus,Sesbania tomentosa
+Trichochrous,Calochortus
+Diptera,Erigeron maguirei
+Colias philodice,Echinacea angustifolia
+Trochilidae,Campsis radicans
+Coleoptera,Magnolia obovata
+Sphingidae,Brunfelsia densifolia
+Lasioglossum,Solanum violaceum
+Bees,Spiraea alba
+Lasioglossum,Arctostaphylos pungens
+Coleoptera,Rudbeckia triloba
+Wasps,Verbena hastata
+Wind,Abies fraseri
+Megachilidae,Rhynchospora
+Hadena,Saponaria officinalis
+Coleoptera,Dasiphora fruticosa
+Bombus,Styrax
+Self pollinated,Solanum lycopersicum
+Bombus,Fragaria chiloensis
+Apis,Fragaria chiloensis
+Bees,Melilotus albus
+Megachile,Helianthus
+Xylocopa senior,Desmodium setigerum
+Hymenoptera,Wilkesia
+Coleoptera,Tagetes erecta
+Lepidoptera,Hylotelephium telephioides
+Bombus flavifrons,Delphinium nuttallianum
+Self pollinated,Hesperis matronalis
+Diptera,Symphyotrichum laeve var. concinnum
+Coleoptera,Stewartia ovata
+Aleochara,Magnolia tripetala
+Rhaphiomidas acton,Eriastrum densifolium
+Bees,Lomatium dissectum
+Bees,Vaccinium calycinum
+Epargyreus clarus,Platanthera blephariglottis
+Bees,Asclepias hirtella
+Lepidoptera,Wikstroemia sandwicensis
+Lepidoptera,Eupatorium resinosum
+Lepidoptera,Psychotria greenwelliae
+Andrena phaceliae,Phacelia
+Lepidoptera,Diplacus aurantiacus
+Diptera,Silene virginica
+Calliopsis,Calochortus
+Bombyliidae,Arnica fulgens
+Lepidoptera,Crataegus douglasii
+Insecta,Camassia quamash
+Bees,Cornus nuttallii
+Apis,Vicia faba
+Bees,Cercis canadensis
+Junonia coenia,Physaria filiformis
+Bees,Limonium otolepis
+Self pollinated,Aplectrum hyemale
+Halictidae,Tetraneuris acaulis
+Lasioglossum,Limnanthes vinculans
+Diptera,Asclepias eriocarpa
+Bees,Helianthus mollis
+Insecta,Viola nuttallii
+Lepidoptera,Coreopsis
+Wasps,Nolina microcarpa
+Bees,Rhexia
+Self pollinated,Myosotis colensoi
+Bees,Gleditsia triacanthos
+Lepidoptera,Mentzelia decapetala
+Anthophila,Malva moschata
+Xylocopa,Coreopsis
+Coleoptera,Calochortus striatus
+Bees,Stylisma pickeringii var. pickeringii
+Megachile campanulae,Campanula americana
+Volucella,Dudleya
+Birds,Erythrina
+Diptera,Prunus virginiana
+Diptera,Helianthus mollis
+Bombus occidentalis,Goodyera oblongifolia
+Lepidoptera,Trichostema lanatum
+Diptera,Pisonia umbellifera
+Apis,Mentha pulegium
+Bees,Clarkia unguiculata
+Bombylius,Astragalus schmolliae
+Ceratina,Salvia mellifera
+Coleoptera,Coreopsis grandiflora
+Lasioglossum,Cypripedium arietinum
+Diptera,Abronia umbellata
+Lasioglossum,Physaria filiformis
+Bees,Salix laevigata
+Coleoptera,Gazania krebsiana
+Bees,Adenostoma fasciculatum
+Erinnyis obscura,Abronia macrocarpa
+Stelis pavonina,Townsendia aprica
+Bees,Scaevola gaudichaudiana
+Apis,Plantago major
+Diptera,Phytolacca sandwicensis
+Diptera,Rosa woodsii
+Megachile concinna,Astragalus
+Lepidoptera,Sambucus racemosa
+Papilionidae,Styrax
+Diptera,Ilex ambigua
+Bombus impatiens,Pityopsis ruthii
+Lepidoptera,Spiraea douglasii
+Bees,Hypericum densiflorum
+Bees,Dasylirion wheeleri
+Diptera,Crataegus marshallii
+Svastra sabinensis sabinensis,Kallstroemia grandiflora
+Self pollinated,Portulaca oleracea
+Trochilidae,Castilleja applegatei
+Diptera,Pittosporum confertiflorum
+Lepidoptera,Erythrina herbacea
+Trochilidae,Dudleya cymosa
+Insecta,Berberis repens
+Wasps,Helianthus hirsutus
+Apis mellifera,Opuntia macrocentra
+Bombylius,Salvia mellifera
+Speyeria zerene hippolyta,Viola adunca
+Diptera,Lobularia maritima
+Diptera,Symphyotrichum ericoides
+Andrena arabis,Turritis glabra
+Bees,Penstemon digitalis
+Self pollinated,Castilleja cryptantha
+Ptilothrix sumichrasti,Kallstroemia grandiflora
+Lepidoptera,Sapindus oahuensis
+Lepidoptera,Vernonia noveboracensis
+Anthophorula nitens,Pogogyne abramsii
+Bees,Scrophularia californica
+Bees,Convolvulus arvensis
+Junonia coenia,Echinacea angustifolia
+Insecta,Lobelia villosa
+Bees,Clematis crispa
+Lepidoptera,Cephalanthus occidentalis
+Ceratina,Tetraneuris acaulis
+Apidae,Agnorhiza reticulata
+Bees,Chaenactis glabriuscula
+Bees,Mentzelia nuda
+Pieridae,Echinacea angustifolia
+Andrenidae,Gaylussacia baccata
+Syrphidae,Berteroa incana
+Bombus vagans,Platanthera blephariglottis
+Bees,Lobelia
+Bees,Eutrochium purpureum
+Apomixis,Bonamia grandiflora
+Bombus,Cuphea
+Diptera,Nasturtium officinale
+Lasioglossum,Oenothera cespitosa
+Bees,Lobelia cardinalis
+Lepidoptera,Oenothera
+Bees,Pedicularis
+Bees,Canavalia galeata
+Bees,Tilia americana
+Bees,Gentianella quinquefolia ssp. quinquefolia
+Trochilidae,Kniphofia
+Lepidoptera,Liatris pauciflora
+Hesperiidae,Ludwigia peploides ssp. glabrescens
+Osmia,Dudleya
+Wasps,Crataegus mollis
+Diptera,Smilax melastomifolia
+Diptera,Convolvulus arvensis
+Xylocopa,Pilosocereus royenii
+Bombus nevadensis,Asclepias incarnata
+Bombus,Corydalis ambigua
+Bees,Anemone americana
+Wind,Platanus occidentalis
+Wind,Corylus cornuta
+Diabrotica,Calochortus
+Lepidoptera,Liatris ohlingerae
+Bombus balteatus,Oxytropis campestris var. chartacea
+Self pollinated,Alisma
+Wasps,Broussaisia arguta
+Bees,Prunus angustifolia
+Apis,Styrax
+Andrena,Napaea dioica
+Bees,Freycinetia arborea
+Lepidoptera,Amsonia ciliata
+Manduca sexta,Petunia axillaris
+Bees,Euphorbia esula
+Gastropoda,Astilbe
+Hymenoptera,Paeonia brownii
+Coleoptera,Gilia capitata
+Xylocopa,Amoreuxia
+Lepidoptera,Trillium grandiflorum
+Languriidae,Argemone pleiacantha
+Andrena aliciae,Rudbeckia auriculata
+Diptera,Nuphar
+Sphecidae,Linnaea borealis
+Syrphidae,Sabal etonia
+Eristalis hirta,Galearis rotundifolia
+Hymenoptera,Coreopsis
+Anthophora,Salvia mellifera
+Apis mellifera,Trifolium
+Bees,Sisyrinchium bellum
+Diptera,Viburnum rufidulum
+Diptera,Sagittaria latifolia
+Bees,Lupinus nanus
+Bombyliidae,Lithophragma parviflorum
+Eristalis,Raphanus sativus
+Trochilidae,Impatiens capensis
+Bombus griseocollis,Hydrophyllum canadense
+Hyles lineata,Peniocereus striatus
+Diptera,Daucus carota
+Andrena angustitarsata,Lasthenia burkei
+Apis mellifera,Sesbania
+Bees,Gardenia brighamii
+Trochilidae,Geranium viscosissimum
+Bees,Frasera speciosa
+Agapostemon texanus,Physaria filiformis
+Syrphidae,Symphoricarpos albus
+Augochloropsis,Heterotheca subaxillaris
+Lepidoptera,Wyethia helianthoides
+Diptera,Cordia
+Thrips,Ageratum conyzoides
+Hylaeus,Physaria filiformis
+Bees,Parthenocissus quinquefolia
+Bees,Scrophularia
+Coleoptera,Viola pedata
+Lepidoptera,Mentzelia oligosperma
+Bees,Trientalis borealis
+Self pollinated,Arnica cordifolia
+Aedes,Platanthera flava
+Anthophoridae,Aliciella pinnatifida
+Andrena,Viola
+Hymenoptera,Verbena hastata
+Prodoxidae,Yucca filamentosa
+Anthophila,Erigeron
+Bombus,Iris missouriensis
+Lepidoptera,Rhododendron arborescens
+Bombyliidae,Dudleya brevifolia
+Apis mellifera,Sclerocactus brevihamatus ssp. tobuschii
+Xylocopa calens,Desmodium setigerum
+Ufa rubedinella,Ageratina aromatica
+Coleoptera,Silphium laciniatum
+Lasioglossum cressonii,Isotria verticillata
+Andrena torulosa,Nemophila menziesii
+Mesostigmata,Tillandsia
+Pieris rapae,Dieteria canescens
+Hemiptera,Achillea millefolium
+Anthophila,Eutrochium purpureum
+Diptera,Callirhoe involucrata
+Apis,Impatiens capensis
+Diptera,Packera
+Augochlora pura,Isotria verticillata
+Lepidoptera,Impatiens cuspidata
+Syrphidae,Hesperidanthus suffrutescens
+Trochilidae,Penstemon barbatus
+Lepidoptera,Smilax melastomifolia
+Bees,Magnolia grandiflora
+Andrena,Oenothera cespitosa
+Andrena sigmundi,Salix
+Halictidae,Nepeta cataria
+Bees,Helianthus angustifolius

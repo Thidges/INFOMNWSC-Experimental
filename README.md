@@ -10,10 +10,12 @@ You have two options: If you already have a makefile runner, use that in the `./
 ### Otherwise
 #### For Windows with our help
 - First go to the [Cygwin install page](https://www.cygwin.com/install.html). And click on "setup-x86_64.exe" to get the installer.
-- Once on the **Select Packages** page, make sure that the "View" dropdown is changed from "Pending" to "Full".
+- Once on the **Select Packages** page, make sure that the "View" dropdown is changed to "Full".
 - Search for "gcc-g++", click on the dropdown in the column "New" and change "Skip" to a newest version (we used "11.4.0-1").
 - *Optional:* if you want to compile your code yourself, do the previous step for the package "make" as well, we used version "4.4.1-2".
   - When you want to compile your own code: open the Cygwin terminal. Go to the project by typing `cd C/[your own path]/INFOMNWSC-Experimental/biLouvain/src` hit enter, and then type `make` and hit enter.
+- *Important:* It's useful to make a shortcut in your Windows menu so you can easily open the Cygwin Terminal.
+
 
 #### For Linux
 Linux doesn't need to install anypackage and already has the needed components installed. However, you do need to compile the code yourself:

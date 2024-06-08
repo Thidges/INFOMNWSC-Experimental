@@ -4,8 +4,8 @@ This file is meant for making a .cmd file that let's the algorithm several times
 import os
 
 commands_file_name = "execute_all_cases.sh"
-all_cutoff_iterations = [0.01, 0.02, 0.03] # @Yanna
-all_cutoff_phases = [0.0, 0.1, 0.2] # @Yanna
+all_cutoff_iterations = [0.0001, 0.001, 0.01, 0.03]
+all_cutoff_phases = [0.0, 0.001]
 input_file_name = "test.txt"
 
 def float_to_string(number: float):
