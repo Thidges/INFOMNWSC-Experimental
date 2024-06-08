@@ -30,8 +30,12 @@ Everything else is quite the same as the installation steps for windows, but use
 - Open your package manager terminal (if not using Linux).  
 - In Terminal: `cd C/[your own path]/INFOMNWSC-Experimental`
 
-#### TODO, voor nu om te testen:
-- `./biLouvain/src/biLouvain -i input/test.txt -d "," -ci 0.01 -cp 0.0 -o  output/ResultsCt0p01Cp0p0`
+#### Running a single case:
+- Type: `./biLouvain/src/biLouvain -i input/pollinator_edges.txt -d "," -ci 0.01 -cp 0.00001 -o  output/ResultsSingleRun` => The values after '-ci' and '-cp' can be changed. "pollinator_edges.txt" can be changed to "test.txt" if you want to see if the algorithm can just run.
 
-#### Note
+#### Running all our test cases:
+- Type: `./execute_all_cases.sh`
+
+
+## Note
 Everytime you want to rerun the algorithm, you have to delete the generated input (not the original) and output files. They won't be updated otherwise.
