@@ -6,15 +6,29 @@ import matplotlib.pyplot as plt
 
 output_files = os.listdir("output")
 
+def string_to_float(string: str) -> float:
+    """Used to translate the header string floats back to normal floats."""
+    return float(string.replace('p', '.'))
+
+def readout_modularity_file(file_name: str) -> list:
+    name_parts = file_name.split('\uf00d')[0].split('Ct')[1].split('Cp')
+    iteration_cutoff_value = string_to_float(name_parts[0])
+    phase_cutoff_value = string_to_float(name_parts[1])
+
+    modularity_file = open(f"output/{file_name}", encoding="utf-8-sig").read().splitlines()
+    modularity_value = float(modularity_file[-1].split(' ')[-1])
+    return [iteration_cutoff_value, phase_cutoff_value, modularity_value]
+
+# Reading the modularities
+output_data = []
 for file_name in output_files:
     if file_name[-21:] == "ResultsModularity.txt":
-        "ResultsCt0p0001Cp0p001_ResultsModularity.txt"
+        output_data.append(readout_modularity_file(file_name))
+
 
 # TODO: modularity uitlezen
 
 header = ["Iteration cutoff", "Phase cutoff", "Murata+ Modularity", "Willen we hier nog meer?"]
-output_data = [[0.01, 0.0, 0.4555, "iets ofzo"], [0.01, 0.001, 0.3955, "iets ofzo"], [0.025, 0.0, 0.5842, "iets ofzo"],
-               [0.025, 0.001, 0.4842, "iets ofzo"]] # Iedere index in output_data heeft de informatie van de header, nu met mock data
 
 
 #%% Graphs %%#
@@ -34,7 +48,7 @@ def make_line_plot(phase_cutoff: float) -> None:
     plt.xlabel("Iteration cutoff")
     plt.ylabel("Murata+ modularity")
     plt.title("Murata+ modularity per iteration cutoff, with phase cutoff of " + str(phase_cutoff))
-    plt.show()
+    plt.show(dpi=360)
 
 
 # Graph 1: phase cutoff = 0.0
