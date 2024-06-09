@@ -26,16 +26,10 @@ for file_name in output_files:
     if file_name[-21:] == "ResultsModularity.txt":
         output_data.append(readout_modularity_file(file_name))
 
-
-# TODO: modularity uitlezen
-
-header = ["Iteration cutoff", "Phase cutoff", "Murata+ Modularity", "Willen we hier nog meer?"]
+header = ["Iteration cutoff", "Phase cutoff", "Murata+ Modularity"]
 
 
 #%% Graphs %%#
-print(list(enumerate(header))) # zodat je makkelijk kan zien welke index je nodig hebt
-
-
 # Given a phase_cutoff, make a line graph with the iteration cutoff on the x-axis, and Murata+ on the y-axis.
 def make_line_plot(phase_cutoff: float) -> None:
     # Filter to keep only the data with given phase cutoff.
@@ -61,6 +55,13 @@ make_line_plot(0.0)
 make_line_plot(0.001)
 
 #%% LaTeX Table %%#
+def swap_adjacent_elements(lst):
+    """Needed for swapping lines in the table."""
+    for i in range(0, len(lst) - 1, 2):
+        lst[i], lst[i+1] = lst[i+1], lst[i]
+    return lst
+
+
 table_name = "output/table_LaTeX.txt"
 if os.path.exists(table_name):
     os.remove(table_name)
@@ -71,12 +72,13 @@ table.write("\\hline\n")
 # header
 table.write("Iteration cutoff & Phase cutoff & Murata+ modularity \\\\\n")
 table.write("\\hline\n")
+
 #body
 # foreach scenario
-for line in output_data:
+for line in swap_adjacent_elements(output_data):
     table.write(f"{line[0]} & {line[1]} & {line[2]}  \\\\\n")
     #table.write("\\hline\n")
 
 table.write("\\hline\n")
-table.write("\\end{tabular}\n")
+table.write("\\end{tabular}")
 table.close()
