@@ -1,5 +1,5 @@
 """
-This file is meant to make the original network graph, into one that we can use for biLouvain.
+This file is used to make the original network graph, into one that we can use for biLouvain.
 """
 import os
 
@@ -32,7 +32,7 @@ def remove_optional_quotes(word: str) -> str:
 # Header information:
 # [(0, 'pollinator_name'), (1, 'pollinator_scientific'), (2, 'plant_name'), (3, 'plant_scientific'), (4, 'association_type'),
 # (5, 'reference_link'), (6, 'reference'), (7, 'source_type'), (8, 'reference_text'), (9, 'pollinator_group')]
-# The assiciation types:
+# The association types:
 # ['"Floral Visitor"', '"Suspected Pollinator Floral"', '"Confirmed Pollinator"', '"Pollen Robber"', '', '"Nectar Robber"']
 edge_set = set()
 pollinator_set = set()

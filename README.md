@@ -37,6 +37,12 @@ Everything else is quite the same as the installation steps for windows, but use
 *Note:* This takes about 23 minutes!
 - Type: `./execute_all_cases.sh`
 
-
 ## Note
 Everytime you want to rerun the algorithm, you have to delete the generated input (not the original) and output files. They won't be updated otherwise.
+
+# Python scripts
+You won't have to run the python scripts, but still a short explanation in chronological order:
+- `input_prep.py` Used to make the original network graph from the .csv file from 'Center for Plant Conservation', into one that we can use for the biLouvain algorithm.
+- `algorithm_prep.py` Used for making a .sh (bash) file that can optionally run the algorithm several times (all the testcases).
+- `analyze_output.py` Used for reading the modularity from the output and generating the graph and table that is being used in the paper.
+- `analyze_communities.py` WIP: Used for identifying the communities from one of the output files and generating the statistical analysis values.

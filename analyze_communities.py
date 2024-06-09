@@ -1,5 +1,5 @@
 """
-This file is for analyzing the communities from one of the testcases.
+Used for identifying the communities from one of the output files and generating the statistical analysis values.
 """
 import ast
 import os

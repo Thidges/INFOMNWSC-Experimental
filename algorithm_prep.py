@@ -1,5 +1,5 @@
 """
-This file is meant for making a .sh (bash) file that runs the algorithm several times.
+This file is used for making a .sh (bash) file that runs the algorithm several times (all the testcases).
 """
 import os
 
