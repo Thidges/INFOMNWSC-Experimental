@@ -41,9 +41,7 @@ def make_line_plot(phase_cutoff: float) -> None:
     filtered_data = list(filter(lambda item: (item[1] == phase_cutoff), output_data))
     # @Thijs: wat gaat hier mis? Hij neemt bij de list comprehension alleen de eerste x_data, en y_data blijft leeg.
     x_data = [item[0] for item in filtered_data]
-    print(x_data)
     y_data = [item[2] for item in filtered_data]
-    print(y_data)
     plt.plot(x_data, y_data)
     plt.xlabel("Iteration cutoff")
     plt.ylabel("Murata+ modularity")
@@ -58,4 +56,22 @@ make_line_plot(0.0)
 make_line_plot(0.001)
 
 #%% LaTeX Table %%#
+table_name = "output/table_LaTeX.txt"
+if os.path.exists(table_name):
+    os.remove(table_name)
 
+table = open(table_name, "a")
+table.write("\\begin{tabular}{|c|c|c|}\n")
+table.write("\\hline\n")
+# header
+table.write("Iteration cutoff & Phase cutoff & Murata+ modularity \\\\\n")
+table.write("\\hline\n")
+#body
+# foreach scenario
+for line in output_data:
+    table.write(f"{line[0]} & {line[1]} & {line[2]}  \\\\\n")
+    #table.write("\\hline\n")
+
+table.write("\\hline\n")
+table.write("\\end{tabular}\n")
+table.close()
