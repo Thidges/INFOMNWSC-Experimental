@@ -39,12 +39,12 @@ print(list(enumerate(header))) # zodat je makkelijk kan zien welke index je nodi
 def make_line_plot(phase_cutoff: float) -> None:
     # Filter to keep only the data with given phase cutoff.
     filtered_data = list(filter(lambda item: (item[1] == phase_cutoff), output_data))
-    # @Thijs: wat gaat hier mis? Hij neemt bij de list comprehension alleen de eerste x_data, en y_data blijft leeg.
     x_data = [item[0] for item in filtered_data]
     y_data = [item[2] for item in filtered_data]
     plt.plot(x_data, y_data)
     plt.xlabel("Iteration cutoff")
     plt.ylabel("Murata+ modularity")
+    # @Yanna, kan je weer zorgen voor dezelfde yticks?
     plt.title("Murata+ modularity per iteration cutoff, with phase cutoff of " + str(phase_cutoff))
     plt.show(dpi=360)
 
@@ -61,7 +61,7 @@ if os.path.exists(table_name):
     os.remove(table_name)
 
 table = open(table_name, "a")
-table.write("\\begin{tabular}{|c|c|c|}\n")
+table.write("\\begin{tabular}{ c c c }\n")
 table.write("\\hline\n")
 # header
 table.write("Iteration cutoff & Phase cutoff & Murata+ modularity \\\\\n")
