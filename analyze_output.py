@@ -24,7 +24,7 @@ print(list(enumerate(header))) # zodat je makkelijk kan zien welke index je nodi
 # Given a phase_cutoff, make a line graph with the iteration cutoff on the x-axis, and Murata+ on the y-axis.
 def make_line_plot(phase_cutoff: float) -> None:
     # Filter to keep only the data with given phase cutoff.
-    filtered_data = filter(lambda item: (item[1] == phase_cutoff), output_data)
+    filtered_data = list(filter(lambda item: (item[1] == phase_cutoff), output_data))
     # @Thijs: wat gaat hier mis? Hij neemt bij de list comprehension alleen de eerste x_data, en y_data blijft leeg.
     x_data = [item[0] for item in filtered_data]
     print(x_data)

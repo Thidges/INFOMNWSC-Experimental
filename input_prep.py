@@ -13,14 +13,14 @@ data = open("input/CPC_PollinatorDatabase_Result_2024-05-28.csv", encoding="utf-
 
 
 #%% Helper functions %%#
-def contains(list: list, item: any):
+def contains(list: list, item: any) -> bool:
     """If the 'list' contains at least one element equal to 'item', return True."""
     for li in list:
         if li == item:
             return True
     return False
 
-def remove_optional_quotes(word: str):
+def remove_optional_quotes(word: str) -> str:
     """If the element 'word' begins with a quote(\"), delete that one and the last character (which should also be a quote) """
     if word[0] == '"':
         return word[1:-1]
