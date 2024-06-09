@@ -1,0 +1,23 @@
+::: Total Time: 0 H :: 3 Min :: 12 Sec :: 940 Milli :: 41 Micromicroseconds: 1.9294e+08
+
+::: Load Graph Total Time: 0 H :: 0 Min :: 0 Sec :: 17 Milli :: 443 Micromicroseconds: 17443
+
+::: Fuse Total Time: 0 H :: 0 Min :: 0 Sec :: 37 Milli :: 913 Micromicroseconds: 37913
+
+::: biLouvain Algorithm Total Time: 0 H :: 3 Min :: 12 Sec :: 884 Milli :: 685 Micromicroseconds: 1.92885e+08
+
+::: Initial Times :::
+Initial Community Time: 0 H :: 0 Min :: 0 Sec :: 2 Milli :: 136 Micro
+Initial Community Neighbors Time: 0 H :: 0 Min :: 0 Sec :: 6 Milli :: 844 Micro
+Initial CoCluster Time: 0 H :: 0 Min :: 0 Sec :: 2 Milli :: 263 Micro
+
+::: biLouvain Times :::
+biLouvain Targets Time: 0 H :: 0 Min :: 0 Sec :: 41 Milli :: 453 Micro
+biLouvain Modularity Gain Time: 0 H :: 3 Min :: 12 Sec :: 403 Milli :: 70 Micro
+biLouvain Update Time: 0 H :: 0 Min :: 0 Sec :: 19 Milli :: 263 Micro
+
+::: biLouvain Gain PreCalculation Times :::
+biLouvain Gain Time PC Ci: 0 H :: 0 Min :: 0 Sec :: 18 Milli :: 694 Micro
+biLouvain Gain Time PC Cj: 0 H :: 0 Min :: 0 Sec :: 577 Milli :: 466 Micro
+biLouvain Gain Time PC D: 0 H :: 1 Min :: 44 Sec :: 461 Milli :: 678 Micro
+Pre Murata Time: 0 H :: 1 Min :: 22 Sec :: 940 Milli :: 487 Micro

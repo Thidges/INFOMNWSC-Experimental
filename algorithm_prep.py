@@ -1,12 +1,12 @@
 """
-This file is meant for making a .cmd file that runs the algorithm several times.
+This file is meant for making a .sh (bash) file that runs the algorithm several times.
 """
 import os
 
 #%% Some constants  %%#
 commands_file_name = "execute_all_cases.sh"
 input_file_name = "pollinator_edges.txt"
-all_cutoff_iterations = [0.001, 0.01, 0.025, 0.05, 0.075, 0.1]
+all_cutoff_iterations = [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1]
 all_cutoff_phases = [0.0, 0.001]
 
 #%% The functions needed for making the bash file %%#
