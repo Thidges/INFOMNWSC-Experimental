@@ -1,23 +1,23 @@
-::: Total Time: 0 H :: 1 Min :: 59 Sec :: 241 Milli :: 937 Micromicroseconds: 1.19242e+08
+::: Total Time: 0 H :: 0 Min :: 47 Sec :: 271 Milli :: 288 Micromicroseconds: 4.72713e+07
 
-::: Load Graph Total Time: 0 H :: 0 Min :: 0 Sec :: 25 Milli :: 573 Micromicroseconds: 25573
+::: Load Graph Total Time: 0 H :: 0 Min :: 0 Sec :: 18 Milli :: 148 Micromicroseconds: 18148
 
-::: Fuse Total Time: 0 H :: 0 Min :: 0 Sec :: 39 Milli :: 814 Micromicroseconds: 39814
+::: Fuse Total Time: 0 H :: 0 Min :: 0 Sec :: 39 Milli :: 895 Micromicroseconds: 39895
 
-::: biLouvain Algorithm Total Time: 0 H :: 1 Min :: 59 Sec :: 176 Milli :: 550 Micromicroseconds: 1.19177e+08
+::: biLouvain Algorithm Total Time: 0 H :: 0 Min :: 47 Sec :: 213 Milli :: 245 Micromicroseconds: 4.72132e+07
 
 ::: Initial Times :::
-Initial Community Time: 0 H :: 0 Min :: 0 Sec :: 6 Milli :: 125 Micro
-Initial Community Neighbors Time: 0 H :: 0 Min :: 0 Sec :: 32 Milli :: 642 Micro
-Initial CoCluster Time: 0 H :: 0 Min :: 0 Sec :: 9 Milli :: 398 Micro
+Initial Community Time: 0 H :: 0 Min :: 0 Sec :: 2 Milli :: 170 Micro
+Initial Community Neighbors Time: 0 H :: 0 Min :: 0 Sec :: 10 Milli :: 893 Micro
+Initial CoCluster Time: 0 H :: 0 Min :: 0 Sec :: 3 Milli :: 940 Micro
 
 ::: biLouvain Times :::
-biLouvain Targets Time: 0 H :: 0 Min :: 0 Sec :: 41 Milli :: 558 Micro
-biLouvain Modularity Gain Time: 0 H :: 1 Min :: 58 Sec :: 146 Milli :: 511 Micro
-biLouvain Update Time: 0 H :: 0 Min :: 0 Sec :: 32 Milli :: 798 Micro
+biLouvain Targets Time: 0 H :: 0 Min :: 0 Sec :: 16 Milli :: 635 Micro
+biLouvain Modularity Gain Time: 0 H :: 0 Min :: 46 Sec :: 839 Milli :: 799 Micro
+biLouvain Update Time: 0 H :: 0 Min :: 0 Sec :: 14 Milli :: 608 Micro
 
 ::: biLouvain Gain PreCalculation Times :::
-biLouvain Gain Time PC Ci: 0 H :: 0 Min :: 0 Sec :: 1 Milli :: 303 Micro
-biLouvain Gain Time PC Cj: 0 H :: 0 Min :: 0 Sec :: 506 Milli :: 379 Micro
-biLouvain Gain Time PC D: 0 H :: 1 Min :: 27 Sec :: 254 Milli :: 678 Micro
-Pre Murata Time: 0 H :: 0 Min :: 24 Sec :: 942 Milli :: 962 Micro
+biLouvain Gain Time PC Ci: 0 H :: 0 Min :: 0 Sec :: 2 Milli :: 146 Micro
+biLouvain Gain Time PC Cj: 0 H :: 0 Min :: 0 Sec :: 203 Milli :: 596 Micro
+biLouvain Gain Time PC D: 0 H :: 0 Min :: 30 Sec :: 440 Milli :: 633 Micro
+Pre Murata Time: 0 H :: 0 Min :: 14 Sec :: 406 Milli :: 611 Micro

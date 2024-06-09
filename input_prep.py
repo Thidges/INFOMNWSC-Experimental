@@ -38,6 +38,7 @@ pollinator_set = set()
 plant_set = set()
 invalid = 0
 refused = 0
+not_a_plant = 0
 for line in data[1:]:
     line_parts = line.split(',')
     # if the line is invalid
@@ -47,6 +48,10 @@ for line in data[1:]:
     # if the insect is of the right type for the plant
     if not contains(['"Confirmed Pollinator"', '"Pollen Robber"', '"Nectar Robber"'], line_parts[4]):
         refused += 1
+        continue
+    # if the plant does not exist out of (at least) 2 words
+    if not contains(line_parts[3], " "):
+        not_a_plant += 1
         continue
 
     # format the names
@@ -69,4 +74,5 @@ print("Amount of pollinators:", len(pollinator_set))
 print("Amount of plants:", len(plant_set))
 print("Invalid lines:", invalid)
 print("Refused Visitor:", refused)
+print("Invalid sci plant name:", not_a_plant)
 

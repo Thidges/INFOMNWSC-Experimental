@@ -1,19 +1,23 @@
 --- Phase: 1
-Initial Total Modularity: 0.452990727452285
-Iteration: 1 - Maximum Modularity Gain: 0.0689520741953367
-Iteration: 2 - Maximum Modularity Gain: 0.0669727019033327
-Iteration: 3 - Maximum Modularity Gain: 0.00511612068484279
+Initial Total Modularity: 0.455230715776787
+Iteration: 1 - Maximum Modularity Gain: 0.116480337545831
+Iteration: 2 - Maximum Modularity Gain: 0.0238814796111214
+Iteration: 3 - Maximum Modularity Gain: 0.00385833277517723
 --- Phase: 2
-Initial Total Modularity: 0.594025552901733
-Iteration: 1 - Maximum Modularity Gain: 0.00171154654109618
+Initial Total Modularity: 0.599442052548696
+Iteration: 1 - Maximum Modularity Gain: 0.00258252427952544
 --- Phase: 3
-Initial Total Modularity: 0.595738819683414
-Iteration: 1 - Maximum Modularity Gain: 0.00166601396059342
+Initial Total Modularity: 0.602023081140894
+Iteration: 1 - Maximum Modularity Gain: 0.00205070655101829
 --- Phase: 4
-Initial Total Modularity: 0.597404719936285
-Iteration: 1 - Maximum Modularity Gain: 0.00116842685936746
+Initial Total Modularity: 0.604074617571565
+Iteration: 1 - Maximum Modularity Gain: 0.010055525323563
+Iteration: 2 - Maximum Modularity Gain: 0.00184287933150195
 --- Phase: 5
-Initial Total Modularity: 0.59857313687114
+Initial Total Modularity: 0.615975074859563
+Iteration: 1 - Maximum Modularity Gain: 0.000261079551661362
+--- Phase: 6
+Initial Total Modularity: 0.616236154411225
 Iteration: 1 - Maximum Modularity Gain: 0
 
---- Final Murata+ Modularity: 0.59857313687114
+--- Final Murata+ Modularity: 0.616236154411225

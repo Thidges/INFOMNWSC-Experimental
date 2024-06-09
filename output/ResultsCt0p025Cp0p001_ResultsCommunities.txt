@@ -1,418 +1,384 @@
-Community 0[V1]: Wind,Animalia
-Community 1[V1]: Colletes scopiventer,Euphoria kernii,Megachile amica,Melissodes tepaneca,Melissodes intorta,Anthidium palmarum,Perdita texana texana,Nemotelus,Crambidae,Lasioglossum pruinosum,Diadasia afflicta,Trichiotinus texanus,Thyris maculata
-Community 2[V1]: Bombus,Osmia cornifrons,Osmia lignaria,Osmia rufa,Scathophagidae,Osmia cornuta,Andrena nivalis
-Community 3[V1]: Bembix rugosa,Aphoebantus marcidus,Leptoconops californiensis
-Community 4[V1]: Melyridae
-Community 5[V1]: Trochilidae,Papilionidae
-Community 6[V1]: Sphingidae,Xylocopa virginica,Noctuidae,Ctenucha,Hemaris diffinis
-Community 7[V1]: Chiastochaeta
-Community 8[V1]: Bombus flavifrons,Selasphorus rufus,Bombus appositus,Euphydryas,Stellula calliope,Bombus bifarius,Bombus occidentalis,Selasphorus platycercus,Habropoda,Bombus melanopygus
-Community 9[V1]: Bombus lucorum
-Community 10[V1]: Amazilia yucatanensis,Campylopterus pampa,Tropicoseius ornatus,Tropicoseious peregrinator,Amazilia cyanocephala,Mesostigmata
-Community 11[V1]: Hymenoptera,Andrena fragilis,Hetrosarellus,Erynnis
-Community 12[V1]: Bombus vagans,Bombus ashtoni,Bombus borealis,Bombus nevadensis,Bombus fernaldae
-Community 13[V1]: Psaenythia,Melissodes montana,Agapostemon tyleri,Diadasia ochracea,Diadasia diminuta,Exomalopsis solani,Diadasia megamorpha,Melissodes thelypodii thelypodii,Protoxaea gloriosa,Svastra sabinensis sabinensis,Ptilothrix sumichrasti
-Community 14[V1]: Perdita boltoniae,Melissodes boltoniae
-Community 15[V1]: Sarcophaga
-Community 16[V1]: Osmia
-Community 17[V1]: Dufourea novaeangliae,Problema bulenta
-Community 18[V1]: Self pollinated,Thrips,Hylaeus,Augochlora,Eristalis tenax,Plenoculus davisii,Andrena arabis
-Community 19[V1]: Chrysotus costalis,Hylemya aestiva
-Community 20[V1]: Anthophora,Megacyllene robiniae,Polistes fuscatus
-Community 21[V1]: Xylocopa appendiculata circumvolans,Andrena carlini,Andrena erythronii
-Community 22[V1]: Xylocopa suspecta
-Community 23[V1]: Vespula schrenckii,Lasioglossum occidens,Ceratina japonica
-Community 24[V1]: Apis,Pieris rapae,Pieris,Colias philodice,Vanessa atalanta,Chelostoma,Cercyonis pegala,Bombus kashmirensis,Junonia coenia
-Community 25[V1]: Megachile frontalis,Megachile cincta,Megachile semierma,Amegilla fallax,Xylocopa flavorufa,Xylocopa nigrita,Anthidiellum,Xylocopa senior,Xylocopa calens
-Community 26[V1]: Xenoglossa strenua,Peponapis pruinosa
-Community 27[V1]: Conophorus cristatus,Andrena pensilis,Bombus rufocinctus,Halictus tripartitus,Andrena angustitarsata,Andrena submoesta,Andrena pulverea,Andrena blennospermatis
-Community 28[V1]: Phyllobaenus subfasciatus,Hoplitis,Andrena quintilis
-Community 29[V1]: Vespula germanica,Vespula vulgaris
-Community 30[V1]: Hesperiidae,Svastra
-Community 31[V1]: Bombyliidae,Greya politella
-Community 32[V1]: Lasioglossum olympiae,Halictus ligatus,Lasioglossum sisymbrii,Trichodes ornatus,Ceratina nanula
-Community 33[V1]: Insecta,Coleoptera,Bees,Diptera,Lepidoptera,Birds,Wasps,Andrena geranii,Hesperia viridis,Diadasia Rinconis,Hemiptera,Apioceridae,Orthoptera,Leptotes cassius theonus,Vanessa,Nymphalidae,Cetoniinae,Lithurgus gibbosus,Trichiotinus piger,Gastropoda,Vanessa virginiensis,Andrena polemonii,Limenitis weidemeyerii,Hemaris,Conotelus,Andrena gardineri,Augoderia,Andrena distans,Speyeria zerene hippolyta
-Community 34[V1]: Eristalis rupium,Eupeodes lapponicus,Eriozona laxus,Osmia proxima
-Community 35[V1]: Phaenicia,Gonia,Habropoda laboriosa,Calliphora vomitoria,Prenolepis imparis,Catharosia nebulosa,Linepithema humile,Campsomeris plumipes fossulana
-Community 36[V1]: Panurginus atriceps
-Community 37[V1]: Samea,Ategumia ebulealis,Pleuroprucha insulsaria,Herpetogramma phaeopteralis,Ufa rubedinella
-Community 38[V1]: Halictus
-Community 39[V1]: Apis mellifera,Bombus pensylvanicus,Colletes simulans armatus,Lygaeus kalmii,Sphex ichneumoneus,Lasioglossum comulum,Lasius niger,Bombus bimaculatus,Sphecidae,Osmia atriventris,Osmia pumila,Strymon titus,Ancyloxypha numitor,Epargyreus clarus
-Community 40[V1]: Bombus vosnesenskii,Bombus mixtus,Ochlodes sylvanoides,Epicauta puncticollis
-Community 41[V1]: Hadena,Rhingia,Autographa gamma,Perizoma
-Community 42[V1]: Melissodes tristis,Lasioglossum pruinosiforme,Diadasia rinconis,Agapostemon,Lithurgus littoralis,Augochlorella,Ashmeadiella opuntiae,Ashmeadiella,Svastra duplocincta,Sesiidae
-Community 43[V1]: Melitoma taurea
-Community 44[V1]: Nitidulidae,Staphylinidae,Cerambycidae
-Community 45[V1]: Agapostemon texanus,Augochloropsis,Hoplitis simplex,Callophrys gryneus,Alypia octomaculata
-Community 46[V1]: Augochlora pura,Augochlorella aurata,Agapostemon splendens
-Community 47[V1]: Eumenidae,Perdita polygonellae
-Community 48[V1]: Melipona interrupta
-Community 49[V1]: Copidosoma bakeri
-Community 50[V1]: Andrena salictaria,Andrena mariae,Andrena sigmundi
-Community 51[V1]: Epuraea horni,Acmaeodera pulchella,Diabrotica undecimpunctata,Mordella octopunctata
-Community 52[V1]: Bombus lapidarius
-Community 53[V1]: Eupeodes,Ceratina,Eristalis
-Community 54[V1]: Sphex pennsylvanicus,Prionyx atratus,Colletes compactus,Myzinum,Bembix nubilipennis,Megachile latimanus,Tachytes aurulentus,Limenitis archippus,Ceratogastra ornata
-Community 55[V1]: Andrena crudeni,Andrena macrocephala,Andrena torulosa
-Community 56[V1]: Agrius,Macroglossum stellatarum
-Community 57[V1]: Tetralonia,Anthidium illustre
-Community 58[V1]: Papilio glaucus glaucus,Erynnis telemachus
-Community 59[V1]: Megachile pascoensis,Megachile gravita
-Community 60[V1]: Lasioglossum anomalum,Andrena barbilabris,Andrena ziziae,Halictus confusus,Lasioglossum cinctipes,Lasioglossum pilosum
-Community 61[V1]: Melanargia galathea,Satyrus ferula,Thymelicus
-Community 62[V1]: Anthophila
-Community 63[V1]: Bombus terrestris
-Community 64[V1]: Bombus fervidus,Vespula maculifrons
-Community 65[V1]: Lasioglossum cressonii,Ceratina dupla,Lasioglossum quebecense
-Community 66[V1]: Osmia calaminthae,Copestylum florida,Toxophora,Systoechus solitus
-Community 67[V1]: Chelostoma philadelphi
-Community 68[V1]: Bombylius fraudulentus,Heterostylum croceum
-Community 69[V1]: Hyles lineata,Manduca quincemaculata,Scarabaeidae
-Community 70[V1]: Vespidae,Augochloropsis anonyma,Ceratina cockerelli,Lasioglossum tegulare,Palpada vinetorum,Litolinga,Chrysanthrax cypris,Melissodes communis
-Community 71[V1]: Rediviva neliana,Macropis fulvipes
-Community 72[V1]: Andrena ceanothi,Andrena nasonii,Andrena miranda,Nomada sayi
-Community 73[V1]: Halictidae,Dufourea,Melissodes,Megachile,Apis cerana cerana,Anthophoridae,Pseudopanurgus rugosus,Andrenidae,Andrena helianthi,Colletidae,Lasioglossum ornduffi,Andrena aliciae,Cupido comyntas comyntas,Coelioxys,Lithurgus,Andrena accepta,Triepeolus,Pseudopanurgus,Andrena rudbeckiae,Megachile campanulae
-Community 74[V1]: Bombus crotchii,Anthidium palliventre,Melissodes tepida timberlakei,Melissodes tepida
-Community 75[V1]: Chiroptera
-Community 76[V1]: Zosterops japonicus,Chlorodrepanis virens virens
-Community 77[V1]: Passeriformes
-Community 78[V1]: Syrphidae,Empididae,Chironomidae,Neuroptera
-Community 79[V1]: Bombus huntii,Diadasia,Bombus morrisoni
-Community 80[V1]: Ptilothrix bombiformis
-Community 81[V1]: Bombus pascuorum
-Community 82[V1]: Calliphoridae,Chloropidae,Muscidae,Anthomyiidae,Chelostoma florisomne,Thricops,Chauliognathus marginatus,Tachinidae
-Community 83[V1]: Caupolicana electa,Exoprosopa fasciata
-Community 84[V1]: Scotoleon minusculus
-Community 85[V1]: Anthrax irroratus,Macrotera lobata
-Community 86[V1]: Megachile xylocopoides,Hesperia,Colletes mandibularis,Megachile albitarsis,Heriades,Xylocopa micans
-Community 87[V1]: Apidae,Urbanus proteus,Coereba flaveola
-Community 88[V1]: Palpada
-Community 89[V1]: Asilidae,Tipulidae
-Community 90[V1]: Macropis steironematis,Macropis nuda,Hoplitis adunca
-Community 91[V1]: Hermeuptychia sosybius,Glutophrissa drusilla
-Community 92[V1]: Bombus hortorum,Bombus consobrinus
-Community 93[V1]: Lasioglossum hyalinum,Perdita mohavensis,Perdita meconis,Eucera quadricincta
-Community 94[V1]: Megachilidae,Buprestidae,Bibio
-Community 95[V1]: Nomia nortoni,Megachile petulans,Megachile mendica,Calliopsis andreniformis,Megachile brevis,Melissodes bimaculata
-Community 96[V1]: Eristalis hirta,Stratiomys barbata,Andrena astragali,Stratiomys nevadae
-Community 97[V1]: Theretra
-Community 98[V1]: Liriomyza,Polistes,Phytomyza atricornis,Melanagromyza,Megachile submucida
-Community 99[V1]: Carpophilus lugubris,Carpophilus,Epuraea,Glyptobaris rugicollis,Coleomegilla maculata,Anthrenus verbasci,Gibbobruchus mimus,Byturus unicolor,Aleochara
-Community 100[V1]: Xylocopa californica arizonensis,Euxoa aurulenta,Cantharidae,Euphydryas anicia hermosa,Languriidae
-Community 101[V1]: Emmenotarsus,Brachysomida,Perdita,Eutrichopleurus,Judolia,Perdita calochorti,Bessa,Trachusa,Dufourea calochorti,Acmaeodera,Hippodamia,Listrus,Villa,Trichodes,Eschatocrepis,Trichochrous,Calliopsis,Diabrotica
-Community 102[V1]: Bombus griseocollis,Bombus affinis
-Community 103[V1]: Paratrytone snowi
-Community 104[V1]: Papilio multicaudata,Papilio
-Community 105[V1]: Bombus terricola,Bombus ternarius
-Community 106[V1]: Bombylius major,Andrena erigeniae
-Community 107[V1]: Colletes susannae,Colletes albescens
-Community 108[V1]: Colletes latitarsis
-Community 109[V1]: Bombus ephippiatus
-Community 110[V1]: Thick-headed flies,Chauliognathus
-Community 111[V1]: Archilochus colubris
-Community 112[V1]: Squamata
-Community 113[V1]: Andrena nigrocaerulea,Protosmia rubifloris,Eulonchus
-Community 114[V1]: Chelostoma californicum,Andrena lamelliterga,Chelostoma incisulum,Andrena phaceliae
-Community 115[V1]: Bembix,Megachile concinna
-Community 116[V1]: Euphydryas editha
-Community 117[V1]: Phyciodes pulchella pulchella,Toxomerus geminatus
-Community 118[V1]: Bombus perplexus
-Community 119[V1]: Epeolus,Peritaxia hispida,Andrena argemonis,Carpophilus pallipennis
-Community 120[V1]: Anthophora plumipes
-Community 121[V1]: Microgaster,Ichneumonidae,Sciara,Mycetophila
-Community 122[V1]: Megachile diligens,Megachile rotundata,Megachile rubripes,Nomia melanderi,Megachile perihirta,Megachile dentitarsus
-Community 123[V1]: Drepanis coccinea
-Community 124[V1]: Bombus californicus
-Community 125[V1]: Bradysia,Cecidomyiidae
-Community 126[V1]: Apis cerana,Apis dorsata,Macroglossum,Nomia,Pachlioptera aristolochiae,Macroglossum variegatum,Papilio demoleus,Chrysomya megacephala,Apis florea,Euploea core,Megachile bicolor,Trigona
-Community 127[V1]: Formica neorufibarbis
-Community 128[V1]: Osmia brevis
-Community 129[V1]: Calypte anna,Rhaphiomidas trochilus,Archilochus alexandri,Rhaphiomidas acton
-Community 130[V1]: Bombus sitkensis,Osmia tristella,Osmia dolerosa,Osmia laeta
-Community 131[V1]: Formica fusca
-Community 132[V1]: Calliphora,Lucilia
-Community 133[V1]: Ochlodes,Thymelicus lineola,Cicadellidae
-Community 134[V1]: Bombus honshuensis
-Community 135[V1]: Ceratina acantha,Bombylius lancifer,Bombus caliginosus,Anthophora californica,Bembix americana,Augochlorella pomoniella,Lasioglossum channelense,Selasphorus sasin
-Community 136[V1]: Cetonia
-Community 137[V1]: Bombylius,Melecta
-Community 138[V1]: Eucalliphora,Musca domestica
-Community 139[V1]: Chauliognathus pennsylvanicus,Culicidae,Brachycera
-Community 140[V1]: Ancyloscelis,Exomalopsis,Cleridae,Conanthalictus
-Community 141[V1]: Osmia distincta,Pseudomasaris vespoides
-Community 142[V1]: Eucera fulvitarsis,Dioxys pomonae,Stelis pavonina
-Community 143[V1]: Ceratina calcarata,Lasioglossum rohweri
-Community 144[V1]: Megachile lanata,Xylocopa sonorina
-Community 145[V1]: Anthidium,Colletes petalostemonis
-Community 146[V1]: Tenthredinidae,Lycaena,Formicidae,Camponotus micans,Chalcididae
-Community 147[V1]: Thricops spiniger,Thricops septentrionalis,Thricops hirtulus
-Community 148[V1]: Thricops villicrura,Bombus frigidus
-Community 149[V1]: Hypsoropha monilis,Dolba hyloeus,Deidamia inscriptum,Erinnyis obscura
-Community 150[V1]: Lasioglossum,Bombus impatiens,Augochloropsis metallica,Lasioglossum coeruleum
-Community 151[V1]: Hemiargus hanno
-Community 152[V1]: Anthophora dispar,Anthidium manicatum,Anthidium sticticum,Anthidium cingulatum,Xylocopa violacea
-Community 153[V1]: Osmia ribifloris,Andrena carolina
-Community 154[V1]: Himatione sanguinea
-Community 155[V1]: Papilio eurymedon,Papilio glaucus,Papilio rutulus
-Community 156[V1]: Sephanoides sephanoides
-Community 157[V1]: Leptonycteris yerbabuenae,Manduca,Leptonycteris curasoae
-Community 158[V1]: Megachile pugnatus,Bombus variabilis,Megachile montivaga
-Community 159[V1]: Anthophora edwardsii
-Community 160[V1]: Prodoxidae
-Community 161[V1]: Coccinellidae
-Community 162[V1]: Diapriidae
-Community 163[V1]: Erebia epipsodea
-Community 164[V1]: Eucera,Volucella,Nomada
-Community 165[V1]: Osmia titusi,Osmia sculleni
-Community 166[V1]: Syrphus torvus,Megachile melanophaea,Megachile centuncularis,Anthophora abrupta
-Community 167[V1]: Hylaeus nelumbonis,Lasioglossum nelumbonis,Lasioglossum nymphaearum,Donacia
-Community 168[V1]: Poanes hobomok,Plebejus melissa samuelis
-Community 169[V1]: Vanessa cardui,Danaus plexippus,Papilio polyxenes,Papilio troilus,Heliconius,Satyrium liparops
-Community 170[V1]: Euphyes vestris,Polites peckius,Polites mystic,Darapsa versicolor,Strymon melinus,Hemaris thysbe
-Community 171[V1]: Bombus sonorus,Anthidium edwardsii,Anthophora urbana,Xylocopa tabaniformis
-Community 172[V1]: Andrena,Sphinx
-Community 173[V1]: Pegoplata juvenilis
-Community 174[V1]: Pieridae,Geron
-Community 175[V1]: Colias
-Community 176[V1]: Plebejus melissa
-Community 177[V1]: Anthomyia
-Community 178[V1]: Lasioglossum oenotherae,Chrysomelidae
-Community 179[V1]: Hapropoda
-Community 180[V1]: Arthromacra aenea,Oxycopis thoracica
-Community 181[V1]: Colletes,Andrena asteris
-Community 182[V1]: Anoura geoffroyi
-Community 183[V1]: Anthophorula nitens,Anthophorula torticornis,Bombylius facialis
-Community 184[V1]: Bombus sylvicola,Bombus balteatus
-Community 185[V1]: Thysanoptera
-Community 186[V1]: Nannotrigona testaceicornis,Scaptotrigona
-Community 187[V1]: Colletes aestivalis
-Community 188[V1]: Jurinia
-Community 189[V1]: Manduca quinquemaculata,Sphinx chersis
-Community 190[V1]: Osmia ednae,Halictus rubicundus
-Community 191[V1]: Colletes robertsonii,Colletes wilmattae
-Community 192[V1]: Macroglossum stellatum
-Community 193[V1]: Xenoglossa,Peponapis
-Community 194[V1]: Eurema daira
-Community 195[V1]: Tegeticula
-Community 196[V1]: Xylocopa,Tetragonula carbonaria,Melissodes coreopsis
-Community 197[V1]: Mesogona olivata
-Community 198[V1]: Parnassius smintheus smintheus
-Community 199[V1]: Ascia monuste
-Community 200[V1]: Lycaena arota
-Community 201[V1]: Bombus diversis
-Community 202[V1]: Conotelus obscurus
-Community 203[V1]: Heliomaster furcifer
-Community 204[V1]: Apomixis
-Community 205[V1]: Manduca sexta
-Community 206[V1]: Aedes
-Community 207[V2]: Callirhoe involucrata,Callirhoe scabriuscula,Lygodesmia
-Community 208[V2]: Pholisma sonorae
-Community 209[V2]: Dudleya multicaulis
-Community 210[V2]: Calochortus,Calochortus macrocarpus var. maculosus
-Community 211[V2]: Ipomoea hederifolia,Sambucus racemosa,Philadelphus pubescens,Lilium superbum,Lonicera hispidula,Monarda,Brodiaea ida-maia,Lycium andersonii,Styrax,Ipomoea sagittata,Malva assurgentiflora,Penstemon smalli,Castilleja miniata,Silene laciniata,Liatris,Ribes quercetorum,Heuchera villosa,Rhododendron calendulaceum,Bignonia capreolata,Stachys,Actaea racemosa,Illicium floridanum,Delphinium recurvatum,Salvia carduacea,Monardella macrantha,Castilleja rhexiifolia,Diervilla sessilifolia,Clethra alnifolia,Lilium,Penstemon eatonii,Penstemon procerus,Castilleja affinis,Liatris spicata,Liatris spicata var. spicata,Penstemon canescens,Coreopsis pubescens,Lonicera sempervirens,Castilleja foliolosa,Tellima grandiflora,Actaea podocarpa,Dicentra eximia,Malacothamnus fasciculatus,Mimulus eastwoodiae,Aesculus pavia,Lobelia,Monarda didyma,Ceanothus,Pedicularis densiflora,Iris cristata,Rhododendron austrinum,Epilobium canum,Lonicera involucrata,Rhododendron minus var. minus,Buddleja,Aquilegia formosa,Asclepias tuberosa,Erythrina pallida,Oenothera suffrutescens,Delphinium cardinale,Lathyrus vestitus var. ochropetalus,Penstemon centranthifolius,Rhododendron canadense,Ribes menziesii,Scrophularia californica,Arctostaphylos edmundsii,Mertensia virginica,Dicentra chrysantha,Castilleja lanata,Astragalus coccineus,Diplacus aurantiacus,Campsis radicans,Castilleja kaibabensis,Stachys chamissonis,Ipomoea coccinea,Aquilegia canadensis,Tropaeolum majus,Pedicularis procera,Cordia,Hibiscus moscheutos ssp. moscheutos,Scrophularia macrantha,Aliciella subnuda,Kalmia latifolia,Aquilegia elegantula,Aesculus flava,Peritoma arborea var. arborea,Arbutus menziesii,Rhododendron arborescens,Penstemon whippleanus,Arctostaphylos,Rhododendron maximum,Salvia leucophylla,Ribes speciosum,Penstemon virgatus,Dudleya pulverulenta,Delphinium nudicaule,Rhododendron atlanticum,Mimulus dentatus,Penstemon payettensis,Chelone lyonii,Ipomoea quamoclit,Nasturtium,Castilleja angustifolia var. dubia,Castilleja exserta,Castilleja linariifolia,Bouvardia ternifolia,Lycium pallidum,Hemerocallis,Lilium michauxii,Heteromeles arbutifolia,Physistegia digitalis,Polemonium brandegeei,Aquilegia,Lilium occidentale,Brodiaea venusta,Ipomopsis aggregata ssp. formosissima,Keckiella antirrhinoides,Dudleya anthonyi,Dudleya palmeri,Rhododendron catawbiense,Pritchardia thurstonii,Lilium canadense,Aliciella,Castilleja integra,Dudleya cymosa,Penstemon barbatus
-Community 212[V2]: Trollius
-Community 213[V2]: Lonicera japonica,Hemerocallis citrina
-Community 214[V2]: Tillandsia
-Community 215[V2]: Cuscuta epithymum,Polygonum cascadense,Symphyotrichum laeve var. concinnum,Salvia farinacea,Cirsium vulgare,Lavandula latifolia,Comandra umbellata,Linum lewisii,Gayophytum,Cornus sericea ssp. sericea,Rudbeckia,Dudleya greenei,Ephedra aphylla,Coreopsis grandiflora,Maianthemum racemosum,Ranunculus acriformis var. aestivalis,Trifolium repens,Baccharis,Lindera melissifolia,Psoralea esculenta,Alyssum maritimum,Warea amplexifolia,Lupinus oreganus,Anacardium occidentale,Ephedra campylopoda,Euonymus americanus,Lonicera alpigena,Ludwigia elegans,Lactuca serriola,Allium gooddingii,Flueggea virosa,Triphysaria pusilla,Wilkesia
-Community 216[V2]: Aconitum,Iris pseudacoris
-Community 217[V2]: Cypripedium parviflorum,Narthecium asiaticum,Tetraneuris acaulis
-Community 218[V2]: Pontederia cordata
-Community 219[V2]: Limonium vulgare,Phacelia campanularia
-Community 220[V2]: Geum radiatum
-Community 221[V2]: Hydrophyllum canadense,Cypripedium acaule,Cypripedium,Silene spaldingii
-Community 222[V2]: Dalea
-Community 223[V2]: Sphaeralcea coccinea,Actaea arizonica
-Community 224[V2]: Erythronium albidum,Erythronium propullans,Erythronium japonicum
-Community 225[V2]: Echinodorus longipetalus
+Community 0[V1]: Diptera,Bees,Coleoptera,Insecta,Lepidoptera,Hesperia viridis,Wasps,Trichiotinus piger,Andrena polemonii,Birds,Hemiptera,Chironomidae,Cetoniinae,Conotelus,Diadasia Rinconis,Apioceridae,Vanessa,Hemaris,Sarcophaga,Gastropoda,Limenitis weidemeyerii,Leptotes cassius theonus,Andrena distans,Speyeria zerene hippolyta,Lithurgus gibbosus,Orthoptera
+Community 1[V1]: Bombus fervidus,Vespula maculifrons
+Community 2[V1]: Calliphora vomitoria,Phaenicia,Gonia,Prenolepis imparis,Linepithema humile,Campsomeris plumipes fossulana,Catharosia nebulosa
+Community 3[V1]: Trochilidae
+Community 4[V1]: Thymelicus lineola,Ochlodes,Cicadellidae
+Community 5[V1]: Lasioglossum,Augochloropsis,Lasioglossum coeruleum
+Community 6[V1]: Apis florea,Apis dorsata,Papilio demoleus,Nomia,Apis cerana,Euploea core,Megachile bicolor,Chrysomya megacephala,Pachlioptera aristolochiae
+Community 7[V1]: Andrena angustitarsata,Andrena pulverea,Andrena blennospermatis,Andrena pensilis,Conophorus cristatus,Andrena submoesta
+Community 8[V1]: Rhaphiomidas acton,Rhaphiomidas trochilus,Calypte anna,Archilochus alexandri
+Community 9[V1]: Euphyes vestris,Darapsa versicolor,Polites peckius,Polites mystic,Strymon melinus,Hemaris thysbe
+Community 10[V1]: Liriomyza,Megachile submucida,Phytomyza atricornis,Polistes,Melanagromyza
+Community 11[V1]: Coereba flaveola,Apidae,Urbanus proteus
+Community 12[V1]: Bombus crotchii,Melissodes tepida,Anthidium palliventre,Melissodes tepida timberlakei
+Community 13[V1]: Bombyliidae,Greya politella
+Community 14[V1]: Apis mellifera,Lasioglossum comulum
+Community 15[V1]: Bombus terricola,Bombus ternarius
+Community 16[V1]: Wind
+Community 17[V1]: Sphingidae,Noctuidae,Xylocopa virginica,Hemaris diffinis,Ctenucha
+Community 18[V1]: Bombus flavifrons,Selasphorus rufus,Bombus appositus,Bombus occidentalis,Selasphorus platycercus,Stellula calliope,Habropoda,Euphydryas,Bombus melanopygus
+Community 19[V1]: Leptonycteris yerbabuenae
+Community 20[V1]: Mesogona olivata
+Community 21[V1]: Lasioglossum cressonii,Ceratina dupla,Lasioglossum quebecense
+Community 22[V1]: Megachile,Hoplitis
+Community 23[V1]: Andrena macrocephala,Andrena torulosa,Andrena crudeni
+Community 24[V1]: Eristalis,Eupeodes
+Community 25[V1]: Glyptobaris rugicollis,Coleomegilla maculata,Carpophilus lugubris,Epuraea,Byturus unicolor,Anthrenus verbasci,Aleochara,Gibbobruchus mimus,Carpophilus
+Community 26[V1]: Ceratina japonica,Vespula schrenckii,Lasioglossum occidens
+Community 27[V1]: Svastra sabinensis sabinensis,Melissodes montana,Protoxaea gloriosa,Psaenythia,Exomalopsis solani,Diadasia ochracea,Melissodes thelypodii thelypodii,Diadasia diminuta,Diadasia megamorpha,Ptilothrix sumichrasti,Agapostemon tyleri
+Community 28[V1]: Eristalis hirta,Andrena astragali,Stratiomys nevadae,Stratiomys barbata
+Community 29[V1]: Bombus terrestris
+Community 30[V1]: Anthomyia
+Community 31[V1]: Scaptotrigona,Nannotrigona testaceicornis
+Community 32[V1]: Culicidae,Chauliognathus pennsylvanicus,Brachycera
+Community 33[V1]: Anthophila
+Community 34[V1]: Exomalopsis,Cleridae,Conanthalictus,Ancyloscelis
+Community 35[V1]: Bombus lapidarius
+Community 36[V1]: Hyles lineata,Manduca quincemaculata,Scarabaeidae
+Community 37[V1]: Bombus,Osmia lignaria,Osmia cornifrons,Colias,Bombylius,Anthophoridae,Osmia cornuta,Osmia rufa
+Community 38[V1]: Ichneumonidae,Microgaster,Mycetophila,Sciara
+Community 39[V1]: Chiroptera
+Community 40[V1]: Osmia
+Community 41[V1]: Hesperiidae,Svastra
+Community 42[V1]: Anthidium illustre,Tetralonia
+Community 43[V1]: Eulonchus,Andrena nigrocaerulea,Protosmia rubifloris
+Community 44[V1]: Bombus californicus
+Community 45[V1]: Bombus pensylvanicus,Nomia nortoni,Megachile petulans,Megachile brevis,Megachile mendica,Colletes simulans armatus,Calliopsis andreniformis,Lygaeus kalmii,Melissodes bimaculata,Osmia atriventris,Osmia pumila,Strymon titus,Bombus bimaculatus
+Community 46[V1]: Bombus balteatus,Bombus sylvicola
+Community 47[V1]: Lithurgus littoralis,Ashmeadiella opuntiae,Melissodes tristis,Lasioglossum pruinosiforme
+Community 48[V1]: Sphex ichneumoneus,Tachytes aurulentus,Megachile latimanus,Myzinum,Colletes compactus,Ceratogastra ornata,Bembix nubilipennis,Prionyx atratus,Sphex pennsylvanicus,Limenitis archippus
+Community 49[V1]: Bombus nevadensis
+Community 50[V1]: Anthophora plumipes,Osmia ribifloris,Habropoda laboriosa
+Community 51[V1]: Caupolicana electa,Exoprosopa fasciata
+Community 52[V1]: Megachile frontalis,Xylocopa flavorufa,Megachile cincta,Xylocopa nigrita,Megachile semierma,Anthidiellum,Amegilla fallax,Xylocopa calens,Xylocopa senior
+Community 53[V1]: Calliphora,Alypia octomaculata,Callophrys gryneus,Agapostemon texanus,Hoplitis simplex
+Community 54[V1]: Hapropoda
+Community 55[V1]: Nitidulidae,Staphylinidae,Cerambycidae
+Community 56[V1]: Megachile concinna,Bembix
+Community 57[V1]: Hypsoropha monilis,Deidamia inscriptum,Dolba hyloeus,Erinnyis obscura
+Community 58[V1]: Bombus bifarius,Xylocopa californica arizonensis,Euxoa aurulenta,Euphydryas anicia hermosa
+Community 59[V1]: Megachile melanophaea,Anthophora abrupta,Megachile centuncularis,Syrphus torvus
+Community 60[V1]: Colletes
+Community 61[V1]: Scotoleon minusculus
+Community 62[V1]: Melissodes boltoniae,Perdita boltoniae
+Community 63[V1]: Perdita calochorti,Dufourea calochorti
+Community 64[V1]: Lasioglossum sisymbrii,Halictus tripartitus,Halictus ligatus,Bombus rufocinctus,Ceratina nanula,Trichodes ornatus,Lasioglossum olympiae
+Community 65[V1]: Pieridae,Geron
+Community 66[V1]: Diadasia,Bombus huntii,Bombus morrisoni
+Community 67[V1]: Andrena quintilis,Phyllobaenus subfasciatus
+Community 68[V1]: Bombus vagans,Bombus mixtus,Bombus vosnesenskii,Osmia laeta,Osmia tristella,Osmia dolerosa,Bombus sitkensis
+Community 69[V1]: Musca domestica,Eucalliphora
+Community 70[V1]: Lasioglossum tegulare,Litolinga,Augochloropsis anonyma,Ceratina cockerelli,Melissodes communis,Palpada vinetorum,Chrysanthrax cypris
+Community 71[V1]: Anthophorula nitens,Bombylius facialis,Anthophorula torticornis
+Community 72[V1]: Epargyreus clarus,Ancyloxypha numitor,Lasius niger
+Community 73[V1]: Ceratina,Melecta
+Community 74[V1]: Halictus
+Community 75[V1]: Chauliognathus,Thick-headed flies
+Community 76[V1]: Melissodes tepaneca,Thyris maculata,Lasioglossum pruinosum,Diadasia afflicta,Colletes scopiventer,Megachile amica,Melissodes intorta,Euphoria kernii,Crambidae,Anthidium palmarum,Perdita texana texana,Nemotelus,Trichiotinus texanus
+Community 77[V1]: Bombus impatiens,Augochloropsis metallica
+Community 78[V1]: Dioxys pomonae,Stelis pavonina,Eucera fulvitarsis
+Community 79[V1]: Aedes
+Community 80[V1]: Andrena ceanothi,Andrena miranda,Andrena nasonii,Nomada sayi
+Community 81[V1]: Vespula vulgaris,Vespula germanica
+Community 82[V1]: Camponotus micans,Chalcididae,Tenthredinidae,Formicidae,Lycaena
+Community 83[V1]: Eriozona laxus,Osmia proxima,Eristalis rupium,Eupeodes lapponicus
+Community 84[V1]: Anthophora edwardsii
+Community 85[V1]: Megachile albitarsis,Megachile xylocopoides,Heriades,Xylocopa micans,Colletes mandibularis,Hesperia
+Community 86[V1]: Bombus sonorus,Xylocopa tabaniformis,Anthidium edwardsii,Anthophora urbana
+Community 87[V1]: Bombus affinis,Bombus griseocollis
+Community 88[V1]: Colletes petalostemonis,Anthidium
+Community 89[V1]: Epicauta puncticollis,Ochlodes sylvanoides
+Community 90[V1]: Lasioglossum rohweri,Ceratina calcarata
+Community 91[V1]: Bombus ephippiatus
+Community 92[V1]: Andrena rudbeckiae,Triepeolus,Coelioxys,Pseudopanurgus
+Community 93[V1]: Bombus pascuorum
+Community 94[V1]: Xylocopa appendiculata circumvolans,Andrena carlini,Andrena erythronii
+Community 95[V1]: Thricops spiniger,Thricops septentrionalis,Thricops hirtulus
+Community 96[V1]: Papilio,Papilio multicaudata
+Community 97[V1]: Eurema daira
+Community 98[V1]: Macrotera lobata,Anthrax irroratus
+Community 99[V1]: Problema bulenta,Dufourea novaeangliae
+Community 100[V1]: Apis,Vanessa atalanta,Pieris rapae,Colias philodice,Bombus kashmirensis,Junonia coenia,Cercyonis pegala,Pieris
+Community 101[V1]: Manduca quinquemaculata,Sphinx chersis
+Community 102[V1]: Euphydryas editha
+Community 103[V1]: Herpetogramma phaeopteralis,Ufa rubedinella,Ategumia ebulealis,Pleuroprucha insulsaria,Samea
+Community 104[V1]: Vanessa cardui,Danaus plexippus,Papilio troilus,Papilio polyxenes,Satyrium liparops
+Community 105[V1]: Parnassius smintheus smintheus
+Community 106[V1]: Perdita polygonellae,Eumenidae
+Community 107[V1]: Anoura geoffroyi
+Community 108[V1]: Papilio rutulus,Papilio glaucus,Papilio eurymedon
+Community 109[V1]: Pegoplata juvenilis
+Community 110[V1]: Heterostylum croceum,Bombylius fraudulentus
+Community 111[V1]: Hermeuptychia sosybius,Glutophrissa drusilla
+Community 112[V1]: Formica fusca
+Community 113[V1]: Bombus frigidus,Thricops villicrura
+Community 114[V1]: Ascia monuste
+Community 115[V1]: Macroglossum variegatum,Macroglossum,Trigona
+Community 116[V1]: Anthophora,Megacyllene robiniae,Polistes fuscatus
+Community 117[V1]: Syrphidae,Lasioglossum ornduffi,Apis cerana cerana,Empididae
+Community 118[V1]: Nymphalidae,Thrips
+Community 119[V1]: Andrena,Sphinx
+Community 120[V1]: Diapriidae
+Community 121[V1]: Copidosoma bakeri
+Community 122[V1]: Peritaxia hispida,Andrena argemonis,Carpophilus pallipennis,Epeolus
+Community 123[V1]: Megachile pugnatus,Megachile montivaga,Bombus variabilis
+Community 124[V1]: Perdita mohavensis,Perdita meconis,Lasioglossum hyalinum,Eucera quadricincta
+Community 125[V1]: Osmia brevis
+Community 126[V1]: Megachile gravita,Megachile pascoensis
+Community 127[V1]: Volucella,Eucera,Nomada
+Community 128[V1]: Erebia epipsodea
+Community 129[V1]: Rhingia,Hadena,Perizoma,Autographa gamma
+Community 130[V1]: Melipona interrupta
+Community 131[V1]: Zosterops japonicus,Chlorodrepanis virens virens
+Community 132[V1]: Phyciodes pulchella pulchella,Toxomerus geminatus
+Community 133[V1]: Bombus lucorum
+Community 134[V1]: Archilochus colubris
+Community 135[V1]: Papilio glaucus glaucus,Erynnis telemachus
+Community 136[V1]: Megachilidae,Buprestidae
+Community 137[V1]: Xylocopa,Tetragonula carbonaria
+Community 138[V1]: Acmaeodera pulchella,Diabrotica undecimpunctata,Epuraea horni,Mordella octopunctata
+Community 139[V1]: Osmia calaminthae,Systoechus solitus,Copestylum florida,Toxophora
+Community 140[V1]: Bombus hortorum
+Community 141[V1]: Xylocopa suspecta
+Community 142[V1]: Poanes hobomok,Plebejus melissa samuelis
+Community 143[V1]: Macroglossum stellatum
+Community 144[V1]: Bradysia,Cecidomyiidae
+Community 145[V1]: Ptilothrix bombiformis
+Community 146[V1]: Manduca sexta
+Community 147[V1]: Hymenoptera,Andrena fragilis,Hetrosarellus,Cantharidae,Erynnis,Languriidae
+Community 148[V1]: Satyrus ferula,Thymelicus,Melanargia galathea
+Community 149[V1]: Melyridae
+Community 150[V1]: Apomixis
+Community 151[V1]: Bombus borealis,Bombus fernaldae,Bombus ashtoni
+Community 152[V1]: Conotelus obscurus
+Community 153[V1]: Hylaeus,Augochlora,Eristalis tenax
+Community 154[V1]: Drepanis coccinea
+Community 155[V1]: Diadasia rinconis,Svastra duplocincta,Ashmeadiella
+Community 156[V1]: Halictidae,Sphecidae,Colletidae,Andrenidae,Megachile campanulae,Andrena aliciae
+Community 157[V1]: Passeriformes
+Community 158[V1]: Andrena erigeniae,Bombylius major
+Community 159[V1]: Xenoglossa strenua,Peponapis pruinosa
+Community 160[V1]: Bombus perplexus
+Community 161[V1]: Rediviva neliana,Macropis fulvipes
+Community 162[V1]: Lasioglossum cinctipes,Andrena ziziae,Lasioglossum anomalum,Andrena barbilabris,Halictus confusus,Lasioglossum pilosum
+Community 163[V1]: Squamata
+Community 164[V1]: Plebejus melissa
+Community 165[V1]: Bombus honshuensis
+Community 166[V1]: Augochlora pura,Augochlorella aurata,Agapostemon splendens
+Community 167[V1]: Colletes susannae,Colletes albescens
+Community 168[V1]: Theretra
+Community 169[V1]: Himatione sanguinea
+Community 170[V1]: Bembix rugosa,Leptoconops californiensis,Aphoebantus marcidus
+Community 171[V1]: Osmia ednae,Halictus rubicundus
+Community 172[V1]: Osmia sculleni,Osmia titusi
+Community 173[V1]: Coccinellidae
+Community 174[V1]: Lycaena arota
+Community 175[V1]: Prodoxidae
+Community 176[V1]: Hylemya aestiva,Chrysotus costalis
+Community 177[V1]: Jurinia
+Community 178[V1]: Oxycopis thoracica,Arthromacra aenea
+Community 179[V1]: Macroglossum stellatarum,Agrius
+Community 180[V1]: Heliomaster furcifer
+Community 181[V1]: Sephanoides sephanoides
+Community 182[V1]: Bombylius lancifer
+Community 183[V1]: Agapostemon,Melissodes,Sesiidae,Augochlorella,Lithurgus
+Community 184[V1]: Asilidae,Vespidae,Tipulidae
+Community 185[V1]: Formica neorufibarbis
+Community 186[V1]: Palpada
+Community 187[V1]: Thricops,Tachinidae,Muscidae,Calliphoridae,Chauliognathus marginatus,Macropis nuda,Anthomyiidae,Chloropidae
+Community 188[V1]: Self pollinated,Andrena arabis,Plenoculus davisii
+Community 189[V1]: Thysanoptera
+Community 190[V2]: Sabal etonia,Heterotheca subaxillaris
+Community 191[V2]: Galearis spectabilis,Galearis rotundifolia
+Community 192[V2]: Iris virginica,Primula pauciflora var. pauciflora,Pedicularis canadensis,Ajuga reptans,Astragalus anserinus,Pedicularis palustris,Taraxacum officinale,Aliciella pinnatifida,Dipsacus fullonum,Erythronium elegans,Mertensia franciscana,Zizania palustris,Phlox glaberrima,Phlox pilosa,Echinocereus enneacanthus ssp. enneacanthus,Robinia neomexicana,Hibiscus moscheutos,Physostegia virginiana,Vaccinium myrtillus,Pyrus malus,Astragalus barrii,Calypso bulbosa,Macbridea alba,Prunus americana,Cercis occidentalis,Mimulus guttatus,Psoralea tenuiflora,Petunia exserta,Sidalcea neomexicana,Thermopsis montana,Aesculus turbinata,Penstemon palmeri,Brassica oleracea,Spiranthes delitescens,Aesculus parviflora,Aesculus glabra,Aeschynomene virginica,Primula meadia,Brodiaea filifolia,Polemonium viscosum,Astragalus schmolliae,Vernonia baldwinii,Townsendia spathulata,Lathyrus eucosmus,Delphinium pavonaceum,Sarracenia oreophila,Goodyera tesselata,Penstemon confertus,Polygonatum bisorta,Iris missouriensis,Delphinium viridescens,Pyrus communis,Prunella vulgaris,Primula conjugens var. conjugens,Maianthemum canadense,Castilleja pulchella,Lupinus monticola,Gentiana affinis,Mimulus lewisii,Aliciella penstemonoides,Oxalis montana,Kalmia polifolia,Oxytropis campestris,Trifolium dasyphyllum,Senecio amplectens var. amplectens,Physostegia correllii,Primula fassettii,Delphinium bakeri,Aconitum henryi,Digitalis purpurea,Pedicularis groenlandica,Valeriana sitchensis,Aconitum napellus
+Community 193[V2]: Pyxidanthera barbulata
+Community 194[V2]: Napaea dioica,Asclepias meadii,Asclepias hirtella,Asclepias viridiflora
+Community 195[V2]: Dianthus deltoides,Malva moschata
+Community 196[V2]: Callirhoe involucrata,Callirhoe scabriuscula
+Community 197[V2]: Foeniculum vulgare,Sesbania sesban,Impatiens trichocarpa
+Community 198[V2]: Capsicum frutescens,Sesbania tomentosa
+Community 199[V2]: Eriastrum densifolium,Mimulus cardinalis
+Community 200[V2]: Parnassia palustris,Penstemon grahamii
+Community 201[V2]: Cornus glabrata,Prunus angustifolia,Sorbus americana,Magnolia annonifolia,Abutilon menziesii,Polemonium foliosissimum,Thysanocarpus laciniatus,Nolina microcarpa,Myrsine lessertiana,Canavalia galeata,Calochortus eurycarpus,Agastache rupestris,Psydrax odorata,Trillium flexipes,Solidago speciosa,Caltha leptosepala,Callicarpa americana,Desmanthus illinoensis,Santalum paniculatum,Monardella villosa,Petunia hybrida,Arnica mollis,Gentianopsis thermalis,Halesia diptera,Ilex longipes,Eutrochium maculatum,Ilex opaca,Myosotis asiatica,Lindera benzoin,Dendromecon rigida,Opuntia phaeacantha,Sabal causiarum,Salvia columbariae,Penstemon pallidus,Parthenocissus quinquefolia,Magnolia grandiflora,Helianthus schweinitzii,Iris versicolor,Diospyros sandwicensis,Vaccinium scoparium,Rudbeckia hirta,Scrophularia umbrosa,Caesalpinia pulcherrima,Clematis crispa,Sesuvium portulacastrum,Anchusa azurea,Senecio serra,Solidago sempervirens ssp. mexicana,Solidago missouriensis,Psychotria greenwelliae,Polemonium reptans,Rosa carolina,Helenium puberulum,Rhus copallinum var. copallinum,Ericameria nauseosa,Echeandia pittieri,Freycinetia arborea,Pityopsis graminifolia var. tenuifolia,Amelanchier alnifolia,Clermontia montis-loa,Cornus rugosa,Primula cusickiana,Apocynum cannabinum,Vernonia gigantea,Phacelia tanacetifolia,Linum berlandieri,Ilex vomitoria,Cladrastis kentukea,Asclepias eriocarpa,Prunus serotina,Alyxia stellata,Solidago caesia,Vitis aestivalis,Heterotheca grandiflora,Cornus amomum,Rhus integrifolia,Echeandia bolivarensis,Symphyotrichum ericoides,Agrimonia pubescens,Helenium autumnale,Micranthes californica,Cornus canadensis,Phlox bifida,Oenothera macrocarpa,Lobelia kalmii,Canavalia hawaiiensis,Frasera speciosa,Canavalia kauaiensis,Fritillaria pudica,Doellingeria umbellata,Gaultheria procumbens,Wyethia helianthoides,Ipomoea hederacea,Crataegus mollis,Eriogonum kennedyi,Eupatorium perfoliatum,Primula clevelandii var. clevelandii,Vaccinium angustifolium,Ochrosia compta,Clinopodium carolinianum,Asimina parviflora,Hibiscus coccineus,Cephalanthus occidentalis,Valeriana officinalis,Pycnanthemum albescens,Lupinus albifrons,Cheirodendron trigynum,Gossypium tomentosum,Crataegus monogyna,Ipomoea cordatotriloba var. cordatotriloba,Teucrium canadense,Lobelia hypoleuca,Hibiscus arnottianus,Chaenactis glabriuscula,Scaevola coriacea,Cypripedium kentuckiense,Arisaema trifoliatum,Euphorbia celastroides var. kaenana,Rumex giganteus,Ceanothus oliganthus,Ribes aureum,Santalum freycinetianum,Camassia scilloides,Delissea rhytidosperma,Eurybia macrophylla,Ivesia gordonii,Phemeranthus teretifolius,Eremalche parryi,Penstemon speciosus,Schwalbea americana,Drymocallis glandulosa var. glandulosa,Rhus copallinum,Ipomoea pes-caprae,Monarda punctata var. punctata,Magnolia obovata,Phacelia hastata,Gentianella quinquefolia ssp. quinquefolia,Dudleya abramsii,Tamarix chinensis,Mentzelia decapetala,Stewartia malacodendron,Phlox divaricata ssp. divaricata,Ilex anomala,Asclepias sullivantii,Liatris scariosa var. scariosa,Gazania krebsiana,Styrax americanus,Achillea millefolium,Catalpa bignonioides,Berberis fremontii,Ceanothus thyrsiflorus,Helianthus angustifolius,Rumex skottsbergii,Ceanothus cuneatus,Asclepias speciosa,Rubus parviflorus,Ruellia humilis,Sapindus oahuensis,Echinacea pallida,Ceanothus crassifolius,Fothergilla major,Rosa woodsii,Rhodiola integrifolia,Rhus aromatica,Mimulus tricolor,Eriogonum heracleoides,Spiraea douglasii,Arctostaphylos patula,Echinocactus horizonthalonius,Hibiscus waimeae,Nestegis sandwicensis,Portulaca villosa,Aesculus californica,Asclepias californica,Pittosporum hawaiiense,Cornus alternifolia,Swertia perennis,Leptecophylla tameiameiae,Mirabilis nyctaginea,Thermopsis villosa,Maianthemum stellatum,Mentzelia pectinata,Eupatorium resinosum,Cyrilla racemiflora,Monardella odoratissima,Opuntia humifusa,Eurybia divaricata,Heuchera pilosissima,Sorbus aucuparia,Sedum spathulifolium,Phacelia imbricata,Erigeron speciosus,Thelesperma subnudum,Lobelia cardinalis,Erythrina sandwicensis,Monarda fistulosa,Aronia melanocarpa,Mentzelia nuda,Lobelia elongata,Dicentra formosa,Stewartia ovata,Sphaeralcea grossulariifolia,Baccharis pilularis,Lupinus nanus,Salix nigra,Nesoluma polynesicum,Solidago roanensis,Abronia umbellata,Symphyotrichum puniceum var. scabricaule,Gaillardia pulchella,Sanguinaria canadensis,Hesperoyucca whipplei,Clarkia unguiculata,Triteleia laxa,Mentzelia laevicaulis,Clematis virginiana,Senecio bigelovii var. bigelovii,Monarda punctata,Anethum graveolens,Hibiscus kokio,Asclepias fascicularis,Amelanchier utahensis,Chamaedaphne calyculata,Cornus nuttallii,Phlox stolonifera,Viola sempervirens,Diphylleia cymosa,Rosa nutkana,Symphyotrichum cordifolium,Dicentra uniflora,Sabal maritima,Oxypolis rigidior,Kadua affinis,Calochortus clavatus var. pallidus,Oxydendrum arboreum,Campanula rotundifolia,Symphoricarpos orbiculatus,Lobelia niihauensis,Acacia brevispica,Sericocarpus rigidus,Gentiana alba,Bidens cosmoides,Rubus odoratus,Agave schottii,Scaevola gaudichaudiana,Stanleya pinnata,Rosa virginiana,Jacquemontia ovalifolia,Erigeron maguirei,Zigadenus venenosus,Oenothera speciosa,Penstemon rydbergii,Antidesma platyphyllum,Zizia aurea,Helianthus atrorubens,Sidalcea malviflora,Helianthus gracilentus,Lupinus perennis,Veratrum californicum var. californicum,Vaccinium crassifolium,Eutrochium fistulosum,Prunus ilicifolia,Stachys pycnantha,Lobelia dortmanna,Scaevola taccada,Helenium pinnatifidum,Gardenia brighamii,Myrsine sandwicensis,Cornus drummondii,Antidesma pulvinatum,Verbena lasiostachys,Portulaca sclerocarpa,Symphyotrichum oblongifolium,Psychotria mauiensis,Phyllostegia macrophylla,Sagittaria latifolia,Metrosideros polymorpha,Gaultheria shallon,Eriogonum fasciculatum var. polifolium,Croton texensis,Eriodictyon californicum,Hydrangea arborescens,Galactia smallii,Mirabilis rotundifolia,Echinocereus triglochidiatus,Argemone polyanthemos,Eriogonum fasciculatum,Viburnum prunifolium,Allium haematochiton,Fritillaria agrestis,Smilax melastomifolia,Lobelia boykinii,Datura wrightii,Asarum canadense,Silphium laciniatum,Artemisia mauiensis,Cornus florida,Spiraea alba,Sassafras albidum,Eurybia spectabilis,Berberis repens,Aronia arbutifolia,Borago officinalis,Penstemon digitalis,Parnassia fimbriata,Amorpha fruticosa,Holodiscus discolor var. dumosus,Asimina triloba,Lupinus argenteus,Liatris ohlingerae,Calochortus striatus,Penstemon laetus,Ephedra viridis,Asclepias lanceolata,Iliamna rivulari,Dasylirion wheeleri,Gordonia lasianthus,Hexastylis shuttleworthii var. shuttleworthii,Baptisia leucophaea,Baptisia australis,Dianella sandwicensis,Geranium maculatum,Psychotria mariniana,Ludwigia suffruticosa,Rhamnus californica ssp. californica,Cylindropuntia whipplei,Clarkia purpurea,Fendlera rupicola,Liatris pycnostachya,Astragalus drummondii,Clermontia hawaiiensis,Peritoma lutea,Gilia tricolor,Coreopsis tinctoria,Crataegus douglasii,Caltha palustris,Hypericum prolificum,Wikstroemia phillyreifolia,Polyscias sandwicensis,Oenothera pallida,Lilium columbianum,Actaea rubra,Impatiens glandulifera,Cyrtandra platyphylla,Trientalis borealis,Iris fulva,Calochortus albus,Diospyros hillebrandii,Packera plattensis,Diervilla lonicera,Potentilla fruticosa,Agoseris glauca,Epipactis helleborine,Gutierrezia sarothrae,Perrottetia sandwicensis,Penstemon cyananthus,Pittosporum confertiflorum,Solidago velutina ssp. califonica,Hibiscus clayi,Wikstroemia uva-ursi,Baptisia tinctoria,Itea virginica,Chlorogalum pomeridianum,Aruncus dioicus var. dioicus,Xanthorhiza simplicissima,Vitis rotundifolia,Osteomeles anthyllidifolia,Limnanthes alba,Packera aurea,Ilex glabra,Nolina brittoniana,Cryptantha intermedia,Physostegia leptophylla,Crataegus crus-galli,Astragalus crassicarpus,Silphium integrifolium,Malaxis monophyllos,Hibiscus brackenridgei,Sanicula bipinnatifida,Waltheria indica,Argemone glauca,Portulaca lutea,Delphinium carolinianum,Ilex decidua,Sedum lanceolatum,Trillium erectum,Viburnum dentatum,Ericameria linearifolia,Polygala myrtifolia,Crataegus aestivalis,Gilia capitata,Vaccinium reticulatum,Carphephorus corymbosus,Trillium luteum,Escobaria minima,Diospyros virginiana,Dasiphora fruticosa,Anticlea elegans var. elegans,Melanthera integrifolia,Helianthus heterophyllus,Astragalus trichopodus,Penstemon hirsutus,Tragopogon dubius,Nigella bucharica,Bidens aristosa,Cardamine bulbosa,Amelanchier spicata,Pisonia sandwicensis,Wisteria frutescens,Centranthus ruber,Acacia etbaica,Sedum glaucophyllum,Viola adunca,Pisonia umbellifera,Ranunculus californicus,Rhamnus cathartica,Sophora chrysophylla,Purshia mexicana,Vaccinium calycinum,Mertensia lanceolata,Geranium pratense,Lespedeza virginica,Oxalis violacea,Salix scouleriana,Astragalus osterhoutii,Hamamelis virginiana,Pittosporum hosmeri,Myoporum sandwicense,Solidago curtisii,Hymenoxys hoopesii,Chamaebatiaria millefolium,Tradescantia virginiana,Lupinus texensis,Ilex coriacea,Echinocystis lobata,Ilex mucronata,Erythrina herbacea,Amelanchier arborea,Silene stellata,Ilex verticillata,Castilleja applegatei,Viburnum nudum,Erythronium americanum,Hylotelephium telephioides,Canavalia pubescens,Polanisia dodecandra,Ptelea trifoliata,Broussaisia arguta,Hamamelis vernalis,Vaccinium ovatum,Prunus mexicana,Heuchera americana,Hydrolea ovata,Arctostaphylos glandulosa,Camissonia campestris,Tradescantia ohiensis,Romneya coulteri,Oenothera filiformis,Philadelphus lewisii,Eriogonum brandegeei,Calochortus splendens,Scaevola kilaueae,Polyscias hawaiensis,Eriogonum corymbosum var. velutinum,Eremogone congesta var. congesta,Styrax redivivus,Balsamorhiza sagittata,Portulaca molokiniensis,Amsonia ciliata,Diervilla rivularis,Abutilon eremitopetalum,Ilex ambigua,Viburnum acerifolium,Lithophragma heterophyllum,Scaevola chamissoniana,Chaenomeles japonica,Leptosiphon parviflorus,Abronia bigelovii,Geum triflorum,Mentzelia densa,Salvia pratensis,Chrysodracon hawaiiensis,Adenostoma fasciculatum,Iris verna var. verna,Geum rivale,Valeriana edulis,Capparis sandwichiana,Rhododendron occidentale,Mitchella repens,Salvia azurea,Chionanthus virginicus,Erythronium rostratum,Helianthus maximiliani,Flueggea flexuosa,Dichelostemma ida-maia,Vitex rotundifolia,Cirsium ownbeyi,Sibbaldia procumbens,Viburnum rufidulum,Passiflora incarnata,Brickellia californica,Geranium viscosissimum,Phlox longifolia,Xerophyllum tenax,Limonium gerberi,Tribulus terrestris,Astelia menziesiana,Bartonia texana,Amsonia tabernaemontana,Ribes curvatum,Phacelia ciliata,Mertensia ciliata,Leucothoe fontanesiana,Vachellia nilotica,Trichostema dichotomum,Allium fimbriatum,Crataegus marshallii,Fagopyrum esculentum,Primula jeffreyi,Hibiscus laevis,Calochortus nuttallii,Phaseolus vulgaris,Dalea candida,Dudleya nesiotica,Anemone acutiloba,Symphyotrichum undulatum,Magnolia acuminata,Ceanothus americanus,Verbena stricta,Polyscias racemosa,Morella cerifera,Dichelostemma capitatum,Halesia carolina,Anaphalis margaritacea,Liatris elegans,Vaccinium vitis-idaea,Salvia glutinosa,Arctostaphylos tomentosa,Viola nuttallii,Penstemon cobaea,Salix exigua,Dudleya virens,Aristolochia macrophylla,Symplocos tinctoria,Symplocarpus foetidus,Phlox drummondii,Echeandia texensis,Aconitum uncinatum,Clematis hirsutissima,Galax urceolata,Lewisia rediviva,Layia glandulosa,Liriodendron tulipifera,Gleditsia triacanthos,Yucca glauca,Tumamoca macdougalii,Fallugia paradoxa,Coreopsis gladiata,Trillium recurvatum,Pittosporum glabrum,Physaria congesta,Allium canadense,Corallorhiza striata,Ranunculus alismifolius,Gypsophila paniculata,Claoxylon sandwicense,Paeonia californica,Phlox divaricata,Lespedeza hirta,Helianthus mollis,Physalis hispida,Glandularia canadensis,Mentha arvensis,Rhododendron macrophyllum,Cirsium occidentale var. californicum,Physocarpus opulifolius,Uvularia grandiflora,Bistorta bistortoides,Lathyrus vestitus var. vestitus,Sisyrinchium bellum,Gentiana andrewsii,Frankenia salina,Sisyrinchium montanum,Chrysogonum virginianum var. australe,Wikstroemia sandwicensis,Lobelia villosa,Prunus pensylvanica,Aptenia cordifolia,Manfreda sileri,Delphinium parryi,Pseudophoenix sargentii,Encelia farinosa,Podophyllum peltatum,Cercis canadensis,Nyssa sylvatica,Helenium campestre,Peritoma serrulata,Rhododendron alabamense,Anemone americana,Mentha X piperita,Pityopsis graminifolia,Androsace septentrionalis,Viola pedata,Sabal minor,Mollugo verticillata,Rubus hawaiensis,Gnaphalium uliginosum,Amorpha californica,Argemone aurantiaca,Agave parviflora,Viburnum nudum var. cassinoides,Ocimum basilicum,Caulanthus coulteri,Prosopis glandulosa var. torreyana,Clarkia cylindrica,Arisaema triphyllum,Acacia koa,Mentzelia oligosperma,Dalea foliosa,Oenothera californica,Lipochaeta lobata,Gelsemium rankinii,Eriogonum umbellatum,Berberis nervosa,Celastrus scandens,Vigna marina,Mentzelia multiflora,Phlox paniculata,Corydalis aurea,Calycanthus floridus,Phytolacca sandwicensis,Vaccinium stamineum,Chelone glabra,Oxalis cornuta,Melilotus albus,Ptilimnium capillaceum,Astragalus purshii,Acanthomintha duttonii,Rhexia alifanus,Acer macrophyllum,Helianthus annuus,Boltonia caroliniana,Heliotropium curassavicum,Actaea pachypoda,Monolopia lanceolata,Geranium sylvaticum,Acanthomintha obovata ssp. cordata,Stylisma pickeringii var. pickeringii,Acer pseudoplatanus,Trifolium fucatum,Bacopa monnieri,Sisymbrium altissimum,Abronia fragans,Astragalus kentrophyta,Chamaecrista fasciculata,Matelea alabamensis,Collinsia heterophylla,Amsinckia intermedia,Pseudognaphalium ssp. canescens,Helianthus microcephalus,Asimina tetramera,Camassia quamash,Liatris punctata,Rorippa palustris,Trifolium variegatum,Liatris pauciflora,Verbena urticifolia,Echeandia lehmannii,Gentiana clausa,Salix laevigata,Brodiaea pulchella,Lobelia yuccoides,Lobelia gloria-montis,Rhododendron prinophyllum,Epigaea repens,Hypericum densiflorum,Petunia integrifolia,Trillium pusillum var. ozarkanum,Bigelowia nudata,Arisaema dracontium
+Community 202[V2]: Clematis ligusticifolia,Euphorbia esula
+Community 203[V2]: Platanthera blephariglottis
+Community 204[V2]: Penstemon griffinii,Penstemon debilis,Penstemon caryi
+Community 205[V2]: Nigella sativa
+Community 206[V2]: Lobularia maritima
+Community 207[V2]: Chloropyron maritimum ssp. maritimus
+Community 208[V2]: Ferocactus cylindraceus,Ferocactus wislizeni,Coryphantha robustispina ssp. robustispina
+Community 209[V2]: Asclepias incarnata,Asclepias verticillata
+Community 210[V2]: Castilleja sessiliflora,Impatiens capensis,Mirabilis macfarlanei,Calopogon tuberosus
+Community 211[V2]: Berberis pinnata ssp. pinnata,Linnaea borealis,Lobelia siphilitica,Acmispon dendroideus var. traskiae,Asclepias syriaca,Cymopterus beckii,Purshia X subintegra,Gilia achilleifolia,Eschscholzia californica,Agave X arizonica,Linaria vulgaris,Nepeta cataria,Lepidium papilliferum,Cypripedium montanum,Fritillaria gentneri,Campanula americana,Physaria obcordata,Harperocallis flava,Gaylussacia baccata,Rudbeckia auriculata,Echinodorus grandiflorus,Polygonatum commutatum
+Community 212[V2]: Crepis atribarba,Mertensia brevistyla,Brodiaea pallida,Penstemon harringtonii,Packera paupercula
+Community 213[V2]: Arethusa bulbosa
+Community 214[V2]: Fraxinus pensylvanica,Purshia tridentata,Coprosma ernodeoides,Artemisia tridentata,Neohintonia monantha,Vitis vinifera,Malva neglecta,Tilia americana,Parthenium hysteroporus,Betula nigra,Rhynchospora macrostachya,Schoenoplectus pungens,Sambucus nigra ssp. canadensis,Plantago major,Coprosma pubens,Artemisia frigida,Acer saccharinum,Koanophyllon solidaginifolium,Quercus hinckleyi,Amaranthus pumilus,Castanea ozarkensis,Betula glandulosa,Artemisia ludoviciana,Koanophyllon solidaginoides,Artemisia dracunculus,Platanus occidentalis,Cyclachaena xanthifolia,Plantago lanceolata,Ambrosia chamissonis,Alnus serrulata,Scirpus atrovirens,Abies fraseri,Asplenium scolopendrium,Koanophyllon palmeri,Corylus cornuta,Ambrosia cheiranthifolia,Torreya taxifolia,Atriplex canescens var. gigantea,Morus alba,Schoenoplectus acutus
+Community 215[V2]: Aquilegia coerulea,Catalpa speciosa,Manfreda virginica,Abronia umbellata var. breviflora,Brunfelsia portoricensis,Peniocereus greggii,Trichostema lanatum,Brunfelsia densifolia,Lonicera caprifolium,Peniocereus greggii var. transmontanus,Brighamia insignis,Zephyranthes atamasco,Erythrostemon gilliesii,Brunfelsia lactea,Oenothera harringtonii,Aliciella haydenii,Aquilegia chrysantha,Lonicera periclymenum,Brighamia rockii
+Community 216[V2]: Cypripedium candidum,Sclerocactus brevispinus
+Community 217[V2]: Lasthenia burkei,Blennosperma bakeri,Limnanthes vinculans
+Community 218[V2]: Sabal bermudana,Thermopsis lanceolata,Cichorium intybus
+Community 219[V2]: Crescentia alata
+Community 220[V2]: Platanthera dilatata
+Community 221[V2]: Cypripedium parviflorum,Salvia mellifera,Tetraneuris acaulis
+Community 222[V2]: Triphora trianthophoros,Trillium grandiflorum
+Community 223[V2]: Nemophila menziesii
+Community 224[V2]: Daucus carota,Adolphia infesta
+Community 225[V2]: Magnolia tripetala
 Community 226[V2]: Achyranthes bidentata
-Community 227[V2]: Raphanus sativus,Raphanus raphanistrum,Echinacea angustifolia,Robinia pseudoacacia,Securigera varia,Cirsium arvense,Clethra acuminata,Tagetes erecta,Vernonia noveboracensis,Agastache pallidiflora,Fragaria chiloensis,Swertia przewalskii,Tradescantia occidentalis,Rubus arcticus,Origanum vulgare,Papaver rhoeas,Salvia,Rhus glabra,Rhododendron,Styrax grandifolius,Rhus sandwicensis,Stokesia laevis,Rhus typhina,Lythrum salicaria,Mentha pulegium,Flueggea leucopyrus,Orthocarpus,Ratibida columnifera,Chrysanthemum,Dieteria canescens,Phaseolus coccineus,Pediocactus knowltonii,Corydalis ambigua,Elaeagnus angustifolia,Campanula,Perovskia atriplicifolia,Lupinus westianus var. aridorum,Caryopteris,Antirrhinum majus,Nolina greenei,Cleome lutea,Zinnia,Spiraea japonica,Phemeranthus calycinus,Ilex collina,Prunus amygdalus,Lavandula angustifolia,Malva,Asparagus officinalis
-Community 228[V2]: Cypripedium parviflorum var. parviflorum,Cypripedium reginae
-Community 229[V2]: Platanthera blephariglottis,Nolina
-Community 230[V2]: Desmodium setigerum
-Community 231[V2]: Astragalus brauntonii,Acacia,Thymophylla tephroleuca,Prunus virginiana,Sabal,Penstemon degeneri,Nemophila,Spiranthes,Baccharis salicina
-Community 232[V2]: Asclepias incarnata,Asclepias verticillata
-Community 233[V2]: Cucurbita pepo
-Community 234[V2]: Polygala lewtonii
-Community 235[V2]: Lasthenia burkei,Limnanthes vinculans,Blennosperma bakeri
-Community 236[V2]: Scrophularia nodosa,Scrophularia
-Community 237[V2]: Lonicera,Sonchus arvensis,Amaranthus palmeri,Lygodesmia juncea,Eutrochium purpureum,Erigeron,Liatris gracilis,Eupatorium cannabinum,Liatris tenuifolia,Onopordum acanthium,Liatris laevigata,Euryops,Osteospermum
-Community 238[V2]: Argemone hispida
-Community 239[V2]: Magnolia tripetala
-Community 240[V2]: Boltonia asteroides,Boltonia decurrens
-Community 241[V2]: Eriastrum densifolium,Mimulus cardinalis
-Community 242[V2]: Potentilla gracilis,Potentilla recta
-Community 243[V2]: Galearis rotundifolia,Galearis spectabilis
-Community 244[V2]: Cypripedium candidum,Sclerocactus brevispinus
-Community 245[V2]: Pyxidanthera barbulata
-Community 246[V2]: Downingia
-Community 247[V2]: Ferocactus wislizeni,Opuntia macrocentra,Ferocactus cylindraceus,Oxytropis lambertii,Coryphantha robustispina ssp. robustispina
-Community 248[V2]: Lonicera caprifolium,Brunfelsia lactea,Catalpa speciosa,Platanthera,Brighamia rockii,Aliciella haydenii,Manfreda virginica,Abronia umbellata var. breviflora,Aquilegia coerulea,Brighamia insignis,Peniocereus greggii,Oenothera harringtonii,Brunfelsia portoricensis,Erythrostemon gilliesii,Lonicera periclymenum,Zephyranthes atamasco,Aquilegia chrysantha,Trichostema lanatum,Peniocereus greggii var. transmontanus,Brunfelsia densifolia
-Community 249[V2]: Rudbeckia laciniata,Carduus nutans,Heliotropium anomalum,Platanthera hookeri,Ludwigia peploides ssp. glabrescens
-Community 250[V2]: Ageratina aromatica
-Community 251[V2]: Crepis atribarba,Rubus,Brassica,Mertensia brevistyla,Penstemon harringtonii,Packera paupercula
-Community 252[V2]: Chloropyron palmatum,Castilleja levisecta,Downingia cuspidata,Castilleja hispida
-Community 253[V2]: Silene flos-cuculi,Saponaria officinalis,Silene latifolia,Silene vulgaris,Convolvulus arvensis
-Community 254[V2]: Ipomoea
-Community 255[V2]: Trillium ovatum
-Community 256[V2]: Sabal palmetto,Synthyris bullii,Goodyera pubescens
-Community 257[V2]: Hybanthus prunifolius
-Community 258[V2]: Arceuthobium vaginatum ssp. cryptopodum,Arceuthobium campylopodum
-Community 259[V2]: Salix
-Community 260[V2]: Physaria filiformis,Sabal mauritiiformis
-Community 261[V2]: Magnolia ashei
-Community 262[V2]: Trifolium pratense,Stachys sylvatica,Salvia splendens
-Community 263[V2]: Viola,Narcissus pseudonarcissus
-Community 264[V2]: Nemophila menziesii
-Community 265[V2]: Fremontodendron mexicanum,Asclepias syriaca,Apios americana,Linnaea borealis,Asclepias exaltata,Asclepias uncialis,Conradina verticillata,Asclepias sullivantii,Asclepias purpurascens,Sclerocactus brevihamatus ssp. tobuschii,Spiranthes diluvialis,Shortia galacifolia,Trillium texanum,Ludwigia grandiflora,Lippia graveolens,Trifolium
-Community 266[V2]: Croton texensis
-Community 267[V2]: Dianthus sylvestris
-Community 268[V2]: Fremontodendron decumbens
-Community 269[V2]: Clarkia xantiana
-Community 270[V2]: Dianthus carthusianorum
-Community 271[V2]: Lupinus pilosus,Corydalis cava,Anagallis arvensis,Polygonatum odoratum,Erodium cicutarium
-Community 272[V2]: Mimulus ringens,Impatiens capensis,Calopogon tuberosus,Mirabilis macfarlanei,Castilleja sessiliflora
-Community 273[V2]: Clinopodium ashei
-Community 274[V2]: Verbena hastata
-Community 275[V2]: Philadelphus
-Community 276[V2]: Hedysarum boreale,Delphinium nuttallianum,Delphinium barbeyi,Rudbeckia occidentalis,Hymenoxys grandiflora,Astragalus americanus,Helianthella quinquenervis,Corydalis caseana,Oxytropis sericea,Aconitum columbianum
-Community 277[V2]: Lithospermum caroliniense
-Community 278[V2]: Iliamna remota,Pycnanthemum tenuifolium
-Community 279[V2]: Stylisma pickeringii var. pattersonii
-Community 280[V2]: Oenothera
-Community 281[V2]: Lysimachia punctata
-Community 282[V2]: Isotria verticillata
-Community 283[V2]: Trichostema lanceolatum
-Community 284[V2]: Agave parryi,Mezonevron kavaiense,Sonneratia,Agave palmeri,Anacardium,Agave americana,Manfreda brachystacha,Pilosocereus
-Community 285[V2]: Triphora trianthophoros,Trillium grandiflorum
-Community 286[V2]: Hibiscadelphus giffardianus,Cyanea leptostegia,Cyanea pinnatifida
-Community 287[V2]: Liatris aspera,Platanthera ciliaris,Lantana,Berberis nevinii
-Community 288[V2]: Goodyera oblongifolia,Eucephalus vialis
-Community 289[V2]: Scutellaria,Solidago altissima
-Community 290[V2]: Erythrina,Erythrina fusca,Erythrina poeppigiana
-Community 291[V2]: Phacelia
-Community 292[V2]: Mertensia franciscana,Dicentra,Sidalcea neomexicana,Polemonium viscosum,Valeriana sitchensis,Pedicularis canadensis,Pyrus malus,Ribes,Solanum,Delphinium bakeri,Primula pauciflora var. pauciflora,Prunus americana,Senna,Pyrus communis,Primula fassettii,Penstemon palmeri,Taraxacum officinale,Spiranthes delitescens,Calypso bulbosa,Townsendia spathulata,Vaccinium myrtillus,Gentiana affinis,Aconitum henryi,Maianthemum canadense,Robinia neomexicana,Macbridea alba,Oxytropis campestris,Delphinium viridescens,Pedicularis palustris,Astragalus anserinus,Prunella vulgaris,Lupinus monticola,Erythronium elegans,Cercis occidentalis,Petunia exserta,Aesculus glabra,Delphinium pavonaceum,Aesculus parviflora,Lathyrus eucosmus,Primula conjugens var. conjugens,Aconitum napellus,Digitalis purpurea,Goodyera tesselata,Castilleja pulchella,Psoralea tenuiflora,Aesculus turbinata,Penstemon confertus,Astragalus barrii,Primula meadia,Thermopsis montana,Calypso,Trifolium dasyphyllum,Vicia,Brassica oleracea,Senecio amplectens var. amplectens,Dipsacus fullonum,Aeschynomene virginica,Kalmia polifolia,Mimulus guttatus,Physostegia virginiana,Oxalis montana,Iris missouriensis,Polygonatum bisorta,Pedicularis groenlandica,Physostegia correllii,Bidens,Sarracenia oreophila,Zizania palustris,Gentiana
-Community 293[V2]: Erysimum,Limonium otolepis,Lycium barbarum,Arctostaphylos pringlei,Ceanothus fendleri,Arctostaphylos glandulosa ssp. mollis,Achillea,Shepherdia canadensis,Ipomopsis aggregata,Eriophyllum latilobum,Epipactis thunbergii,Crataegus monogyna,Symphoricarpos albus,Stachys tenuifolia,Berteroa incana,Sagittaria,Hesperis matronalis,Calystegia sepium,Rhodiola integrifolia ssp. leedyi,Hieracium,Potentilla,Sisyrinchium vaginatum,Veronica,Hesperidanthus suffrutescens
-Community 294[V2]: Ceanothus crassifolius,Rudbeckia hirta,Iliamna rivulari,Cornus canadensis,Helenium puberulum,Scaevola coriacea,Aptenia cordifolia,Mentha X piperita,Polemonium foliosissimum,Scaevola,Delphinium carolinianum,Osteomeles anthyllidifolia,Lobelia cardinalis,Sorbus americana,Maianthemum stellatum,Metrosideros polymorpha,Scaevola gaudichaudiana,Achillea millefolium,Symplocos tinctoria,Gypsophila paniculata,Hydrophyllum,Eutrochium fistulosum,Fendlera rupicola,Rhododendron occidentale,Broussaisia arguta,Chamaedaphne calyculata,Actaea pachypoda,Stanleya pinnata,Clematis virginiana,Silene stellata,Symphyotrichum cordifolium,Penstemon pallidus,Rosa carolina,Rumex skottsbergii,Penstemon cyananthus,Collinsia heterophylla,Penstemon speciosus,Psydrax odorata,Diospyros hillebrandii,Leptosiphon parviflorus,Euphorbia celastroides var. kaenana,Drymocallis glandulosa var. glandulosa,Cornus drummondii,Chaenactis glabriuscula,Vitis rotundifolia,Ilex mucronata,Viola adunca,Gentianella quinquefolia ssp. quinquefolia,Aruncus dioicus var. dioicus,Erigeron speciosus,Halesia carolina,Trillium,Rhus aromatica,Opuntia phaeacantha,Prunus serotina,Ceanothus thyrsiflorus,Claoxylon sandwicense,Mimulus lewisii,Asclepias eriocarpa,Clarkia purpurea,Rubus parviflorus,Anaphalis margaritacea,Aronia melanocarpa,Packera aurea,Balsamorhiza sagittata,Monarda fistulosa,Cornus florida,Sphaeralcea grossulariifolia,Lupinus perennis,Cephalanthus occidentalis,Eurybia divaricata,Centranthus ruber,Callicarpa americana,Pseudognaphalium ssp. canescens,Trichostema dichotomum,Anemone acutiloba,Liatris punctata,Rhus integrifolia,Lupinus,Solidago,Viburnum rufidulum,Sanguinaria canadensis,Cornus amomum,Eupatorium resinosum,Santalum freycinetianum,Monarda punctata var. punctata,Wikstroemia sandwicensis,Cryptantha intermedia,Fallugia paradoxa,Magnolia acuminata,Iris virginica,Parnassia fimbriata,Nesoluma polynesicum,Liatris pycnostachya,Stephanomeria,Lespedeza virginica,Baccharis pilularis,Helianthus schweinitzii,Artemisia mauiensis,Penstemon rydbergii,Syringa,Mentzelia nuda,Geum rivale,Fothergilla major,Hibiscus clayi,Astragalus osterhoutii,Asimina parviflora,Peritoma serrulata,Berberis fremontii,Haplopappus,Cheirodendron trigynum,Ericameria nauseosa,Rubus hawaiensis,Phacelia imbricata,Eupatorium perfoliatum,Echeandia texensis,Philadelphus lewisii,Zizia aurea,Viburnum dentatum,Dalea foliosa,Malaxis monophyllos,Petunia integrifolia,Jacquemontia ovalifolia,Erythronium,Ilex anomala,Tradescantia virginiana,Rhus copallinum,Erythrina sandwicensis,Eriogonum umbellatum,Frasera speciosa,Dudleya abramsii,Portulaca sclerocarpa,Layia glandulosa,Rubus odoratus,Pisonia umbellifera,Ericameria linearifolia,Romneya coulteri,Matelea alabamensis,Hydrolea ovata,Primula clevelandii var. clevelandii,Lantana camara,Rhamnus californica ssp. californica,Dichelostemma ida-maia,Sanicula bipinnatifida,Freycinetia arborea,Ilex opaca,Verbena lasiostachys,Calochortus albus,Scaevola chamissoniana,Phacelia ciliata,Symphyotrichum oblongifolium,Trillium recurvatum,Scrophularia umbrosa,Hibiscus waimeae,Lindera benzoin,Dasylirion wheeleri,Rhodiola integrifolia,Asimina tetramera,Arisaema triphyllum,Cylindropuntia whipplei,Amorpha californica,Viola nuttallii,Rosa nutkana,Waltheria indica,Ceanothus oliganthus,Eriodictyon californicum,Prunus ilicifolia,Triteleia laxa,Tribulus terrestris,Geranium maculatum,Helenium campestre,Solidago speciosa,Viburnum prunifolium,Amelanchier alnifolia,Oenothera filiformis,Cyrilla racemiflora,Echinocactus horizonthalonius,Agoseris glauca,Anethum graveolens,Ipomoea pes-caprae,Eutrochium maculatum,Ruellia humilis,Amelanchier arborea,Solidago curtisii,Lupinus albifrons,Fritillaria pudica,Phlox longifolia,Ilex longipes,Eriogonum fasciculatum var. polifolium,Polyscias hawaiensis,Smilax melastomifolia,Salvia glutinosa,Geum triflorum,Sesbania tomentosa,Arnica mollis,Trillium pusillum var. ozarkanum,Rorippa palustris,Lithophragma heterophyllum,Astelia menziesiana,Hibiscus brackenridgei,Solidago caesia,Encelia farinosa,Kniphofia,Helianthus angustifolius,Hamamelis virginiana,Astragalus drummondii,Psychotria mariniana,Monardella odoratissima,Pittosporum hosmeri,Eurybia spectabilis,Gaillardia pulchella,Pittosporum hawaiiense,Physocarpus opulifolius,Crataegus crus-galli,Eriogonum kennedyi,Vaccinium crassifolium,Ilex ambigua,Fritillaria agrestis,Ephedra viridis,Portulaca villosa,Portulaca molokiniensis,Vernonia gigantea,Apocynum cannabinum,Clermontia hawaiiensis,Hesperoyucca whipplei,Erythronium rostratum,Parthenocissus quinquefolia,Acacia etbaica,Caesalpinia,Galactia smallii,Acacia brevispica,Sisymbrium altissimum,Anchusa azurea,Ptilimnium capillaceum,Arisaema trifoliatum,Asclepias speciosa,Delissea rhytidosperma,Echeandia bolivarensis,Packera plattensis,Dianella sandwicensis,Castilleja,Diervilla rivularis,Geranium viscosissimum,Ilex verticillata,Coreopsis tinctoria,Phlox divaricata,Xanthorhiza simplicissima,Eriogonum heracleoides,Dicentra formosa,Tragopogon dubius,Allium canadense,Chionanthus virginicus,Echeandia lehmannii,Helenium autumnale,Liatris scariosa var. scariosa,Solidago roanensis,Gordonia lasianthus,Trillium flexipes,Pseudophoenix sargentii,Clermontia,Solidago velutina ssp. califonica,Verbena stricta,Mertensia lanceolata,Polygala myrtifolia,Borago officinalis,Brickellia californica,Solidago missouriensis,Helianthus atrorubens,Sassafras albidum,Cladrastis kentukea,Ivesia gordonii,Berberis repens,Acanthomintha obovata ssp. cordata,Pittosporum confertiflorum,Phemeranthus,Anticlea elegans var. elegans,Mirabilis rotundifolia,Lobelia hypoleuca,Myoporum sandwicense,Amelanchier spicata,Linum berlandieri,Wikstroemia phillyreifolia,Actaea rubra,Alyxia stellata,Amsinckia intermedia,Heuchera americana,Antidesma pulvinatum,Polanisia dodecandra,Swertia perennis,Crataegus,Calochortus striatus,Sabal maritima,Chrysogonum virginianum var. australe,Cornus glabrata,Castilleja applegatei,Stewartia ovata,Asclepias californica,Opuntia humifusa,Eurybia macrophylla,Peritoma lutea,Perrottetia sandwicensis,Vaccinium angustifolium,Arctostaphylos patula,Abutilon,Wyethia helianthoides,Oxalis cornuta,Uvularia grandiflora,Cyanea,Conyza canadensis,Crataegus mollis,Lobelia boykinii,Antennaria,Viola sempervirens,Berberis nervosa,Gazania krebsiana,Mertensia,Clematis hirsutissima,Trillium luteum,Prunus mexicana,Vitex rotundifolia,Hamamelis vernalis,Cirsium ownbeyi,Vitis aestivalis,Mentzelia pectinata,Ceanothus americanus,Helianthus gracilentus,Lobelia gloria-montis,Eremalche parryi,Primula jeffreyi,Melanthera integrifolia,Wisteria frutescens,Geranium sylvaticum,Frankenia salina,Clermontia montis-loa,Vaccinium reticulatum,Oenothera californica,Mimulus tricolor,Corydalis aurea,Helianthus mollis,Morella cerifera,Lythrum,Astragalus purshii,Aesculus californica,Agrimonia pubescens,Penstemon hirsutus,Gnaphalium uliginosum,Symphyotrichum ericoides,Cypripedium kentuckiense,Hypericum prolificum,Stachys pycnantha,Rhododendron prinophyllum,Heterotheca grandiflora,Scaevola taccada,Astragalus crassicarpus,Diospyros sandwicensis,Nestegis sandwicensis,Mertensia ciliata,Sidalcea malviflora,Argemone glauca,Matelea,Cornus rugosa,Gaultheria procumbens,Androsace septentrionalis,Tamarix chinensis,Leucothoe fontanesiana,Podophyllum peltatum,Acer pseudoplatanus,Lupinus texensis,Helianthus maximiliani,Dichelostemma capitatum,Bidens aristosa,Phlox bifida,Silphium laciniatum,Gilia capitata,Baptisia tinctoria,Dasiphora fruticosa,Flueggea flexuosa,Canavalia pubescens,Phoradendron serotinum,Hibiscus coccineus,Thysanocarpus laciniatus,Vachellia nilotica,Sibbaldia procumbens,Acanthomintha duttonii,Sedum spathulifolium,Erythronium americanum,Hymenoxys hoopesii,Camassia scilloides,Pittosporum glabrum,Santalum paniculatum,Liatris elegans,Hibiscus arnottianus,Gentiana andrewsii,Iris verna var. verna,Symphyotrichum undulatum,Ilex decidua,Hibiscus laevis,Rhus copallinum var. copallinum,Carphephorus corymbosus,Hibiscus kokio,Viburnum nudum,Penstemon digitalis,Hydrangea arborescens,Ilex glabra,Antidesma platyphyllum,Caulanthus coulteri,Abronia bigelovii,Physaria congesta,Lespedeza hirta,Caesalpinia pulcherrima,Viburnum nudum var. cassinoides,Mollugo verticillata,Helianthus heterophyllus,Stewartia malacodendron,Doellingeria umbellata,Phlox,Spiraea alba,Symphyotrichum,Cornus alternifolia,Mentzelia densa,Sesuvium portulacastrum,Senecio serra,Monolopia lanceolata,Psychotria greenwelliae,Abutilon menziesii,Magnolia,Limonium gerberi,Sedum lanceolatum,Liriodendron tulipifera,Myosotis asiatica,Limnanthes alba,Bistorta bistortoides,Astragalus trichopodus,Rhexia alifanus,Cirsium occidentale var. californicum,Heuchera pilosissima,Gentiana alba,Monarda punctata,Epigaea repens,Arctostaphylos glandulosa,Asimina triloba,Asclepias fascicularis,Lupinus argenteus,Calochortus clavatus var. pallidus,Gentianopsis thermalis,Argemone aurantiaca,Diphylleia cymosa,Mitchella repens,Prunus pensylvanica,Ceanothus cuneatus,Mentha arvensis,Physostegia leptophylla,Ipomoea cordatotriloba var. cordatotriloba,Magnolia obovata,Brodiaea pulchella,Echinocystis lobata,Abutilon eremitopetalum,Silphium integrifolium,Salix exigua,Gentiana clausa,Prosopis glandulosa var. torreyana,Symphyotrichum puniceum var. scabricaule,Helenium pinnatifidum,Sagittaria latifolia,Penstemon laetus,Opuntia,Oenothera pallida,Canavalia hawaiiensis,Myrsine sandwicensis,Chlorogalum pomeridianum,Amelanchier,Solidago sempervirens ssp. mexicana,Itea virginica,Ipomoea hederacea,Iris,Epipactis,Astilbe,Agastache rupestris,Rosa virginiana,Chaenomeles japonica,Rhamnus cathartica,Cardamine bulbosa,Lewisia rediviva,Psychotria mauiensis,Viburnum acerifolium,Trientalis borealis,Caltha palustris,Diospyros virginiana,Ribes aureum,Dudleya nesiotica,Gilia tricolor,Phaseolus vulgaris,Purshia mexicana,Valeriana officinalis,Camissonia campestris,Xerophyllum tenax,Oxypolis rigidior,Sorbus aucuparia,Sambucus,Polyscias sandwicensis,Salix nigra,Pisonia sandwicensis,Pycnanthemum albescens,Zigadenus venenosus,Amelanchier utahensis,Oonopsis,Scaevola kilaueae,Yucca glauca,Bigelowia nudata,Calochortus eurycarpus,Desmanthus illinoensis,Senecio bigelovii var. bigelovii,Styrax redivivus,Senecio,Polyscias racemosa,Salix scouleriana,Camassia quamash,Ranunculus alismifolius,Argemone polyanthemos,Bacopa monnieri,Diervilla lonicera,Impatiens glandulifera,Phlox paniculata,Delphinium,Rumex giganteus,Trifolium variegatum,Phacelia hastata,Echinacea pallida,Iris fulva,Allium haematochiton,Physaria,Amorpha fruticosa,Passiflora incarnata,Agave parviflora,Calochortus splendens,Allium fimbriatum,Nolina brittoniana,Mentzelia laevicaulis,Magnolia grandiflora,Dicentra uniflora,Calycanthus floridus,Ochrosia compta,Datura wrightii,Agave schottii,Echinocereus triglochidiatus,Eriogonum corymbosum var. velutinum,Manfreda sileri,Petunia hybrida,Wikstroemia uva-ursi,Arisaema dracontium,Phlox divaricata ssp. divaricata,Crataegus douglasii,Chrysodracon hawaiiensis,Arctostaphylos tomentosa,Leptecophylla tameiameiae,Ilex coriacea,Ribes curvatum,Sedum glaucophyllum,Baptisia australis,Chamaebatiaria millefolium,Acer macrophyllum,Gutierrezia sarothrae,Paeonia californica,Dendromecon rigida,Eremogone congesta var. congesta,Rhododendron alabamense,Asarum canadense,Phacelia tanacetifolia,Celastrus scandens,Veratrum californicum var. californicum,Amsonia ciliata,Aronia arbutifolia,Oenothera speciosa,Calochortus nuttallii,Capparis sandwichiana,Potentilla fruticosa,Phyllostegia macrophylla,Coreopsis gladiata,Prunus angustifolia,Sericocarpus rigidus,Mentzelia oligosperma,Dudleya virens,Ocimum basilicum,Caltha leptosepala,Vaccinium stamineum,Clinopodium carolinianum,Phemeranthus teretifolius,Geranium,Astragalus kentrophyta,Heliotropium curassavicum,Lobelia yuccoides,Clematis crispa,Adenostoma fasciculatum,Fagopyrum esculentum,Silene,Primula cusickiana,Nolina microcarpa,Clarkia cylindrica,Eriogonum fasciculatum,Ludwigia suffruticosa,Myrsine lessertiana,Iris versicolor,Rosa woodsii,Phlox drummondii,Penstemon cobaea,Ilex vomitoria,Polemonium reptans,Lobelia elongata,Catalpa bignonioides,Sapindus oahuensis,Aristolochia macrophylla,Salvia azurea,Sedum,Clarkia unguiculata,Delphinium parryi,Crataegus aestivalis,Sophora chrysophylla,Thelesperma subnudum,Salvia pratensis,Gossypium tomentosum,Lobelia dortmanna,Glandularia canadensis,Valeriana edulis,Berberis,Pritchardia,Thermopsis villosa,Symphoricarpos,Halesia diptera,Lobelia niihauensis,Lathyrus vestitus var. vestitus,Holodiscus discolor var. dumosus,Lobelia kalmii,Petunia,Eriogonum brandegeei,Cornus nuttallii,Salvia columbariae,Abronia fragans,Styrax americanus,Crataegus marshallii,Lilium columbianum,Vigna marina,Galax urceolata,Tradescantia ohiensis,Hexastylis shuttleworthii var. shuttleworthii,Vaccinium scoparium,Phlox stolonifera,Escobaria minima,Ptelea trifoliata,Gardenia brighamii,Erigeron maguirei,Sabal minor,Abronia umbellata,Chamaecrista fasciculata,Verbena urticifolia,Gladiolus,Oxydendrum arboreum,Acacia koa,Corallorhiza striata,Nigella bucharica,Kadua affinis,Mentzelia decapetala,Gaultheria shallon,Aconitum uncinatum,Bartonia texana,Helianthus microcephalus,Sabal causiarum,Canavalia kauaiensis,Mirabilis nyctaginea,Portulaca lutea,Helianthus annuus,Epipactis helleborine,Baptisia leucophaea,Oxalis violacea,Micranthes californica,Vaccinium vitis-idaea,Teucrium canadense,Symplocarpus foetidus,Mentha,Tumamoca macdougalii,Vaccinium calycinum,Asclepias lanceolata,Dalea candida,Cyrtandra platyphylla,Rhododendron macrophyllum,Eriogonum,Geranium pratense,Chelone glabra,Vaccinium ovatum,Nyssa sylvatica,Mentzelia multiflora,Boltonia caroliniana,Oenothera macrocarpa,Trillium erectum,Pityopsis graminifolia var. tenuifolia,Campanula rotundifolia,Echeandia pittieri,Ranunculus californicus,Symphoricarpos orbiculatus,Amsonia tabernaemontana,Schwalbea americana,Pityopsis graminifolia,Lipochaeta lobata,Physalis hispida,Sisyrinchium montanum,Magnolia annonifolia,Gelsemium rankinii,Trifolium fucatum,Monardella villosa,Sericocarpus,Melilotus albus,Hylotelephium telephioides,Cercis canadensis,Rhexia,Gleditsia triacanthos,Stylisma pickeringii var. pickeringii,Salix laevigata,Phytolacca sandwicensis,Spiraea douglasii,Hypericum densiflorum,Erythrina herbacea,Lobelia villosa,Pedicularis,Canavalia galeata,Liatris pauciflora,Anemone americana,Liatris ohlingerae,Sisyrinchium bellum,Lupinus nanus,Viola pedata
-Community 295[V2]: Hibiscus,Hibiscus dasycalyx,Hibiscus lasiocarpus
-Community 296[V2]: Ipomopsis globularis
-Community 297[V2]: Polygonella basiramia
-Community 298[V2]: Astragalus agnicidus
-Community 299[V2]: Apocynum androsaemifolium,Lysimachia
-Community 300[V2]: Solanum lycopersicum,Silene acaulis,Centaurea scabiosa,Teucrium scorodonia
-Community 301[V2]: Medicago,Cuphea
-Community 302[V2]: Dicerandra frutescens
-Community 303[V2]: Oenothera cinerea
-Community 304[V2]: Astrophytum asterias
-Community 305[V2]: Ajuga reptans,Thalictrum,Salvia mellifera,Astragalus schmolliae
-Community 306[V2]: Wyethia amplexicaulis,Apios priceana,Echinacea purpurea,Dicerandra,Pogogyne nudiuscula,Goetzea elegans,Paysonia,Physocarpus amurensis,Agnorhiza reticulata
-Community 307[V2]: Cordia multispicata
-Community 308[V2]: Alectryon ramiflorus,Coreopsis,Lythrum alatum,Lathyrus latifolius,Amoreuxia,Pilosocereus royenii
-Community 309[V2]: Melanthera nivea
-Community 310[V2]: Hypericum perforatum,Solanum melongena,Dicerandra frutescens var. immaculata,Echeandia,Solanum carolinense,Cypripedium arietinum,Pityopsis ruthii,Solanum violaceum,Agalinis decemloba,Lysimachia ciliata
-Community 311[V2]: Polygonatum biflorum,Capsicum frutescens,Cynoglossum officinale,Hybanthus,Crepis,Spiranthes parksii,Cistanthe umbellata,Convallaria majalis,Epilobium danielsii,Barbarea vulgaris,Warea carteri,Silene virginica,Rorippa nasturtium-aquatium,Myosotis,Pogogyne floribunda,Papaver orientale,Parnassia,Gentianella amarella ssp. acuta,Platanthera clavellata,Symphyotrichum novae-angliae,Polygonatum multiflorum,Lippia,Vicia faba,Physalis grisea,Alyssum alyssoides,Platycodon grandiflorus,Verbena,Turritis glabra,Arctostaphylos uva-ursi,Galium,Lepidium draba,Sibara filifolia,Buddleja lindleyana,Noccaea fendleri ssp. glauca,Persicaria pensylvanica,Synandra hispidula,Ageratina adenophora,Pseudophoenix,Arnica cordifolia,Liparis loeselii,Mirabilis jalapa,Lepidium meyenii,Capsella bursa-pastoris,Hackelia cronquistii,Pisum sativum,Corydalis flavula,Dodecahema leptoceras,Ageratum houstonianum,Physalis angulata,Lepidium chalepensis,Medicago lupulina,Physalis pubescens,Dalea purpurea var. purpurea,Nasturtium officinale,Alisma,Gayophytum diffusum,Verbascum thapus,Geranium molle,Platanthera aquilonis,Melilotus,Oreoxis alpina,Teucrium chamaedrys,Lepidium campestre,Castilleja campestris,Clarkia franciscana,Valerianella radiata,Argemone mexicana,Aplectrum hyemale,Portulaca oleracea,Castilleja cryptantha,Ageratum conyzoides
-Community 312[V2]: Arctomecon humilis
-Community 313[V2]: Marrubium vulgare,Desmodium paniculatum
-Community 314[V2]: Rudbeckia triloba,Cymopterus beckii,Brodiaea filifolia,Vaccinium macrocarpon,Acmispon dendroideus var. traskiae,Lobelia siphilitica,Aliciella pinnatifida,Physaria obcordata,Jepsonia parryi,Nepeta cataria,Sagittaria trifolia,Agave X arizonica,Cypripedium montanum,Helianthus,Rhynchospora,Purshia X subintegra,Cichorium intybus,Aliciella penstemonoides,Opuntia polyacantha,Fritillaria gentneri,Berberis pinnata ssp. pinnata,Eschscholzia californica,Harperocallis flava,Hibiscus moscheutos,Packera,Linaria vulgaris,Lepidium papilliferum,Echinodorus grandiflorus,Hypericum,Sida,Sabal bermudana,Echinocereus enneacanthus ssp. enneacanthus,Polygonatum commutatum,Campanula americana,Gilia achilleifolia,Gaylussacia baccata,Malvastrum,Sclerocactus,Rudbeckia auriculata
-Community 315[V2]: Zigadenus paniculatus
-Community 316[V2]: Nigella sativa
-Community 317[V2]: Foeniculum vulgare,Sesbania sesban,Impatiens trichocarpa,Impatiens cuspidata
-Community 318[V2]: Argemone pleiacantha,Asclepias welshii,Toxicodendron rydbergii
-Community 319[V2]: Dudleya,Aliciella cliffordii
-Community 320[V2]: Castanea,Tilia americana,Adiantum,Acer saccharinum,Plantago lanceolata,Forestiera,Celtis,Schoenoplectus acutus,Artemisia frigida,Sambucus nigra ssp. canadensis,Scirpus atrovirens,Ambrosia cheiranthifolia,Atriplex canescens var. gigantea,Amaranthus pumilus,Coprosma ernodeoides,Betula,Acer,Malva neglecta,Purshia tridentata,Torreya taxifolia,Asplenium scolopendrium,Carex,Amaranthus,Alnus,Alnus serrulata,Plantago major,Quercus hinckleyi,Helianthemum,Triglochin,Eupatorium,Fraxinus pensylvanica,Ginkgo,Coprosma pubens,Artemisia tridentata,Morus alba,Parthenium hysteroporus,Betula glandulosa,Ambrosia,Potamogeton,Ambrosia chamissonis,Ephedra,Hippuris,Koanophyllon palmeri,Vitis vinifera,Koanophyllon solidaginifolium,Castanea ozarkensis,Plantago,Artemisia ludoviciana,Rumex,Fraxinus,Koanophyllon solidaginoides,Neohintonia monantha,Schoenoplectus pungens,Cyclachaena xanthifolia,Artemisia dracunculus,Betula nigra,Rhynchospora macrostachya,Humulus,Arceuthobium,Abies fraseri,Platanus occidentalis,Corylus cornuta
-Community 321[V2]: Physalis philadelphica var. immaculata,Solanum dulcamara,Aster
-Community 322[V2]: Allium,Brassica napus
-Community 323[V2]: Ipomopsis
-Community 324[V2]: Hemerocallis fulva,Vernonia baldwinii
-Community 325[V2]: Arethusa bulbosa
-Community 326[V2]: Claytonia virginica
-Community 327[V2]: Dalea purpurea
-Community 328[V2]: Jacquemontia reclinata,Penstemon grahamii
-Community 329[V2]: Physalis
-Community 330[V2]: Echeandia macrocarpa
-Community 331[V2]: Nelumbo,Nuphar,Nymphaea
-Community 332[V2]: Lilium grayi,Spigelia marilandica,Silene regia
-Community 333[V2]: Erythrina velutina
-Community 334[V2]: Desmodium,Kallstroemia grandiflora
-Community 335[V2]: Hackelia venusta
-Community 336[V2]: Paeonia brownii,Dipsacus,Lomatium dissectum,Oenothera cespitosa,Corallorhiza maculata,Erythronium grandiflorum ssp. grandiflorum,Parnassia glauca
-Community 337[V2]: Vaccinium corymbosum,Vaccinium
-Community 338[V2]: Layia platyglossa,Lomatium macrocarpum,Lasthenia californica,Linanthus androsaceus
-Community 339[V2]: Erigeron decumbens
-Community 340[V2]: Goodyera repens
-Community 341[V2]: Ailanthus altissima,Eriogonum ovalifolium var. vineum,Heracleum sphondylium ssp. montanum,Ranunculus,Dryas octopetala,Myosotis colensoi
-Community 342[V2]: Lobularia maritima
-Community 343[V2]: Euphorbia esula,Clematis ligusticifolia
-Community 344[V2]: Neottia cordata
-Community 345[V2]: Sabal etonia,Heterotheca subaxillaris
-Community 346[V2]: Clermontia pyrularia,Cyanea shipmanii,Clermontia lindseyana
-Community 347[V2]: Arctostaphylos pungens,Rosa
-Community 348[V2]: Malaxis unifolia
-Community 349[V2]: Acanthomintha ilicifolia
-Community 350[V2]: Pogogyne abramsii,Deinandra fasticulata
-Community 351[V2]: Paronychia pulvinata
-Community 352[V2]: Penstemon griffinii,Penstemon caryi,Penstemon debilis
-Community 353[V2]: Townsendia aprica
-Community 354[V2]: Arceuthobium americanum
-Community 355[V2]: Chloropyron maritimum ssp. maritimus
-Community 356[V2]: Malva moschata,Dianthus deltoides
-Community 357[V2]: Clematis stans
-Community 358[V2]: Dalea ornata,Dalea searlsiae
-Community 359[V2]: Viburnum
-Community 360[V2]: Adolphia infesta,Daucus carota
-Community 361[V2]: Mirabilis multiflora,Mirabilis longiflora
-Community 362[V2]: Penstemon
-Community 363[V2]: Amorpha canescens,Brodiaea pallida,Cryptantha,Amorpha,Thermopsis lanceolata,Astragalus flexuosus
-Community 364[V2]: Oxytropis campestris var. chartacea,Primula parryi,Primula angustifolia
-Community 365[V2]: Sesbania
-Community 366[V2]: Cucumis sativus
-Community 367[V2]: Tiarella cordifolia,Arnica fulgens,Bidens cosmoides,Minuartia glabra,Erigeron kachinensis,Cerastium arvense,Bidens hawaiensis,Helianthus hirsutus,Cardamine concatenata,Minuartia uniflora,Lithophragma parviflorum,Bidens torta,Muscari botryoides,Dudleya brevifolia,Thalictrum dasycarpum,Primula
-Community 368[V2]: Agave,Crescentia alata
-Community 369[V2]: Geum peckii
-Community 370[V2]: Saussurea weberi
-Community 371[V2]: Lilium pardalinum,Lilium philadelphicum
-Community 372[V2]: Abronia macrocarpa
-Community 373[V2]: Mitracarpus
-Community 374[V2]: Antirrhinum
-Community 375[V2]: Ribes cereum,Viola canadensis var. scopulorum
-Community 376[V2]: Stenogyne kanehoana
-Community 377[V2]: Tropaeolum tricolor
-Community 378[V2]: Cirsium pumilum var. hillii
-Community 379[V2]: Amsinckia grandiflora
-Community 380[V2]: Yucca angustissima,Yucca filamentosa
-Community 381[V2]: Magnolia virginiana
-Community 382[V2]: Nototrichium sandwicense
-Community 383[V2]: Cypripedium fasciculatum
-Community 384[V2]: Leucocrinum montanum
-Community 385[V2]: Astragalus humillimus
-Community 386[V2]: Liparis liliifolia
-Community 387[V2]: Cnidoscolus texanus,Viburnum opulus,Peniocereus striatus
-Community 388[V2]: Phlox pilosa,Phlox glaberrima
-Community 389[V2]: Astragalus applegatei
-Community 390[V2]: Stellaria media
-Community 391[V2]: Penstemon haydenii
-Community 392[V2]: Tillandsia macropetala
-Community 393[V2]: Napaea dioica,Asclepias hirtella,Asclepias meadii,Asclepias viridiflora
-Community 394[V2]: Nasturtium gambelii
-Community 395[V2]: Heuchera
-Community 396[V2]: Pyxidanthera brevifolia
-Community 397[V2]: Parnassia palustris
-Community 398[V2]: Dianthus gratianopolitanus
-Community 399[V2]: Cucurbita
-Community 400[V2]: Cnidoscolus urens
-Community 401[V2]: Yucca
-Community 402[V2]: Platanthera dilatata
-Community 403[V2]: Packera fendleri
-Community 404[V2]: Draba,Bonamia grandiflora
-Community 405[V2]: Mitracarpus maxwelliae
-Community 406[V2]: Hymenoxys richardsonii
-Community 407[V2]: Cypripedium parviflorum var. makasin,Cypripedium parviflorum var. pubescens
-Community 408[V2]: Clematis
-Community 409[V2]: Amsonia grandiflora
-Community 410[V2]: Canna indica
-Community 411[V2]: Abutilon indicum,Medicago sativa,Astragalus
-Community 412[V2]: Petunia axillaris
-Community 413[V2]: Platanthera flava
+Community 227[V2]: Tropaeolum majus,Castilleja foliolosa,Rhododendron canadense,Peritoma arborea var. arborea,Penstemon centranthifolius,Rhododendron atlanticum,Stachys chamissonis,Penstemon payettensis,Tellima grandiflora,Silene laciniata,Polemonium brandegeei,Lycium pallidum,Brodiaea venusta,Kalmia latifolia,Monarda didyma,Diervilla sessilifolia,Scrophularia macrantha,Iris cristata,Penstemon procerus,Pedicularis densiflora,Aquilegia canadensis,Arctostaphylos edmundsii,Bignonia capreolata,Campsis radicans,Dicentra eximia,Physistegia digitalis,Mimulus eastwoodiae,Rhododendron catawbiense,Lonicera involucrata,Rhododendron arborescens,Chelone lyonii,Ipomoea sagittata,Lycium andersonii,Penstemon eatonii,Salvia leucophylla,Hibiscus moscheutos ssp. moscheutos,Heteromeles arbutifolia,Castilleja rhexiifolia,Sambucus racemosa,Penstemon smalli,Actaea racemosa,Heuchera villosa,Lilium canadense,Castilleja miniata,Penstemon whippleanus,Liatris spicata,Dudleya anthonyi,Ipomopsis aggregata ssp. formosissima,Epilobium canum,Rhododendron austrinum,Astragalus coccineus,Liatris spicata var. spicata,Delphinium recurvatum,Illicium floridanum,Rhododendron maximum,Castilleja kaibabensis,Ribes menziesii,Lilium michauxii,Keckiella antirrhinoides,Castilleja integra,Castilleja affinis,Oenothera suffrutescens,Actaea podocarpa,Brodiaea ida-maia,Aesculus pavia,Asclepias tuberosa,Delphinium nudicaule,Mimulus dentatus,Coreopsis pubescens,Diplacus aurantiacus,Monardella macrantha,Lonicera sempervirens,Lilium superbum,Dicentra chrysantha,Philadelphus pubescens,Malacothamnus fasciculatus,Bouvardia ternifolia,Rhododendron calendulaceum,Delphinium cardinale,Penstemon canescens,Castilleja exserta,Penstemon virgatus,Malva assurgentiflora,Dudleya pulverulenta,Scrophularia californica,Lilium occidentale,Pedicularis procera,Arbutus menziesii,Dudleya cymosa,Lathyrus vestitus var. ochropetalus,Aesculus flava,Ipomoea coccinea,Aliciella subnuda,Mertensia virginica,Ipomoea quamoclit,Dudleya palmeri,Ipomoea hederifolia,Pritchardia thurstonii,Ribes speciosum,Rhododendron minus var. minus,Castilleja linariifolia,Aquilegia elegantula,Penstemon barbatus,Castilleja angustifolia var. dubia,Ribes quercetorum,Erythrina pallida,Clethra alnifolia,Salvia carduacea,Lonicera hispidula,Aquilegia formosa,Castilleja lanata
+Community 228[V2]: Erigeron kachinensis,Lithophragma parviflorum,Minuartia glabra,Minuartia uniflora,Helianthus hirsutus,Bidens torta,Cerastium arvense,Muscari botryoides,Arnica fulgens,Thalictrum dasycarpum,Cardamine concatenata,Tiarella cordifolia,Dudleya brevifolia,Bidens hawaiensis
+Community 229[V2]: Arctostaphylos uva-ursi,Lantana camara,Cynoglossum officinale,Ageratum conyzoides
+Community 230[V2]: Rhus glabra,Tagetes erecta,Robinia pseudoacacia,Echinacea angustifolia,Fragaria chiloensis,Corydalis ambigua,Dieteria canescens,Papaver rhoeas,Mentha pulegium,Lythrum salicaria,Ilex collina,Tradescantia occidentalis,Ratibida columnifera,Rubus arcticus,Lupinus westianus var. aridorum,Cirsium arvense,Raphanus raphanistrum,Origanum vulgare,Swertia przewalskii,Clethra acuminata,Vernonia noveboracensis,Nolina greenei,Pediocactus knowltonii,Elaeagnus angustifolia,Phaseolus coccineus,Antirrhinum majus,Cleome lutea,Agastache pallidiflora,Flueggea leucopyrus,Styrax grandifolius,Raphanus sativus,Phemeranthus calycinus,Prunus amygdalus,Spiraea japonica,Rhus sandwicensis,Perovskia atriplicifolia,Stokesia laevis,Asparagus officinalis,Securigera varia,Rhus typhina,Lavandula angustifolia
+Community 231[V2]: Kallstroemia grandiflora
+Community 232[V2]: Desmodium paniculatum,Conradina verticillata,Asclepias purpurascens,Asclepias uncialis,Marrubium vulgare
+Community 233[V2]: Trifolium pratense,Iris pseudacoris
+Community 234[V2]: Arctostaphylos pungens
+Community 235[V2]: Stellaria media
+Community 236[V2]: Epipactis thunbergii,Rhodiola integrifolia ssp. leedyi,Arctostaphylos pringlei,Sisyrinchium vaginatum,Berteroa incana,Calystegia sepium,Arctostaphylos glandulosa ssp. mollis,Lycium barbarum,Jepsonia parryi,Eriophyllum latilobum,Sagittaria trifolia,Limonium otolepis,Symphoricarpos albus,Ipomopsis aggregata,Ceanothus fendleri,Hesperidanthus suffrutescens,Hesperis matronalis,Shepherdia canadensis,Stachys tenuifolia
+Community 237[V2]: Cucumis sativus
+Community 238[V2]: Asclepias exaltata
+Community 239[V2]: Dicerandra frutescens
+Community 240[V2]: Eupatorium cannabinum,Liatris gracilis,Liatris laevigata,Onopordum acanthium,Sonchus arvensis,Eutrochium purpureum,Liatris tenuifolia
+Community 241[V2]: Medicago lupulina,Epilobium danielsii,Verbascum thapus,Buddleja lindleyana,Physalis grisea,Polygonatum multiflorum,Portulaca oleracea,Lepidium chalepensis,Clarkia franciscana,Symphyotrichum novae-angliae,Lepidium meyenii,Castilleja campestris,Lepidium draba,Oreoxis alpina,Pogogyne floribunda,Pisum sativum,Platanthera aquilonis,Barbarea vulgaris,Vicia faba,Nasturtium officinale,Papaver orientale,Arnica cordifolia,Convallaria majalis,Silene virginica,Platanthera clavellata,Aplectrum hyemale,Gayophytum diffusum,Castilleja cryptantha,Mirabilis jalapa,Spiranthes parksii,Dodecahema leptoceras,Hackelia cronquistii,Alyssum alyssoides,Gentianella amarella ssp. acuta,Sibara filifolia,Polygonatum biflorum,Cistanthe umbellata,Liparis loeselii,Teucrium chamaedrys,Synandra hispidula,Noccaea fendleri ssp. glauca,Persicaria pensylvanica,Physalis pubescens,Dalea purpurea var. purpurea,Valerianella radiata,Turritis glabra,Argemone mexicana,Lepidium campestre,Corydalis flavula,Rorippa nasturtium-aquatium,Geranium molle,Ageratina adenophora,Ageratum houstonianum,Physalis angulata,Warea carteri,Capsella bursa-pastoris,Platycodon grandiflorus
+Community 242[V2]: Platanthera ciliaris,Liatris aspera,Berberis nevinii
+Community 243[V2]: Apocynum androsaemifolium,Dryas octopetala,Eriogonum ovalifolium var. vineum,Ailanthus altissima,Heracleum sphondylium ssp. montanum,Myosotis colensoi
+Community 244[V2]: Agave parryi,Manfreda brachystacha,Agave americana,Mezonevron kavaiense,Agave palmeri
+Community 245[V2]: Fremontodendron decumbens
+Community 246[V2]: Hackelia venusta
+Community 247[V2]: Cypripedium acaule
+Community 248[V2]: Phacelia campanularia,Limonium vulgare
+Community 249[V2]: Geum peckii
+Community 250[V2]: Hydrophyllum canadense,Silene spaldingii
+Community 251[V2]: Lasthenia californica,Linanthus androsaceus,Lomatium macrocarpum,Layia platyglossa
+Community 252[V2]: Trichostema lanceolatum
+Community 253[V2]: Oxytropis campestris var. chartacea,Primula parryi,Primula angustifolia
+Community 254[V2]: Vaccinium corymbosum
+Community 255[V2]: Clinopodium ashei
+Community 256[V2]: Desmodium setigerum
+Community 257[V2]: Penstemon haydenii
+Community 258[V2]: Isotria verticillata
+Community 259[V2]: Eucephalus vialis
+Community 260[V2]: Medicago sativa,Abutilon indicum
+Community 261[V2]: Abronia macrocarpa
+Community 262[V2]: Jacquemontia reclinata
+Community 263[V2]: Aconitum columbianum,Hymenoxys grandiflora,Delphinium nuttallianum,Delphinium barbeyi,Corydalis caseana,Astragalus americanus,Oxytropis sericea,Hedysarum boreale
+Community 264[V2]: Cypripedium parviflorum var. parviflorum,Cypripedium reginae
+Community 265[V2]: Goetzea elegans,Wyethia amplexicaulis,Echinacea purpurea,Physocarpus amurensis,Pogogyne nudiuscula,Apios priceana,Agnorhiza reticulata
+Community 266[V2]: Physalis philadelphica var. immaculata,Solanum dulcamara
+Community 267[V2]: Oenothera cinerea
+Community 268[V2]: Boltonia decurrens,Boltonia asteroides
+Community 269[V2]: Acanthomintha ilicifolia
+Community 270[V2]: Calochortus macrocarpus var. maculosus
+Community 271[V2]: Potentilla gracilis,Potentilla recta
+Community 272[V2]: Sphaeralcea coccinea,Actaea arizonica
+Community 273[V2]: Astragalus flexuosus,Amorpha canescens
+Community 274[V2]: Saponaria officinalis,Silene flos-cuculi,Convolvulus arvensis,Silene latifolia,Silene vulgaris
+Community 275[V2]: Deinandra fasticulata,Pogogyne abramsii
+Community 276[V2]: Brassica napus,Physaria filiformis
+Community 277[V2]: Verbena hastata
+Community 278[V2]: Rudbeckia triloba
+Community 279[V2]: Spiranthes diluvialis,Fremontodendron mexicanum,Trillium texanum,Sclerocactus brevihamatus ssp. tobuschii,Apios americana,Lippia graveolens,Shortia galacifolia,Ludwigia grandiflora
+Community 280[V2]: Agalinis decemloba,Solanum melongena,Solanum carolinense,Solanum violaceum,Mimulus ringens,Dicerandra frutescens var. immaculata,Pityopsis ruthii
+Community 281[V2]: Opuntia macrocentra
+Community 282[V2]: Pontederia cordata
+Community 283[V2]: Silene acaulis,Teucrium scorodonia,Solanum lycopersicum,Centaurea scabiosa
+Community 284[V2]: Townsendia aprica
+Community 285[V2]: Platanthera flava
+Community 286[V2]: Scrophularia nodosa
+Community 287[V2]: Helianthella quinquenervis,Asclepias welshii,Rudbeckia occidentalis
+Community 288[V2]: Cypripedium arietinum,Hypericum perforatum,Sabal mauritiiformis,Lysimachia ciliata
+Community 289[V2]: Amsinckia grandiflora
+Community 290[V2]: Lathyrus latifolius,Alectryon ramiflorus,Pilosocereus royenii,Lythrum alatum
+Community 291[V2]: Dalea ornata,Dalea searlsiae
+Community 292[V2]: Salvia splendens,Stachys sylvatica
+Community 293[V2]: Neottia cordata
+Community 294[V2]: Echeandia macrocarpa
+Community 295[V2]: Heliotropium anomalum,Rudbeckia laciniata,Ludwigia peploides ssp. glabrescens,Carduus nutans,Platanthera hookeri
+Community 296[V2]: Erythronium albidum,Erythronium propullans,Erythronium japonicum
+Community 297[V2]: Arctomecon humilis
+Community 298[V2]: Dianthus sylvestris
+Community 299[V2]: Hemerocallis fulva
+Community 300[V2]: Cnidoscolus urens
+Community 301[V2]: Dianthus carthusianorum
+Community 302[V2]: Triphysaria pusilla,Cornus sericea ssp. sericea,Trifolium repens,Euonymus americanus,Lavandula latifolia,Alyssum maritimum,Polygonum cascadense,Salvia farinacea,Dudleya greenei,Phoradendron serotinum,Allium gooddingii,Maianthemum racemosum,Flueggea virosa,Symphyotrichum laeve var. concinnum,Toxicodendron rydbergii,Psoralea esculenta,Ludwigia elegans,Linum lewisii,Conyza canadensis,Cuscuta epithymum,Coreopsis grandiflora,Argemone pleiacantha,Comandra umbellata,Lactuca serriola,Warea amplexifolia,Ranunculus acriformis var. aestivalis,Anacardium occidentale,Lonicera alpigena,Cirsium vulgare,Lupinus oreganus,Ephedra aphylla,Lindera melissifolia,Ephedra campylopoda
+Community 303[V2]: Ageratina aromatica
+Community 304[V2]: Cyanea pinnatifida,Cyanea leptostegia,Hibiscadelphus giffardianus
+Community 305[V2]: Castilleja levisecta,Chloropyron palmatum,Downingia cuspidata,Castilleja hispida
+Community 306[V2]: Packera fendleri
+Community 307[V2]: Polygonella basiramia
+Community 308[V2]: Tillandsia macropetala
+Community 309[V2]: Lilium pardalinum,Lilium philadelphicum
+Community 310[V2]: Liparis liliifolia
+Community 311[V2]: Stylisma pickeringii var. pattersonii
+Community 312[V2]: Melanthera nivea
+Community 313[V2]: Arceuthobium americanum
+Community 314[V2]: Saussurea weberi
+Community 315[V2]: Iliamna remota,Pycnanthemum tenuifolium
+Community 316[V2]: Mitracarpus maxwelliae
+Community 317[V2]: Ipomopsis globularis
+Community 318[V2]: Solidago altissima
+Community 319[V2]: Trillium ovatum
+Community 320[V2]: Lomatium dissectum,Corallorhiza maculata,Vaccinium macrocarpon,Paeonia brownii,Oenothera cespitosa,Parnassia glauca,Erythronium grandiflorum ssp. grandiflorum
+Community 321[V2]: Cypripedium fasciculatum
+Community 322[V2]: Lithospermum caroliniense
+Community 323[V2]: Magnolia virginiana
+Community 324[V2]: Arceuthobium campylopodum,Arceuthobium vaginatum ssp. cryptopodum
+Community 325[V2]: Argemone hispida
+Community 326[V2]: Cirsium pumilum var. hillii
+Community 327[V2]: Sabal palmetto,Synthyris bullii,Goodyera pubescens
+Community 328[V2]: Cnidoscolus texanus,Peniocereus striatus,Viburnum opulus
+Community 329[V2]: Clarkia xantiana
+Community 330[V2]: Leucocrinum montanum
+Community 331[V2]: Hybanthus prunifolius
+Community 332[V2]: Erigeron decumbens
+Community 333[V2]: Lonicera japonica,Hemerocallis citrina
+Community 334[V2]: Spigelia marilandica,Lilium grayi,Silene regia
+Community 335[V2]: Astragalus brauntonii,Prunus virginiana,Penstemon degeneri,Thymophylla tephroleuca,Baccharis salicina
+Community 336[V2]: Narcissus pseudonarcissus,Narthecium asiaticum
+Community 337[V2]: Goodyera oblongifolia,Astragalus agnicidus
+Community 338[V2]: Zigadenus paniculatus
+Community 339[V2]: Magnolia ashei
+Community 340[V2]: Astrophytum asterias
+Community 341[V2]: Echinodorus longipetalus
+Community 342[V2]: Dianthus gratianopolitanus
+Community 343[V2]: Malaxis unifolia
+Community 344[V2]: Polygala lewtonii
+Community 345[V2]: Cypripedium parviflorum var. makasin,Cypripedium parviflorum var. pubescens
+Community 346[V2]: Hibiscus dasycalyx,Hibiscus lasiocarpus
+Community 347[V2]: Petunia axillaris
+Community 348[V2]: Dudleya multicaulis
+Community 349[V2]: Bonamia grandiflora
+Community 350[V2]: Impatiens cuspidata
+Community 351[V2]: Lygodesmia juncea,Opuntia polyacantha,Oxytropis lambertii,Amaranthus palmeri
+Community 352[V2]: Amsonia grandiflora
+Community 353[V2]: Ribes cereum,Viola canadensis var. scopulorum
+Community 354[V2]: Cyanea shipmanii,Clermontia pyrularia,Clermontia lindseyana
+Community 355[V2]: Erythrina poeppigiana,Erythrina fusca
+Community 356[V2]: Lupinus pilosus,Corydalis cava,Polygonatum odoratum,Anagallis arvensis,Erodium cicutarium
+Community 357[V2]: Claytonia virginica
+Community 358[V2]: Cucurbita pepo
+Community 359[V2]: Goodyera repens
+Community 360[V2]: Lysimachia punctata
+Community 361[V2]: Erythrina velutina
+Community 362[V2]: Astragalus applegatei
+Community 363[V2]: Clematis stans
+Community 364[V2]: Dalea purpurea
+Community 365[V2]: Stenogyne kanehoana
+Community 366[V2]: Pholisma sonorae
+Community 367[V2]: Astragalus humillimus
+Community 368[V2]: Nototrichium sandwicense
+Community 369[V2]: Hymenoxys richardsonii
+Community 370[V2]: Yucca filamentosa,Yucca angustissima
+Community 371[V2]: Geum radiatum
+Community 372[V2]: Pyxidanthera brevifolia
+Community 373[V2]: Mirabilis multiflora,Mirabilis longiflora
+Community 374[V2]: Canna indica
+Community 375[V2]: Tropaeolum tricolor
+Community 376[V2]: Aliciella cliffordii
+Community 377[V2]: Paronychia pulvinata
+Community 378[V2]: Cordia multispicata
+Community 379[V2]: Nasturtium gambelii
 
-Singletons Partition V1: 67
-Singletons Partition V2: 108
-0,1,2,3,4,101,5,33,6,33,7,33,33,8,9,73,73,10,11,12,33,13,14,33,33,16,17,18,19,20,33,8,191,8,21,22,23,24,94,166,170,181,172,95,25,27,26,196,27,28,6,29,82,18,30,73,101,2,64,15,31,32,33,34,25,32,35,36,150,82,78,6,150,70,39,37,38,39,40,126,42,42,41,42,73,43,28,44,1,87,45,46,47,42,48,49,41,50,51,52,53,54,55,102,33,56,57,58,59,60,61,170,62,63,64,25,27,65,66,67,53,68,69,70,71,73,72,8,73,8,196,171,101,75,101,18,76,1,77,8,2,37,78,35,76,73,79,80,81,24,25,2,40,82,101,122,6,170,34,83,66,33,84,85,86,2,87,135,88,89,126,54,29,90,27,91,45,92,11,93,94,95,96,97,90,98,24,126,65,99,33,100,135,33,101,102,54,0,82,37,126,79,170,71,44,143,103,33,104,99,1,8,70,54,55,51,101,24,105,106,39,107,107,108,21,5,109,93,35,167,95,110,146,39,111,112,12,113,99,96,34,18,129,101,8,69,114,12,1,115,39,3,42,116,32,117,118,119,27,54,60,120,82,51,12,139,121,115,82,155,46,56,122,86,45,123,124,42,45,50,14,41,54,125,33,126,167,127,33,128,53,73,13,60,95,27,167,70,129,39,130,135,131,1,132,133,90,3,164,74,61,8,134,95,93,42,61,13,85,130,99,73,23,145,119,146,101,136,73,72,73,137,104,98,138,166,66,42,121,189,139,140,117,99,101,141,70,39,58,82,74,66,24,166,73,142,169,143,144,18,31,145,100,126,100,13,94,146,1,73,41,147,148,149,150,27,151,33,42,152,101,135,121,39,96,74,72,32,153,154,10,39,155,86,19,2,42,156,140,157,126,133,144,148,33,122,60,132,96,135,169,126,26,122,122,73,119,184,28,149,86,142,158,157,101,125,78,32,159,101,65,183,59,160,93,2,114,161,162,163,158,150,18,33,164,165,153,95,166,78,167,168,169,24,170,73,171,73,172,21,173,86,39,69,174,1,33,54,175,176,40,122,177,12,152,178,10,60,174,33,179,60,180,181,169,101,1,140,1,157,106,135,20,182,178,91,98,169,168,126,13,183,184,137,185,46,20,1,186,147,27,40,98,170,187,188,44,72,70,89,33,1,126,101,25,82,73,138,87,141,13,183,180,70,39,164,152,86,189,39,54,190,126,191,45,47,192,113,139,13,13,193,11,149,193,169,57,171,92,119,113,10,121,155,130,194,195,35,33,152,105,146,190,196,39,8,24,13,34,99,51,152,37,17,186,114,197,35,70,198,1,33,10,6,199,83,100,35,33,24,133,158,73,30,79,74,200,33,99,140,129,68,126,165,99,171,11,33,201,35,25,23,202,130,135,203,33,54,204,110,135,146,39,147,35,98,25,73,101,25,99,129,114,101,24,73,149,142,13,33,18,13,101,205,100,206,25,37,55,10,50,320,207,237,208,209,210,211,320,248,211,212,294,294,276,294,294,294,213,314,294,294,294,294,294,214,215,294,216,367,334,240,294,211,294,294,294,294,217,320,294,218,294,294,215,211,219,220,221,367,221,294,294,276,222,314,276,223,294,294,224,211,294,225,226,211,294,227,294,314,228,294,248,229,321,294,320,237,289,294,311,314,313,294,294,294,294,215,230,294,292,235,231,232,314,233,294,292,294,294,227,292,294,294,294,292,292,234,235,294,294,363,292,248,294,211,236,294,294,294,341,294,311,294,319,294,237,292,311,294,238,272,239,240,294,294,266,241,294,367,242,320,294,294,294,243,294,244,294,245,294,294,211,294,246,294,294,294,294,247,294,341,314,248,293,294,248,294,294,292,294,248,249,294,215,342,308,294,250,251,215,215,311,227,294,248,252,317,305,211,294,247,236,311,294,294,293,294,294,320,294,253,294,294,311,314,294,294,254,215,211,363,255,294,211,211,294,306,294,294,211,320,227,305,256,314,293,257,258,294,259,215,211,310,294,227,310,294,261,211,294,262,263,294,294,294,211,217,294,232,320,294,235,237,264,227,294,265,265,293,211,294,292,211,211,267,268,294,294,375,293,294,269,294,270,294,211,211,293,314,294,227,231,294,311,317,320,211,294,249,393,294,320,294,294,211,294,311,271,294,311,320,272,294,294,294,294,311,242,211,211,273,288,294,274,294,275,294,294,211,276,277,320,294,294,227,278,260,247,294,294,336,279,260,294,237,294,211,294,215,280,328,281,265,294,227,314,294,314,292,294,211,294,294,282,311,294,294,278,276,294,294,294,210,294,293,211,211,308,320,211,283,294,211,215,211,294,294,284,227,294,211,294,294,294,314,294,211,285,294,294,211,227,286,287,294,294,294,292,294,294,364,211,294,294,294,289,336,290,237,294,291,294,292,294,314,293,321,294,294,295,294,294,294,215,251,314,223,295,262,294,292,211,227,215,296,297,314,294,294,215,397,243,293,219,294,292,284,294,294,294,211,215,294,294,320,298,294,299,294,227,227,300,301,294,294,215,294,211,215,251,294,294,294,302,276,294,320,294,314,367,303,294,304,345,294,305,292,265,306,311,307,311,248,294,308,320,294,237,294,311,211,294,299,292,211,309,294,294,294,284,271,367,294,294,310,294,294,312,248,294,211,231,211,294,313,294,294,284,294,294,314,306,314,294,314,294,294,311,294,294,315,294,294,294,213,314,294,294,308,316,293,294,367,294,293,294,311,294,317,317,211,314,294,294,294,294,294,318,294,367,336,319,318,294,276,393,294,265,294,320,320,311,356,211,294,294,314,294,294,231,293,321,294,211,227,322,407,323,294,324,320,294,207,276,294,294,294,294,320,294,294,294,293,211,294,284,294,227,294,311,215,294,294,294,325,305,326,265,294,294,227,294,294,293,327,231,294,294,294,320,294,328,294,329,294,320,311,294,294,341,294,294,294,211,211,294,276,294,330,294,294,211,211,294,331,294,237,265,227,367,393,294,294,292,211,294,294,294,311,332,333,311,211,294,320,294,294,265,367,320,334,335,294,294,294,294,293,258,320,294,294,294,294,294,294,311,241,211,294,294,294,387,211,227,227,320,320,265,311,322,294,294,248,227,294,294,294,411,294,314,293,336,337,294,248,292,263,338,294,294,276,211,294,211,221,339,211,340,294,314,311,294,294,217,227,287,294,294,294,294,294,211,227,294,341,211,294,231,300,211,221,306,294,311,294,324,294,292,294,294,294,211,227,338,292,294,294,331,294,343,344,227,411,294,294,361,211,294,371,294,256,211,310,211,294,211,301,345,294,227,346,285,294,294,311,227,211,294,294,294,227,292,294,215,311,211,251,284,294,294,211,294,294,294,211,253,294,294,294,347,311,294,294,294,211,294,294,348,287,349,306,308,294,294,294,294,272,294,294,350,211,284,294,292,294,294,294,211,292,351,294,294,352,294,311,294,292,311,227,294,227,237,294,294,294,292,294,294,294,294,311,294,293,237,294,353,367,265,320,292,294,294,294,294,294,294,294,294,252,354,300,211,294,355,294,211,265,294,294,292,211,215,294,294,294,294,310,294,294,320,332,292,356,294,294,294,306,216,211,211,237,294,292,314,294,294,294,294,294,294,311,294,294,294,357,294,294,311,211,215,311,294,294,294,211,338,294,294,294,294,293,227,311,211,336,292,294,215,294,294,311,358,294,314,294,352,359,294,215,294,294,294,249,295,314,294,320,294,294,253,211,256,227,341,360,227,292,363,207,293,294,294,338,361,311,227,284,294,224,294,271,311,211,294,292,294,294,294,271,294,314,294,294,320,227,294,227,314,294,362,294,294,363,294,294,311,215,294,294,364,320,320,294,211,248,294,314,365,366,343,211,367,358,320,248,294,292,311,294,294,231,368,248,211,294,311,294,294,294,314,292,211,369,320,370,227,336,227,371,294,372,294,294,294,294,320,215,211,292,311,294,292,294,367,294,294,373,294,294,294,294,294,314,374,306,251,294,294,294,294,294,352,294,294,231,248,294,360,292,294,294,294,294,294,294,294,265,320,211,294,294,211,375,376,294,215,294,294,294,294,294,294,294,294,292,294,247,292,377,294,294,368,367,215,364,294,294,331,314,294,294,294,288,294,294,294,294,320,311,294,244,294,294,294,294,294,227,320,294,293,294,228,294,294,294,294,292,294,227,294,294,286,237,294,294,294,294,311,294,294,294,294,292,294,378,294,215,215,294,294,294,311,379,294,294,337,350,311,380,294,320,294,381,294,294,293,211,382,211,383,211,253,320,384,294,292,320,294,211,249,294,294,310,294,252,311,311,211,294,211,292,229,294,294,294,211,294,294,294,294,294,332,293,227,294,294,294,294,294,385,294,294,294,294,320,294,211,211,294,272,294,292,294,294,318,311,311,311,314,320,211,292,292,294,294,294,367,294,311,215,292,386,294,253,294,247,363,314,387,294,294,248,294,294,211,248,294,294,388,294,389,347,294,294,294,294,294,387,294,390,292,294,294,292,294,294,227,311,311,294,311,294,294,391,294,294,294,294,292,294,227,294,294,237,320,294,294,363,294,294,215,311,294,311,294,392,224,294,292,293,294,393,294,294,294,306,294,211,294,394,294,294,367,211,314,294,294,395,211,294,396,292,211,294,271,341,294,294,294,294,294,227,294,294,294,346,292,294,294,292,227,294,294,294,211,294,290,294,294,320,314,294,294,294,294,294,292,294,294,292,292,294,294,292,294,294,294,300,346,320,294,294,294,310,227,294,294,248,311,265,320,294,320,294,294,294,262,294,294,398,294,294,310,294,294,399,249,294,336,211,294,292,292,294,311,294,314,227,294,320,294,294,294,400,294,211,292,292,286,294,294,401,294,211,292,215,294,211,320,294,320,311,294,272,265,311,265,290,211,294,211,294,292,292,294,292,294,294,248,367,294,294,311,314,251,402,294,211,294,227,211,403,294,294,311,211,320,294,404,294,294,265,405,294,294,294,294,211,294,294,294,311,310,406,311,252,320,294,294,294,294,227,407,311,294,294,320,211,408,211,211,320,294,294,409,211,310,292,294,292,294,410,294,320,294,294,231,292,215,294,294,294,294,320,287,294,211,294,388,211,294,311,320,248,320,294,215,294,294,311,294,294,294,294,294,411,294,294,311,294,211,311,294,306,404,294,294,294,308,294,320,320,294,412,294,294,311,294,413,380,293,211
+Singletons Partition V1: 60
+Singletons Partition V2: 103
+85,0,0,68,37,2,3,119,4,5,6,0,7,8,184,0,0,156,9,188,100,10,147,11,86,13,14,1,15,16,17,18,17,0,162,0,45,19,0,6,20,183,21,22,23,24,25,26,9,129,27,28,116,45,29,30,147,0,37,31,32,0,68,33,34,35,36,0,37,187,117,37,38,187,39,40,41,187,42,43,44,45,46,18,47,48,49,27,50,37,51,52,53,26,54,166,55,18,0,27,187,68,187,56,57,58,18,59,18,60,57,61,62,34,0,108,63,64,65,66,67,68,156,184,136,69,70,90,71,72,104,73,74,75,55,76,156,25,0,0,77,48,47,0,85,70,78,21,79,76,72,80,11,108,5,81,82,76,58,83,84,85,37,50,9,0,86,52,64,137,59,87,57,88,89,90,83,45,8,38,91,12,92,87,100,0,93,94,95,52,12,45,129,100,96,97,83,155,99,100,4,101,48,0,81,6,64,118,45,0,17,102,103,104,5,162,7,131,104,0,105,106,103,147,107,108,1,48,82,109,110,111,52,15,0,112,25,9,113,56,48,53,38,162,85,114,115,166,7,6,116,117,18,78,55,118,135,183,76,64,119,67,27,120,45,2,156,94,0,121,122,117,70,37,25,48,123,17,124,36,64,125,18,162,110,126,127,18,22,48,128,76,129,130,131,132,133,96,134,13,124,122,135,136,137,2,24,99,10,85,138,139,139,12,71,10,46,98,140,86,66,141,28,142,23,70,88,45,52,80,45,138,18,143,27,153,65,144,0,28,28,127,145,146,26,82,95,86,6,147,7,148,47,83,45,6,73,70,149,150,76,104,115,151,183,139,69,183,147,152,82,36,153,25,77,68,53,144,45,76,122,148,2,58,116,154,2,155,156,25,6,0,113,157,52,148,34,42,187,188,51,158,12,0,159,70,158,127,58,138,160,76,161,10,162,163,72,151,53,164,165,166,52,167,168,156,123,8,64,11,34,41,25,169,47,75,124,170,50,45,129,27,76,123,43,171,53,48,52,9,100,85,101,7,2,100,2,4,52,68,57,138,94,172,147,106,155,70,104,173,37,92,103,167,32,27,48,92,7,59,170,174,76,68,100,175,171,71,111,8,100,176,115,78,177,21,178,132,80,179,176,180,151,162,161,64,117,27,82,76,43,6,9,76,126,62,95,25,181,27,6,10,80,139,178,103,59,31,27,92,45,182,98,89,179,159,170,124,183,184,185,23,186,187,14,27,188,189,17,76,32,25,103,122,48,187,172,66,142,38,63,153,190,201,211,191,192,193,201,227,194,195,196,201,227,197,211,201,217,201,199,201,200,201,201,202,201,201,192,203,201,201,320,227,229,201,204,201,205,201,201,201,201,302,201,265,201,201,206,192,201,201,201,207,201,228,227,208,209,227,201,210,201,320,211,212,201,201,213,214,201,215,263,215,227,201,227,201,227,201,216,202,217,218,195,201,201,219,201,197,220,221,222,201,320,223,201,224,201,225,201,226,201,199,228,229,201,230,192,231,215,191,192,221,192,201,232,233,201,201,201,211,201,234,201,227,235,201,302,279,236,230,201,201,192,201,237,201,201,201,214,238,192,201,227,214,201,201,243,227,201,239,227,201,201,227,201,201,337,201,240,201,198,201,201,201,227,201,241,242,211,230,241,201,201,243,201,201,228,201,190,201,201,201,201,230,201,302,192,228,201,230,201,227,230,214,243,201,214,201,302,201,192,244,201,201,201,201,320,201,212,215,201,201,245,246,214,247,248,305,201,295,227,263,201,302,201,302,249,214,302,253,232,201,201,263,251,209,228,215,201,201,252,253,230,227,250,201,201,227,244,254,274,201,192,211,230,255,201,256,276,257,201,214,201,258,201,241,227,201,201,201,201,230,201,259,201,201,201,192,201,201,201,201,201,201,229,351,236,243,260,336,261,241,201,262,214,201,214,201,201,287,264,201,263,201,265,201,227,215,201,214,215,201,266,201,214,201,302,267,201,268,214,201,269,201,201,211,201,309,201,270,236,271,272,201,236,201,201,273,201,337,201,273,192,230,274,222,201,274,201,224,201,230,227,201,192,227,302,345,201,201,302,275,201,201,192,242,201,201,201,192,201,214,230,201,276,211,277,278,227,201,201,232,196,227,201,201,302,215,201,241,201,201,201,201,248,201,201,214,201,241,280,265,201,281,253,201,201,236,230,192,201,201,201,201,227,274,282,227,236,201,283,284,201,201,201,201,201,201,227,201,201,285,201,201,201,335,295,290,228,214,201,201,201,201,201,201,201,286,227,201,201,287,201,227,201,201,192,201,201,201,201,211,201,280,215,289,201,227,201,201,201,201,201,214,283,201,201,356,201,201,201,241,227,201,271,230,201,290,227,264,241,230,201,227,302,192,201,201,201,201,201,236,291,221,227,201,201,241,201,201,201,227,243,218,201,292,305,201,201,201,280,201,201,201,201,201,201,335,201,293,201,227,294,241,201,201,240,295,274,218,230,201,227,201,201,263,201,201,192,227,201,201,215,296,201,227,201,260,201,201,201,351,201,201,241,201,241,201,194,201,201,201,201,201,201,297,217,192,201,227,201,241,298,201,201,192,230,201,192,299,201,300,201,227,201,241,201,201,228,241,241,201,201,241,214,201,302,301,201,373,201,201,201,201,241,201,192,201,197,201,201,201,201,201,201,201,236,201,227,201,201,201,192,232,211,192,201,201,201,227,251,241,302,302,227,201,192,192,303,215,201,201,288,201,201,212,227,192,230,201,192,201,192,228,227,201,241,201,227,201,192,241,192,304,192,263,241,241,305,201,201,201,265,192,306,201,201,241,201,201,302,227,307,201,192,201,214,201,280,201,302,201,263,265,201,308,201,309,210,227,230,201,227,227,241,201,201,241,327,241,201,310,241,311,312,201,201,192,214,201,201,313,227,201,240,211,211,201,314,201,230,201,227,272,230,228,201,201,315,201,302,227,240,316,244,227,201,317,230,214,230,201,201,201,201,227,214,227,318,236,192,201,201,201,204,319,353,208,201,230,201,201,201,228,201,201,201,201,320,241,201,214,201,321,201,201,201,201,201,227,241,290,211,192,291,241,211,227,201,322,302,192,201,279,201,201,227,241,296,201,251,201,201,236,323,201,324,325,236,201,201,201,201,227,201,230,201,192,201,201,201,194,201,201,201,305,201,201,229,326,201,201,304,327,232,227,201,227,201,201,302,244,287,201,201,227,201,328,201,302,201,241,201,201,230,227,329,241,230,201,201,201,227,227,227,330,201,201,214,201,240,201,227,201,331,304,230,192,335,204,211,332,236,333,201,227,201,334,192,230,201,201,201,201,201,335,336,280,192,338,201,201,327,201,201,228,236,315,201,201,339,201,227,201,227,201,275,192,334,340,211,208,241,201,279,201,341,302,241,227,192,241,192,266,280,201,201,227,201,228,200,201,230,201,201,201,335,201,201,192,201,201,227,210,201,192,201,236,201,201,342,201,302,214,201,198,201,343,201,344,201,201,201,201,201,345,201,201,201,241,201,201,346,302,192,347,201,227,201,201,201,230,201,328,201,201,201,279,201,192,227,192,201,227,201,227,201,201,201,201,201,201,348,349,201,201,192,350,214,351,227,214,201,201,201,201,201,201,201,201,292,302,210,201,352,201,328,201,263,201,201,201,215,201,215,280,201,201,201,302,241,201,201,241,201,201,201,201,324,201,201,228,227,236,243,201,241,227,353,201,201,354,201,201,201,201,227,240,241,230,201,211,201,201,241,201,201,295,236,201,355,201,201,201,201,201,302,201,201,211,201,201,230,241,241,201,227,290,201,201,201,201,354,241,356,357,201,192,201,201,230,201,201,201,201,236,358,201,214,201,201,201,201,227,215,201,201,201,201,192,359,201,201,194,227,360,283,201,227,355,192,201,201,201,201,201,216,361,288,201,250,201,201,362,363,192,201,211,241,201,241,241,201,201,201,201,215,214,288,227,227,214,227,227,201,364,333,211,192,201,192,227,288,201,265,201,265,201,201,227,201,279,230,354,365,192,227,201,201,201,241,366,201,279,201,201,201,201,201,302,283,201,201,214,201,192,201,230,201,201,201,214,201,214,367,242,320,201,201,227,192,201,227,214,192,201,227,192,227,201,201,192,201,368,211,201,241,201,346,192,201,227,192,201,201,201,201,233,201,201,214,356,201,201,192,227,201,201,201,369,201,320,201,201,201,228,230,201,201,227,370,212,201,201,201,201,302,227,371,372,240,201,241,215,230,356,373,201,201,201,201,241,201,201,201,201,227,374,201,201,201,201,227,351,201,201,201,201,227,230,236,201,201,201,201,296,201,214,227,302,356,201,201,201,201,201,201,201,302,302,201,268,201,227,201,201,375,201,201,201,201,201,192,201,201,334,241,201,192,192,201,279,214,236,279,376,201,244,230,201,201,212,214,201,214,201,241,201,251,201,295,227,201,227,201,201,201,201,201,201,211,215,192,201,227,201,201,241,230,377,302,378,192,201,241,201,215,201,201,379,215,201,201,370,201,201,201,201,214,201,227,201,201,201
