@@ -20,6 +20,7 @@ def contains(list: list, item: any) -> bool:
             return True
     return False
 
+
 def remove_optional_quotes(word: str) -> str:
     """If the element 'word' begins with a quote(\"), delete that one and the last character (which should also be a quote) """
     if word[0] == '"':
@@ -75,4 +76,3 @@ print("Amount of plants:", len(plant_set))
 print("Invalid lines:", invalid)
 print("Refused Visitor:", refused)
 print("Invalid sci plant name:", not_a_plant)
-

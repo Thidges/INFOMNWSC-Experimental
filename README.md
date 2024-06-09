@@ -34,6 +34,7 @@ Everything else is quite the same as the installation steps for windows, but use
 - Type: `./biLouvain/src/biLouvain -i input/pollinator_edges.txt -d "," -ci 0.01 -cp 0.00001 -o  output/ResultsSingleRun` => The values after '-ci' and '-cp' can be changed. "pollinator_edges.txt" can be changed to "test.txt" if you want to see if the algorithm can just run.
 
 #### Running all our test cases:
+*Note:* This takes about 23 minutes!
 - Type: `./execute_all_cases.sh`
 
 

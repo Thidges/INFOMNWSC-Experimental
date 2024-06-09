@@ -9,14 +9,18 @@ input_file_name = "pollinator_edges.txt"
 all_cutoff_iterations = [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1]
 all_cutoff_phases = [0.0, 0.001]
 
+
 #%% The functions needed for making the bash file %%#
 def float_to_string(number: float) -> str:
     return str(number).replace('.', 'p')
 
+
 def generate_commandline(inputFileName: str, cutoff_iteration: float = 0.01, cutoff_phase: float = 0.0) -> str:
     test_prefix = "Test" if inputFileName == "test.txt" else ""
-    return (f"./biLouvain/src/biLouvain -i input/{inputFileName} -d \",\" -ci {cutoff_iteration} -cp {cutoff_phase} -o " +
-            f" output/{test_prefix}ResultsCt{float_to_string(cutoff_iteration)}Cp{float_to_string(cutoff_phase)}")
+    return (
+                f"./biLouvain/src/biLouvain -i input/{inputFileName} -d \",\" -ci {cutoff_iteration} -cp {cutoff_phase} -o " +
+                f" output/{test_prefix}ResultsCt{float_to_string(cutoff_iteration)}Cp{float_to_string(cutoff_phase)}")
+
 
 #%% The deleting of the old bash file and writing all of the command lines %%#
 if os.path.exists(commands_file_name):

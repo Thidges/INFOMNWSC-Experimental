@@ -9,6 +9,7 @@ import requests
 file_name = 'output/ResultsCt0p01Cp0p0\uf00d_ResultsCommunities.txt'
 community_file = open(file_name, encoding="utf-8-sig").read().splitlines()
 
+
 # helper function
 def get_family_name(genus):
     url = f"https://api.gbif.org/v1/species?name={genus}"
@@ -21,6 +22,7 @@ def get_family_name(genus):
                 return result['family']
 
     return None
+
 
 community_list = []
 
@@ -51,7 +53,6 @@ for community in community_list:
         genus = plant.split(' ')[0]
         all_genera.add(genus)
 
-
 dictionary_genus_family = dict()
 genus_name = "analyzed_results/genus_dictionary.txt"
 
@@ -77,6 +78,5 @@ for c_index in range(len(community_list_families)):
     for p_index in range(len(community_list_families[c_index])):
         genus = community_list_families[c_index][p_index].split(' ')[0]
         community_list_families[c_index][p_index] = dictionary_genus_family.get(genus)
-
 
 # TODO Comparing of the plant families
