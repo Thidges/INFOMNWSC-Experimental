@@ -37,28 +37,38 @@ print(list(enumerate(header))) # zodat je makkelijk kan zien welke index je nodi
 
 
 # Given a phase_cutoff, make a line graph with the iteration cutoff on the x-axis, and Murata+ on the y-axis.
-def make_line_plot(phase_cutoff: float) -> None:
+def make_line_plot(phase_cutoff: float, line_colour: str) -> None:
     # Filter to keep only the data with given phase cutoff.
     filtered_data = list(filter(lambda item: (item[1] == phase_cutoff), output_data))
     x_data = [item[0] for item in filtered_data]
     y_data = [item[2] for item in filtered_data]
-    plt.plot(x_data, y_data)
-    plt.xlabel("Iteration cutoff")
-    plt.xscale("log")
-    ticks = [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1]
-    plt.xticks(ticks)
 
-    plt.ylabel("Murata+ modularity")
-    # @Yanna, kan je weer zorgen voor dezelfde yticks?
-    plt.title("Murata+ modularity per iteration cutoff, with phase cutoff of " + str(phase_cutoff))
-    plt.show(dpi=360)
+    #x-axis
+    plt.xlabel("Iteration cutoff", fontsize = 22)
+    plt.xscale("log")
+    x_ticks = [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1]
+    plt.xticks(x_ticks, fontsize = 20)
+
+    #y-axis
+    plt.ylabel("Murata+ modularity", fontsize = 22)
+    #y_ticks = [0.590, 0.595, 0.600, 0.605, 0.610, 0.615, 0.620]
+    plt.yticks(fontsize = 22)
+
+    plt.title("Murata+ modularity per iteration cutoff, for two constant phase cutoff values")
+    plt.gcf().set_dpi(300)
+    line_label = f"Phase cutoff: {phase_cutoff}"
+    # Larger text font
+    plt.rc('font', size=22)
+    plt.plot(x_data, y_data, line_colour, label = line_label)
 
 
 # Graph 1: phase cutoff = 0.0
-make_line_plot(0.0)
-
+make_line_plot(0.0, "blue")
 # Graph 2: phase cutoff = 0.001
-make_line_plot(0.001)
+make_line_plot(0.001, "red")
+plt.legend(loc = 'best')
+plt.grid(alpha=0.5)
+plt.show()
 
 #%% LaTeX Table %%#
 table_name = "output/table_LaTeX.txt"
