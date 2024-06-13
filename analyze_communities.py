@@ -4,13 +4,14 @@ Used for identifying the communities from one of the output files and generating
 import ast
 import os
 import requests
+import numpy as np
 
 # File with the highest modularity
 file_name = 'output/ResultsCt0p01Cp0p0\uf00d_ResultsCommunities.txt'
 community_file = open(file_name, encoding="utf-8-sig").read().splitlines()
 
 
-# helper function
+# helper functions
 def get_family_name(genus):
     url = f"https://api.gbif.org/v1/species?name={genus}"
     response = requests.get(url)
@@ -22,6 +23,13 @@ def get_family_name(genus):
                 return result['family']
 
     return None
+
+def contains(list: list, item: any) -> bool:
+    """If the 'list' contains at least one element equal to 'item', return True."""
+    for li in list:
+        if li == item:
+            return True
+    return False
 
 
 community_list = []
@@ -46,7 +54,7 @@ while community_file[index] != "":
         community.append(plant)
     index += 1
 
-# create dictionary -> done only once, so the API won't be overloaded by our requests,
+#%% create dictionary -> done only once, so the API won't be overloaded by our requests,
 all_genera = set()
 for community in community_list:
     for plant in community:
@@ -69,14 +77,61 @@ if not dictionary_already_created:
     genus_file.write(str(list(dictionary_genus_family.items())))
     genus_file.close()
 
-else:
+else: # otherwise just read in the dictionary, what should normally happen
     dict_string = open(genus_name).read()
     dictionary_genus_family = dict(ast.literal_eval(dict_string))
 
+# make a copy of the communities, replace all plants with the families for comparing
 community_list_families = community_list.copy()
 for c_index in range(len(community_list_families)):
     for p_index in range(len(community_list_families[c_index])):
         genus = community_list_families[c_index][p_index].split(' ')[0]
         community_list_families[c_index][p_index] = dictionary_genus_family.get(genus)
 
-# TODO Comparing of the plant families
+
+# Comparing of the plant families
+all_families_set = set()
+for _, family in dictionary_genus_family.items():
+    all_families_set.add(family)
+
+print("Amount of families in the dataset:", len(all_families_set))
+
+#%% for remembering the most dominant community for each family
+count_community_nr_dict = dict()
+for family in all_families_set:
+    count_community_nr_dict.update({family: (0, -1)})
+
+for index, community in enumerate(community_list_families):
+    count_community_families = dict()
+
+    # count how many times each family is presented in this community
+    for family in community:
+        family_value = count_community_families.get(family)
+        if family_value == None:
+            count_community_families.update({family: 1})
+        else:
+            count_community_families.update({family: family_value + 1})
+
+    # for each family, check if this community has more family members than before
+    for family, amount in count_community_families.items():
+        old_count, _ = count_community_nr_dict.get(family)
+        if old_count < amount:
+            count_community_nr_dict.update({family: (amount, index)})
+
+print(count_community_nr_dict)
+
+#%% for each community, write down what the dominant families they have
+community_dominant_families = []
+for _ in range(len(community_list_families)):
+    community_dominant_families.append([])
+
+for family, (_, community_nr) in count_community_nr_dict.items():
+    community_dominant_families[community_nr].append(family)
+
+#%% Counting for the confusion matrix
+
+true_positive = 0
+false_positive = 0
+true_negative = 0
+false_negative = 0
+
