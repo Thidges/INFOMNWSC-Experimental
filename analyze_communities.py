@@ -5,6 +5,7 @@ import ast
 import os
 import requests
 import numpy as np
+import sklearn.metrics as sk
 
 # File with the highest modularity
 file_name = 'output/ResultsCt0p01Cp0p0\uf00d_ResultsCommunities.txt'
@@ -129,9 +130,48 @@ for family, (_, community_nr) in count_community_nr_dict.items():
     community_dominant_families[community_nr].append(family)
 
 #%% Counting for the confusion matrix
+def flatten_list_of_lists(xss):
+    return [x for xs in xss for x in xs]
 
-true_positive = 0
-false_positive = 0
-true_negative = 0
-false_negative = 0
+y_pred = []
+y_true = []
+for index, community in enumerate(community_list_families):
+    for member in community:
+        y_pred.append(index)
+        _, actual = count_community_nr_dict.get(member)
+        y_true.append(actual)
+
+accuracy = sk.accuracy_score(y_true, y_pred)
+precision = sk.precision_score(y_true, y_pred, average='macro')
+recall = sk.recall_score(y_true, y_pred, average='macro')
+f1_score = sk.f1_score(y_true, y_pred, average='macro')
+
+print("Accuracy:", accuracy)
+print("Macro Precision:", precision)
+print("Macro Recall:", recall)
+print("Macro F1_score:", f1_score)
+
+accuracy = sk.accuracy_score(y_true, y_pred)
+precision = sk.precision_score(y_true, y_pred, average='weighted')
+recall = sk.recall_score(y_true, y_pred, average='weighted')
+f1_score = sk.f1_score(y_true, y_pred, average='weighted')
+
+print("Accuracy:", accuracy)
+print("Average Precision:", precision)
+print("Average Recall:", recall)
+print("Average F1_score:", f1_score)
+
+tn, fp, fn, tp = sk.confusion_matrix(y_true, y_pred, labels=[range(len(community_list_families))]).ravel()
+print("True positive:", tp)
+print("False positive:", fp)
+print("True negative:", tn)
+print("False negative:", fn)
+# true_positive = 0
+# false_positive = 0
+# true_negative = 0
+# false_negative = 0
+# accuracy = (true_positive + true_negative) / (true_positive + true_negative + false_positive + false_negative)
+# precision = true_negative / (true_positive + false_positive)
+# recall = true_negative / (true_positive + false_negative)
+# f1_score = 2 * (precision * recall) / (precision + recall)
 
