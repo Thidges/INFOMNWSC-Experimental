@@ -119,8 +119,6 @@ for index, community in enumerate(community_list_families):
         if old_count < amount:
             count_community_nr_dict.update({family: (amount, index)})
 
-print(count_community_nr_dict)
-
 #%% for each community, write down what the dominant families they have
 community_dominant_families = []
 for _ in range(len(community_list_families)):
@@ -161,17 +159,8 @@ print("Average Precision:", precision)
 print("Average Recall:", recall)
 print("Average F1_score:", f1_score)
 
-tn, fp, fn, tp = sk.confusion_matrix(y_true, y_pred, labels=[range(len(community_list_families))]).ravel()
-print("True positive:", tp)
-print("False positive:", fp)
-print("True negative:", tn)
-print("False negative:", fn)
-# true_positive = 0
-# false_positive = 0
-# true_negative = 0
-# false_negative = 0
-# accuracy = (true_positive + true_negative) / (true_positive + true_negative + false_positive + false_negative)
-# precision = true_negative / (true_positive + false_positive)
-# recall = true_negative / (true_positive + false_negative)
-# f1_score = 2 * (precision * recall) / (precision + recall)
-
+#%% For checking the community sizes %%#
+count_list = np.sort(np.array([len(com) for com in community_list_families]))[::-1]
+print("Community sizes:", count_list)
+print("Average community size:", sum(count_list) / len(count_list))
+print("Amount of communities:", len(count_list))

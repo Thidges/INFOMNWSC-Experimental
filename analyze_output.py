@@ -91,7 +91,6 @@ table.write("\\hline\n")
 # foreach scenario
 for line in swap_adjacent_elements(output_data):
     table.write(f"{line[0]} & {line[1]} & {line[2]}  \\\\\n")
-    # table.write("\\hline\n")
 
 table.write("\\hline\n")
 table.write("\\end{tabular}")
