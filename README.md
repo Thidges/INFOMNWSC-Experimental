@@ -46,4 +46,4 @@ You won't have to run the python scripts, but still a short explanation in chron
 - `input_prep.py` Used to make the original network graph from the .csv file from 'Center for Plant Conservation', into one that we can use for the biLouvain algorithm.
 - `algorithm_prep.py` Used for making a .sh (bash) file that can optionally run the algorithm several times (all the testcases).
 - `analyze_output.py` Used for reading the modularity from the output and generating the graph and table that is being used in the paper.
-- `analyze_communities.py` WIP: Used for identifying the communities from one of the output files and generating the statistical analysis values.
+- `analyze_communities.py` Used for identifying the communities from one of the output files and generating the statistical analysis values: both the classification metrics as the confusion matrix.

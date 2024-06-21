@@ -161,6 +161,8 @@ print("Average F1_score:", f1_score)
 
 #%% For checking the community sizes %%#
 count_list = np.sort(np.array([len(com) for com in community_list_families]))[::-1]
+confusion_matrix = sk.confusion_matrix(y_true, y_pred)
+print("Confusion matrix:", confusion_matrix)
 print("Community sizes:", count_list)
 print("Average community size:", sum(count_list) / len(count_list))
 print("Amount of communities:", len(count_list))
