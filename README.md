@@ -23,7 +23,8 @@ Linux doesn't need to install anypackage and already has the needed components i
 - Type `make` and hit enter. (if that doesn't work, install the 'make' package first).
 
 #### For MacOS
-Both of us don't have a Mac, so we're not entirely sure. Install a [similar package manager like Cygwin](https://alternativeto.net/software/cygwin/?platform=mac).  
+Both of us don't have a Mac, so we're not entirely sure. But in principle, MacOS has the same instruction as Linux.  
+However, does that not work: install a [similar package manager like Cygwin](https://alternativeto.net/software/cygwin/?platform=mac).  
 Everything else is quite the same as the installation steps for windows, but use your own package manager instead of Cygwin.
 
 # Running the algorithm
